@@ -1,0 +1,10 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+{{ if eq (getenv "HUGO_ENV") "production" | or (eq .Site.Params.env "production")  }}
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MP0P5VS342"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-MP0P5VS342');
+</script>
+{{ end }}
