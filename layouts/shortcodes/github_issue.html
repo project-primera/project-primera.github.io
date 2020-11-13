@@ -1,0 +1,9 @@
+{{- $repository := .Get "repository" -}}
+{{- if not $repository -}}
+  {{ errorf "missing value for param 'repository': ％s" .Position }}
+{{- end -}}
+{{- $id := .Get "id" -}}
+{{- if not $id -}}
+  {{ errorf "missing value for param 'id': ％s" .Position }}
+{{- end -}}
+<a href="https://github.com/{{ $repository }}/issues/{{ $id }}" target="_blank">{{ $repository }} issue #{{ $id }}</a>
