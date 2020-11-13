@@ -1,0 +1,38 @@
+languageCode: "en-us"
+baseUrl: "https://project-primera.github.io"
+title: "Project Primera Blog"
+theme: "anubis"
+paginate: 10
+enableRobotsTXT: true
+
+menu:
+  main:
+  - identifier: archive
+    name: Archive
+    title: Archive
+    url: /posts/
+    weight: 1
+  - identifier: categories
+    name: Categories
+    title: Categories
+    url: /categories/
+    weight: 2
+  - identifier: tags
+    name: Tags
+    title: Tags
+    url: /tags/
+    weight: 3
+
+
+params:
+  author: "Project Primera Developer Team"
+  description: "Project Primeraが開発運営を行うツールのアナウンスを行います。"
+  dateFormat: "2006-01-02"
+  paginationSinglePost: true
+  style: light-without-switcher
+  readMore: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: false
