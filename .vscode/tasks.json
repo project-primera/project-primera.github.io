@@ -15,6 +15,32 @@
         "isDefault": true
       },
       "problemMatcher": []
+    },
+    {
+      "label": "post: ongeki-score-log-bug",
+      "detail": "Create post from archetypes/ongeki-score-log-bug.",
+      "type": "shell",
+      "command": "hugo",
+      "args": [
+        "new",
+        "posts/${input:directory}/${input:name}.md",
+        "--kind=ongeki-score-log-bug"
+      ],
+      "problemMatcher": []
+    },
+  ],
+  "inputs": [
+    {
+      "id": "directory",
+      "description": "Post directory:",
+      "default": "0000/00/00",
+      "type": "promptString"
+    },
+    {
+      "id": "name",
+      "description": "Post name:",
+      "default": "",
+      "type": "promptString"
     }
   ]
 }
