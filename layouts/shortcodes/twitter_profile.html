@@ -1,0 +1,5 @@
+{{- $id := .Get "id" -}}
+{{- if not $id -}}
+  {{ errorf "missing value for param 'id': ％s" .Position }}
+{{- end -}}
+<a href="https://twitter.com/{{ $id }}" target="_blank">@{{ $id }}</a>
