@@ -1,7 +1,12 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>不具合 on Project Primera Blog</title><link>https://project-primera.github.io/tags/%E4%B8%8D%E5%85%B7%E5%90%88/</link><description>Project Primera Blog (不具合)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 14 Nov 2020 02:10:15 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/tags/%E4%B8%8D%E5%85%B7%E5%90%88/index.xml" rel="self" type="application/rss+xml"/><item><title>[OngekiScoreLog]不具合情報 ロボットプラネットユートピアがレーティング対象曲に含まれない</title><link>https://project-primera.github.io/posts/2020/11/14/robot-planet-utopia-is-not-included-in-the-rating/</link><pubDate>Sat, 14 Nov 2020 02:10:15 +0900</pubDate><guid>https://project-primera.github.io/posts/2020/11/14/robot-planet-utopia-is-not-included-in-the-rating/</guid><description>&lt;p>OngekiScoreLogをご利用いただきありがとうございます。&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>不具合 on Project Primera Blog</title><link>https://project-primera.github.io/tags/%E4%B8%8D%E5%85%B7%E5%90%88/</link><description>Project Primera Blog (不具合)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 14 Nov 2020 02:10:15 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/tags/%E4%B8%8D%E5%85%B7%E5%90%88/index.xml" rel="self" type="application/rss+xml"/><item><title>【追記 2020/11/20】[OngekiScoreLog]不具合情報 ロボットプラネットユートピアがレーティング対象曲に含まれない</title><link>https://project-primera.github.io/posts/2020/11/14/robot-planet-utopia-is-not-included-in-the-rating/</link><pubDate>Sat, 14 Nov 2020 02:10:15 +0900</pubDate><guid>https://project-primera.github.io/posts/2020/11/14/robot-planet-utopia-is-not-included-in-the-rating/</guid><description>&lt;p>OngekiScoreLogをご利用いただきありがとうございます。&lt;br>
 現在以下の不具合を確認しております。&lt;/p>
 &lt;!-- raw HTML omitted -->
 &lt;!-- raw HTML omitted -->
+&lt;h2 id="追記-20201120">追記 2020/11/20&lt;/h2>
+&lt;p>こちらの不具合に関しまして、暫定対応としてロボットプラネットユートピアをレーティング対象とする変更をいたしました。&lt;br>
+これにより、ルナティック譜面がレーティングに含まれる不具合が発生いたします。&lt;/p>
+&lt;p>ロボットプラネットユートピアが新曲枠に入る条件といたしまして、新曲枠が埋まっていない状態で該当の譜面をプレイするという発生頻度が低い状況となることから変更をさせていただきました。&lt;br>
+該当のユーザーにはご迷惑をおかけいたしますが、ご理解賜りますようお願い申し上げます。&lt;/p>
 &lt;h2 id="不具合内容">不具合内容&lt;/h2>
 &lt;p>ロボットプラネットユートピアが「レーティング対象曲」や「レーティング対象外 候補曲」に含まれず、計算結果に誤りが生じる。&lt;/p>
 &lt;h2 id="発生期間">発生期間&lt;/h2>
