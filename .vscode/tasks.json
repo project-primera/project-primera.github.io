@@ -17,6 +17,18 @@
       "problemMatcher": []
     },
     {
+      "label": "post: add-music-extra-level",
+      "detail": "Create post from archetypes/add-music-extra-level.",
+      "type": "shell",
+      "command": "hugo",
+      "args": [
+        "new",
+        "posts/${input:directory}/add-music-extra-level.md",
+        "--kind=add-music-extra-level"
+      ],
+      "problemMatcher": []
+    },
+    {
       "label": "post: ongeki-score-log-bug",
       "detail": "Create post from archetypes/ongeki-score-log-bug.",
       "type": "shell",
