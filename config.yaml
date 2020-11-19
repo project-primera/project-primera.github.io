@@ -4,6 +4,7 @@ title: "Project Primera Blog"
 theme: "anubis"
 paginate: 10
 enableRobotsTXT: true
+enableGitInfo: true
 
 menu:
   main:
