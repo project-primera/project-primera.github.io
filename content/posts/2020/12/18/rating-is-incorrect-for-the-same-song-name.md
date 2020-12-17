@@ -1,7 +1,7 @@
 ---
 title: "[OngekiScoreLog]不具合情報 同名の楽曲がレーティング対象曲となると正しい値が表示されない"
 date: 2020-12-18T00:15:13+09:00
-draft: true
+draft: false
 
 tags: ["不具合", "OngekiScoreLog_issue_open"]
 categories: ["OngekiScoreLog"]
