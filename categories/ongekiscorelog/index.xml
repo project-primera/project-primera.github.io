@@ -1,4 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OngekiScoreLog on Project Primera Blog</title><link>https://project-primera.github.io/categories/ongekiscorelog/</link><description>Project Primera Blog (OngekiScoreLog)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 18 Dec 2020 00:15:13 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/categories/ongekiscorelog/index.xml" rel="self" type="application/rss+xml"/><item><title>[OngekiScoreLog]不具合情報 同名の楽曲がレーティング対象曲となると正しい値が表示されない</title><link>https://project-primera.github.io/posts/2020/12/18/rating-is-incorrect-for-the-same-song-name/</link><pubDate>Fri, 18 Dec 2020 00:15:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2020/12/18/rating-is-incorrect-for-the-same-song-name/</guid><description>&lt;p>OngekiScoreLogをご利用いただきありがとうございます。&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OngekiScoreLog on Project Primera Blog</title><link>https://project-primera.github.io/categories/ongekiscorelog/</link><description>Project Primera Blog (OngekiScoreLog)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 01:00:27 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/categories/ongekiscorelog/index.xml" rel="self" type="application/rss+xml"/><item><title>譜面定数反映のお知らせ（2020-12-23）</title><link>https://project-primera.github.io/posts/2020/12/23/add-music-extra-level/</link><pubDate>Wed, 23 Dec 2020 01:00:27 +0900</pubDate><guid>https://project-primera.github.io/posts/2020/12/23/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
+以下の譜面定数を反映いたしました。&lt;/p>
+&lt;h2 id="新規追加">新規追加&lt;/h2>
+&lt;h3 id="expert">Expert&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">曲名&lt;/th>
+&lt;th style="text-align:center">レベル&lt;/th>
+&lt;th style="text-align:center">譜面定数&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">Singularity&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="データの出典元">データの出典元&lt;/h2>
+&lt;blockquote class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1341280549256642561">Tweet: 1341280549256642561&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;h2 id="データの提供者">データの提供者&lt;/h2>
+&lt;a href="https://twitter.com/Rinsaku471" target="_blank">@Rinsaku471&lt;/a>
+&lt;p>（敬称略）&lt;br>
+ご提供いただき誠にありがとうございます。&lt;/p>
+&lt;p>引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>[OngekiScoreLog]不具合情報 同名の楽曲がレーティング対象曲となると正しい値が表示されない</title><link>https://project-primera.github.io/posts/2020/12/18/rating-is-incorrect-for-the-same-song-name/</link><pubDate>Fri, 18 Dec 2020 00:15:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2020/12/18/rating-is-incorrect-for-the-same-song-name/</guid><description>&lt;p>OngekiScoreLogをご利用いただきありがとうございます。&lt;br>
 現在以下の不具合を確認しております。&lt;/p>
 &lt;!-- raw HTML omitted -->
 &lt;!-- raw HTML omitted -->
