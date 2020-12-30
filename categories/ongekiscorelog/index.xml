@@ -133,12 +133,13 @@ If it does not load properly, it may have been made private or deleted.
 ご提供いただき誠にありがとうございます。&lt;/p>
 &lt;p>引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>[OngekiScoreLog]不具合情報 同名の楽曲がレーティング対象曲となると正しい値が表示されない</title><link>https://project-primera.github.io/posts/2020/12/18/rating-is-incorrect-for-the-same-song-name/</link><pubDate>Fri, 18 Dec 2020 00:15:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2020/12/18/rating-is-incorrect-for-the-same-song-name/</guid><description>&lt;p>OngekiScoreLogをご利用いただきありがとうございます。&lt;br>
 現在以下の不具合を確認しております。&lt;/p>
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
+&lt;h2 id="追記">追記&lt;/h2>
+&lt;p>本不具合の修正が完了いたしました。&lt;br>
+ご利用中の皆様にご迷惑をおかけしましたことを深くお詫び申し上げます。&lt;/p>
 &lt;h2 id="不具合内容">不具合内容&lt;/h2>
 &lt;p>「Hand in Hand」や「Singularity」など、同じ名前の楽曲がレーティング対象として存在すると正しいレーティング値が算出されない&lt;/p>
 &lt;h2 id="発生期間">発生期間&lt;/h2>
-&lt;p>2020/12/18 11:00 ～&lt;/p>
+&lt;p>2020/12/18 11:00 ～ 2020/12/31 2:12&lt;/p>
 &lt;h2 id="本不具合に該当するユーザー">本不具合に該当するユーザー&lt;/h2>
 &lt;p>以下のいずれかを満たす方&lt;/p>
 &lt;ul>
