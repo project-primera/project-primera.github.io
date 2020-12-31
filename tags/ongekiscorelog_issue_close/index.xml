@@ -1,4 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OngekiScoreLog_issue_close on Project Primera Blog</title><link>https://project-primera.github.io/tags/ongekiscorelog_issue_close/</link><description>Project Primera Blog (OngekiScoreLog_issue_close)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 18 Dec 2020 00:15:13 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/tags/ongekiscorelog_issue_close/index.xml" rel="self" type="application/rss+xml"/><item><title>[OngekiScoreLog]不具合情報 同名の楽曲がレーティング対象曲となると正しい値が表示されない</title><link>https://project-primera.github.io/posts/2020/12/18/rating-is-incorrect-for-the-same-song-name/</link><pubDate>Fri, 18 Dec 2020 00:15:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2020/12/18/rating-is-incorrect-for-the-same-song-name/</guid><description>&lt;p>OngekiScoreLogをご利用いただきありがとうございます。&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OngekiScoreLog_issue_close on Project Primera Blog</title><link>https://project-primera.github.io/tags/ongekiscorelog_issue_close/</link><description>Project Primera Blog (OngekiScoreLog_issue_close)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 31 Dec 2020 11:12:37 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/tags/ongekiscorelog_issue_close/index.xml" rel="self" type="application/rss+xml"/><item><title>[OngekiScoreLog]不具合情報 ブックマークレットが正しく実行されない</title><link>https://project-primera.github.io/posts/2020/12/31/bookmarklet-does-not-work/</link><pubDate>Thu, 31 Dec 2020 11:12:37 +0900</pubDate><guid>https://project-primera.github.io/posts/2020/12/31/bookmarklet-does-not-work/</guid><description>&lt;p>OngekiScoreLogをご利用いただきありがとうございます。&lt;br>
+以下の不具合が発生しておりました。&lt;/p>
+&lt;h2 id="不具合内容">不具合内容&lt;/h2>
+&lt;p>ブックマークレットを実行すると、「メンテナンス中」と表示されデータが送信できない&lt;/p>
+&lt;h2 id="発生期間">発生期間&lt;/h2>
+&lt;p>2020/12/31 2:12 ～ 2020/12/31 11:08&lt;/p>
+&lt;h2 id="本不具合に該当するユーザー">本不具合に該当するユーザー&lt;/h2>
+&lt;p>すべてのユーザー&lt;/p>
+&lt;p>現在は不具合の修正が完了しております。&lt;br>
+この度はご迷惑をおかけし、誠に申し訳ございません。&lt;br>
+引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>[OngekiScoreLog]不具合情報 同名の楽曲がレーティング対象曲となると正しい値が表示されない</title><link>https://project-primera.github.io/posts/2020/12/18/rating-is-incorrect-for-the-same-song-name/</link><pubDate>Fri, 18 Dec 2020 00:15:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2020/12/18/rating-is-incorrect-for-the-same-song-name/</guid><description>&lt;p>OngekiScoreLogをご利用いただきありがとうございます。&lt;br>
 現在以下の不具合を確認しております。&lt;/p>
 &lt;h2 id="追記">追記&lt;/h2>
 &lt;p>本不具合の修正が完了いたしました。&lt;br>
