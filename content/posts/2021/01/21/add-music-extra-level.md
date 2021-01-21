@@ -19,6 +19,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | 曲名 | レベル | 譜面定数 |
 |:-:|:-:|:-:|
 | Climax | 14 | 14.6 |
+| ツギハギスタッカート | 12 | 12.6 |
 | タイムマシン | 12 | 12.1 |
 
 <!-- ### Expert
@@ -30,11 +31,13 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 {{< tweet 1352031702978183170 >}}
 {{< tweet 1352041530555473920 >}}
+{{< tweet 1352109623256309766 >}}
 
 ## データの提供者
 
 {{< twitter_profile id="mayonnaiseyaki" >}}
 {{< twitter_profile id="hinajigoku" >}}
+{{< twitter_profile id="wakaru1124" >}}
 
 （順不同　敬称略）  
 ご提供いただき誠にありがとうございます。
