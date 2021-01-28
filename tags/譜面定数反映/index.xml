@@ -45,8 +45,28 @@
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
+&lt;h3 id="expert">Expert&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">曲名&lt;/th>
+&lt;th style="text-align:center">レベル&lt;/th>
+&lt;th style="text-align:center">譜面定数&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">カナリア&lt;/td>
+&lt;td style="text-align:center">11+&lt;/td>
+&lt;td style="text-align:center">11.9&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">STORIA&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
 &lt;p>&lt;blockquote class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1354696812892852227">Tweet: 1354696812892852227&lt;/a>&lt;br>
@@ -62,6 +82,10 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
 &lt;blockquote class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1354742491828817922">Tweet: 1354742491828817922&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1354753775055982594">Tweet: 1354753775055982594&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
 &lt;h2 id="データの提供者">データの提供者&lt;/h2>
