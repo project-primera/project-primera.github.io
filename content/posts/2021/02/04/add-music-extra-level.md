@@ -1,7 +1,7 @@
 ---
 title: "譜面定数反映のお知らせ（2021-02-04）"
 date: 2021-02-04T13:54:42+09:00
-draft: true
+draft: false
 
 tags: ["譜面定数反映"]
 categories: ["OngekiScoreLog"]
