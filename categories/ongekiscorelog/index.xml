@@ -28,6 +28,28 @@
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
+&lt;h3 id="expert">Expert&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">曲名&lt;/th>
+&lt;th style="text-align:center">レベル&lt;/th>
+&lt;th style="text-align:center">譜面定数&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">吉原ラメント&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.9&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">スクランブル交際&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
 &lt;p>&lt;blockquote class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1359635151248969729">Tweet: 1359635151248969729&lt;/a>&lt;br>
@@ -36,10 +58,15 @@ If it does not load properly, it may have been made private or deleted.
 &lt;blockquote class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1359651859598692353">Tweet: 1359651859598692353&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1359863689667510275">Tweet: 1359863689667510275&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
 &lt;h2 id="データの提供者">データの提供者&lt;/h2>
 &lt;p>&lt;a href="https://twitter.com/46189_ext" target="_blank">@46189_ext&lt;/a>
-&lt;a href="https://twitter.com/hinajigoku" target="_blank">@hinajigoku&lt;/a>&lt;/p>
+&lt;a href="https://twitter.com/hinajigoku" target="_blank">@hinajigoku&lt;/a>
+&lt;a href="https://twitter.com/hikkey7th" target="_blank">@hikkey7th&lt;/a>&lt;/p>
 &lt;p>（順不同　敬称略）&lt;br>
 ご提供いただき誠にありがとうございます。&lt;/p>
 &lt;p>引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>譜面定数反映のお知らせ（2021-02-10）</title><link>https://project-primera.github.io/posts/2021/02/10/add-music-extra-level/</link><pubDate>Wed, 10 Feb 2021 20:13:59 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/02/10/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
