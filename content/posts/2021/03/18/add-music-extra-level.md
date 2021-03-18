@@ -19,6 +19,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | 曲名 | レベル | 譜面定数 |
 |:-:|:-:|:-:|
 | Viyella's Scream | 14+ | 14.8 |
+| larva | 14 | 14.6 |
 | サクライロフワリ | 13 | 13.0 |
 | 藍の華 | 13+ | 13.7 |
 
@@ -37,6 +38,8 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 {{< tweet 1372366399138529281 >}}
 {{< tweet 1372489922947424259 >}}
 {{< tweet 1372490205995753475 >}}
+{{< tweet 1372490205995753475 >}}
+※"larva"の譜面定数
 
 ## データの提供者
 
@@ -44,6 +47,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 {{< twitter_profile id="chanyumeeee" >}}
 {{< twitter_profile id="46189_ext" >}}
 {{< twitter_profile id="hikkey7th" >}}
+{{< twitter_profile id="Rinsaku471" >}}
 
 （順不同　敬称略）  
 ご提供いただき誠にありがとうございます。
