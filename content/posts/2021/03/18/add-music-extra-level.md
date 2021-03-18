@@ -31,11 +31,13 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 ## データの出典元
 
 {{< tweet 1372326891927965696 >}}
+{{< tweet 1372326957665243136 >}}
 {{< tweet 1372366399138529281 >}}
 
 ## データの提供者
 
 {{< twitter_profile id="mayonnaiseyaki" >}}
+{{< twitter_profile id="chanyumeeee" >}}
 {{< twitter_profile id="46189_ext" >}}
 
 （順不同　敬称略）  
