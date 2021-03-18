@@ -35,11 +35,10 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 {{< tweet 1372326891927965696 >}}
 {{< tweet 1372326957665243136 >}}
+{{< tweet 1372337443442106371 >}}
 {{< tweet 1372366399138529281 >}}
 {{< tweet 1372489922947424259 >}}
 {{< tweet 1372490205995753475 >}}
-{{< tweet 1372602140766531589 >}}
-※"larva"の譜面定数
 
 ## データの提供者
 
@@ -47,7 +46,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 {{< twitter_profile id="chanyumeeee" >}}
 {{< twitter_profile id="46189_ext" >}}
 {{< twitter_profile id="hikkey7th" >}}
-{{< twitter_profile id="Rinsaku471" >}}
+{{< twitter_profile id="suoineau_ac" >}}
 
 （順不同　敬称略）  
 ご提供いただき誠にありがとうございます。
