@@ -27,18 +27,23 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | 曲名 | レベル | 譜面定数 |
 |:-:|:-:|:-:|
 | Viyella's Scream | 13 | 13.6 |
+| larva | 12+ | 12.7 |
+| 藍の華 | 10+ | 10.7 |
 
 ## データの出典元
 
 {{< tweet 1372326891927965696 >}}
 {{< tweet 1372326957665243136 >}}
 {{< tweet 1372366399138529281 >}}
+{{< tweet 1372489922947424259 >}}
+{{< tweet 1372490205995753475 >}}
 
 ## データの提供者
 
 {{< twitter_profile id="mayonnaiseyaki" >}}
 {{< twitter_profile id="chanyumeeee" >}}
 {{< twitter_profile id="46189_ext" >}}
+{{< twitter_profile id="hikkey7th" >}}
 
 （順不同　敬称略）  
 ご提供いただき誠にありがとうございます。
