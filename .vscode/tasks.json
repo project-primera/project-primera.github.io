@@ -40,6 +40,18 @@
       ],
       "problemMatcher": []
     },
+    {
+      "label": "post: ongeki-score-log-maintenance",
+      "detail": "Create post from archetypes/ongeki-score-log-maintenance.",
+      "type": "shell",
+      "command": "hugo",
+      "args": [
+        "new",
+        "posts/${input:directory}/maintenance.md",
+        "--kind=ongeki-score-log-maintenance"
+      ],
+      "problemMatcher": []
+    },
   ],
   "inputs": [
     {
