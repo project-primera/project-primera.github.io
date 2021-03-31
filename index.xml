@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project Primera Blog</title><link>https://project-primera.github.io/</link><description>Project Primera Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 22 Mar 2021 16:10:26 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>[OngekiScoreLog]メンテナンス情報（2021-03-31）</title><link>https://project-primera.github.io/posts/2021/03/22/maintenance/</link><pubDate>Mon, 22 Mar 2021 16:10:26 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/03/22/maintenance/</guid><description>&lt;p>平素より当ツールをご利用いただきまして誠にありがとうございます。スコア取得元のバージョンアップへの対応のため、以下のスケジュールでメンテナンスを行います。&lt;br>
 当日は以下の日時までにスコア登録を行いますようお願いいたします。&lt;/p>
+&lt;h2 id="追記-20210401-110">追記: 2021/04/01 1:10&lt;/h2>
+&lt;p>2021/04/01 1:10にメンテナンスを終了いたしました。&lt;br>
+スコア登録ができる状態となっております。&lt;/p>
+&lt;p>なお、譜面定数に関しましては、すべてリセットを行っております。&lt;br>
+反映までしばらくお待ちください。&lt;/p>
 &lt;h2 id="追記-20210331-330">追記: 2021/03/31 3:30&lt;/h2>
 &lt;p>2021/03/31 03:21よりメンテナンスを開始いたしました。&lt;br>
 メンテナンス中はスコア登録を含むブックマークレット実行がご利用いただけません。&lt;br>
