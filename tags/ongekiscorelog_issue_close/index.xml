@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OngekiScoreLog_issue_close on Project Primera Blog</title><link>https://project-primera.github.io/tags/ongekiscorelog_issue_close/</link><description>Project Primera Blog (OngekiScoreLog_issue_close)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 31 Dec 2020 11:12:37 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/tags/ongekiscorelog_issue_close/index.xml" rel="self" type="application/rss+xml"/><item><title>[OngekiScoreLog]不具合情報 ブックマークレットが正しく実行されない</title><link>https://project-primera.github.io/posts/2020/12/31/bookmarklet-does-not-work/</link><pubDate>Thu, 31 Dec 2020 11:12:37 +0900</pubDate><guid>https://project-primera.github.io/posts/2020/12/31/bookmarklet-does-not-work/</guid><description>&lt;p>OngekiScoreLogをご利用いただきありがとうございます。&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OngekiScoreLog_issue_close on Project Primera Blog</title><link>https://project-primera.github.io/tags/ongekiscorelog_issue_close/</link><description>Project Primera Blog (OngekiScoreLog_issue_close)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 02 Apr 2021 02:58:49 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/tags/ongekiscorelog_issue_close/index.xml" rel="self" type="application/rss+xml"/><item><title>[OngekiScoreLog]不具合情報 - 同じ楽曲名／同じジャンル名を同時に満たす楽曲が処理できない</title><link>https://project-primera.github.io/posts/2021/04/02/same-song-name-and-genre-name-will-cause-error/</link><pubDate>Fri, 02 Apr 2021 02:58:49 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/04/02/same-song-name-and-genre-name-will-cause-error/</guid><description>&lt;p>OngekiScoreLogをご利用いただきありがとうございます。&lt;br>
+以下の不具合を確認しておりました。&lt;br>
+現在は修正が完了しております。&lt;/p>
+&lt;h2 id="不具合内容">不具合内容&lt;/h2>
+&lt;p>同じ楽曲名／同じジャンル名を同時に満たす楽曲が処理できない&lt;/p>
+&lt;h2 id="発生期間">発生期間&lt;/h2>
+&lt;p>2021/04/01 7:00 - 2021/04/02 3:50&lt;/p>
+&lt;h2 id="本不具合に該当するユーザー">本不具合に該当するユーザー&lt;/h2>
+&lt;p>すべてのユーザー&lt;/p>
+&lt;h2 id="対象のgithub-issue">対象のGitHub Issue&lt;/h2>
+&lt;a href="https://github.com/project-primera/ongeki-score/issues/367" target="_blank">project-primera/ongeki-score issue #367&lt;/a>
+&lt;p>この度はご迷惑をおかけし、誠に申し訳ございません。&lt;br>
+引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>[OngekiScoreLog]不具合情報 ブックマークレットが正しく実行されない</title><link>https://project-primera.github.io/posts/2020/12/31/bookmarklet-does-not-work/</link><pubDate>Thu, 31 Dec 2020 11:12:37 +0900</pubDate><guid>https://project-primera.github.io/posts/2020/12/31/bookmarklet-does-not-work/</guid><description>&lt;p>OngekiScoreLogをご利用いただきありがとうございます。&lt;br>
 以下の不具合が発生しておりました。&lt;/p>
 &lt;h2 id="不具合内容">不具合内容&lt;/h2>
 &lt;p>ブックマークレットを実行すると、「メンテナンス中」と表示されデータが送信できない&lt;/p>
