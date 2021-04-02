@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>不具合 on Project Primera Blog</title><link>https://project-primera.github.io/tags/%E4%B8%8D%E5%85%B7%E5%90%88/</link><description>Project Primera Blog (不具合)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 02 Apr 2021 02:58:49 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/tags/%E4%B8%8D%E5%85%B7%E5%90%88/index.xml" rel="self" type="application/rss+xml"/><item><title>[OngekiScoreLog]不具合情報 - 同じ楽曲名／同じジャンル名を同時に満たす楽曲が処理できない</title><link>https://project-primera.github.io/posts/2021/04/02/same-song-name-and-genre-name-will-cause-error/</link><pubDate>Fri, 02 Apr 2021 02:58:49 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/04/02/same-song-name-and-genre-name-will-cause-error/</guid><description>&lt;p>OngekiScoreLogをご利用いただきありがとうございます。&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>不具合 on Project Primera Blog</title><link>https://project-primera.github.io/tags/%E4%B8%8D%E5%85%B7%E5%90%88/</link><description>Project Primera Blog (不具合)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 02 Apr 2021 15:21:25 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/tags/%E4%B8%8D%E5%85%B7%E5%90%88/index.xml" rel="self" type="application/rss+xml"/><item><title>[OngekiScoreLog]不具合情報 Glitter-Glitterが重複して登録されてしまう</title><link>https://project-primera.github.io/posts/2021/04/02/glitter-glitter/</link><pubDate>Fri, 02 Apr 2021 15:21:25 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/04/02/glitter-glitter/</guid><description>&lt;p>OngekiScoreLogをご利用いただきありがとうございます。&lt;br>
+以下の不具合を確認しておりました。&lt;br>
+現在は修正が完了しております。&lt;/p>
+&lt;h2 id="不具合内容">不具合内容&lt;/h2>
+&lt;p>「GlitterGlitter」と「Glitter-Glitter」が重複して登録されてしまう&lt;/p>
+&lt;h2 id="発生期間">発生期間&lt;/h2>
+&lt;p>2021/04/01 7:00 - 2021/04/02 11:15&lt;/p>
+&lt;h2 id="本不具合に該当するユーザー">本不具合に該当するユーザー&lt;/h2>
+&lt;p>上記期間にスコア登録を行ったユーザー&lt;/p>
+&lt;h2 id="対応内容">対応内容&lt;/h2>
+&lt;ul>
+&lt;li>楽曲データを「GlitterGlitter」から「Glitter-Glitter」に変更いたしました&lt;/li>
+&lt;li>変更前の「Glitter-Glitter」としてスコア登録を行っていた方の該当データを削除いたしました&lt;/li>
+&lt;li>称号データを「GlitterGlitter」から「Glitter-Glitter」に変更いたしました。&lt;/li>
+&lt;li>変更前の「Glitter-Glitter」として称号を獲得していた方の該当データを削除いたしました&lt;/li>
+&lt;/ul>
+&lt;h3 id="該当時間にスコア登録を行っていない方">該当時間にスコア登録を行っていない方&lt;/h3>
+&lt;p>データはすべて引き継がれておりますので、追加の対応は必要ありません。&lt;/p>
+&lt;h3 id="スコア登録を行いglitter-glitterのスコアを登録した方">スコア登録を行い、「Glitter-Glitter」のスコアを登録した方&lt;/h3>
+&lt;p>該当ユーザー数: 90人&lt;/p>
+&lt;p>旧楽曲名の「GlitterGlitter」を正しいデータとし、変更前の「Glitter-Glitter」として登録されたデータを削除しております。&lt;br>
+次回ブックマークレット実行時に、スコアの更新がある場合は記録されます。&lt;/p>
+&lt;h3 id="スコア登録を行いglitter-glitterの称号を登録した方">スコア登録を行い、「Glitter-Glitter」の称号を登録した方&lt;/h3>
+&lt;p>該当ユーザー数: 16人&lt;/p>
+&lt;p>旧称号名の「GlitterGlitter」を正しいデータとし、変更前の「Glitter-Glitter」として登録されたデータを削除しております。&lt;br>
+次回ブックマークレット実行時に、旧称号を獲得していない場合は記録されます。&lt;/p>
+&lt;hr>
+&lt;p>この度はご迷惑をおかけし、誠に申し訳ございません。&lt;br>
+引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>[OngekiScoreLog]不具合情報 - 同じ楽曲名／同じジャンル名を同時に満たす楽曲が処理できない</title><link>https://project-primera.github.io/posts/2021/04/02/same-song-name-and-genre-name-will-cause-error/</link><pubDate>Fri, 02 Apr 2021 02:58:49 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/04/02/same-song-name-and-genre-name-will-cause-error/</guid><description>&lt;p>OngekiScoreLogをご利用いただきありがとうございます。&lt;br>
 以下の不具合を確認しておりました。&lt;br>
 現在は修正が完了しております。&lt;/p>
 &lt;h2 id="不具合内容">不具合内容&lt;/h2>
