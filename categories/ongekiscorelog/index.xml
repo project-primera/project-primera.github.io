@@ -121,8 +121,12 @@ If it does not load properly, it may have been made private or deleted.
 &lt;p>引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>バージョンアップに伴う譜面定数反映のお知らせ（追記 2021-04-09 0:46）</title><link>https://project-primera.github.io/posts/2021/04/02/add-music-extra-level/</link><pubDate>Fri, 02 Apr 2021 18:10:04 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/04/02/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
 メインフレームの皆様にご調査いただきました譜面定数を反映いたしました。&lt;br>
 18:12現在で判明している、以下の譜面定数を反映いたしました。&lt;/p>
+&lt;h2 id="追記-20210423-044">追記 2021/04/23 0:44&lt;/h2>
+&lt;p>追記時点で判明している譜面定数を追加で反映いたしました。&lt;br>
+なお追加の差分に関しましては&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/1da8a797276216215f3a4c6cd8038878fcb2966c">こちら&lt;/a>よりご確認をお願いいたします。&lt;/p>
 &lt;h2 id="追記-20210409-044">追記 2021/04/09 0:44&lt;/h2>
-&lt;p>追記時点で判明している譜面定数を追加で反映いたしました。&lt;/p>
+&lt;p>追記時点で判明している譜面定数を追加で反映いたしました。&lt;br>
+なお追加の差分に関しましては&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/8ef70b671c58e47d374559137ab3924ddd5921b5">こちら&lt;/a>よりご確認をお願いいたします。&lt;/p>
 &lt;h2 id="追記-20210404-705">追記 2021/04/04 7:05&lt;/h2>
 &lt;p>追記時点で判明している譜面定数を追加で反映いたしました。&lt;/p>
 &lt;h2 id="新規追加">新規追加&lt;/h2>
@@ -418,6 +422,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">Desperado Waltz&lt;/td>
 &lt;td style="text-align:center">14&lt;/td>
 &lt;td style="text-align:center">14.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ラクガキスト&lt;/td>
+&lt;td style="text-align:center">14&lt;/td>
+&lt;td style="text-align:center">14.3&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">Daredevil Glaive&lt;/td>
@@ -1045,6 +1054,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">13.4&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">ボッカデラベリタ&lt;/td>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:center">13.3&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">ワールズエンド・ダンスホール&lt;/td>
 &lt;td style="text-align:center">13&lt;/td>
 &lt;td style="text-align:center">13.3&lt;/td>
@@ -1360,6 +1374,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">13.0&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">あの世行きのバスに乗ってさらば。&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.9&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">だから僕は音楽を辞めた&lt;/td>
 &lt;td style="text-align:center">12+&lt;/td>
 &lt;td style="text-align:center">12.9&lt;/td>
@@ -1650,6 +1669,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">12.7&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">Catch the Wave&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.7&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">Purple Rays&lt;/td>
 &lt;td style="text-align:center">12+&lt;/td>
 &lt;td style="text-align:center">12.7&lt;/td>
@@ -1790,7 +1814,17 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">12.6&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">スイートマジック&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.6&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">ヒャダインのカカカタ☆カタオモイ-C&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">星屑☆シーカー&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.6&lt;/td>
 &lt;/tr>
@@ -1801,6 +1835,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">Hand in Hand&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Melody！&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.6&lt;/td>
 &lt;/tr>
@@ -1820,6 +1859,21 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">12.6&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">Red Battle&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Here We Go&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">アクアテラリウム&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.6&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">Daydream café&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.5&lt;/td>
@@ -1831,6 +1885,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">JUMPin' JUMP UP!!!!&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ウミユリ海底譚&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.5&lt;/td>
 &lt;/tr>
@@ -1925,6 +1984,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">12.5&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">キミは“見ていたね”？&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">進化系Colors&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.4&lt;/td>
@@ -1940,7 +2004,22 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">12.4&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">リトルソルジャー&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">ホシノキズナ&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">わたしたち魔法乙女です☆&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">LEVEL5-judgelight-&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.4&lt;/td>
 &lt;/tr>
@@ -1951,6 +2030,26 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">最強 the サマータイム!!!!!&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">METEOR&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">サマータイムレコード&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Star Divine&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Grand symphony&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.4&lt;/td>
 &lt;/tr>
@@ -1970,7 +2069,22 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">12.3&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">クライングハート&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">太陽系デスコ&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">愛されなくても君がいる&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">beautiful tomorrow&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.3&lt;/td>
 &lt;/tr>
@@ -2000,12 +2114,67 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">12.3&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">快晴&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">徒花ネクロマンシー&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.3&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">櫻結び&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">進捗どうですか？&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">Connecting Happy!!&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">High Free Spirits&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">only my railgun&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Love is MY RAIL&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">HARMONIZE&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Hey-day狂騒曲（カプリチオ）&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">砂の惑星 feat. HATSUNE MIKU&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">グリーンライツ・セレナーデ&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">六兆年と一夜物語&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.3&lt;/td>
 &lt;/tr>
@@ -2016,6 +2185,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">初恋は君色メモリー&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">紅蓮華&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.2&lt;/td>
 &lt;/tr>
@@ -2031,6 +2205,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">スタートライン&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">fantastic dreamer&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.2&lt;/td>
 &lt;/tr>
@@ -2066,6 +2245,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">夏色花火&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">どうぶつ☆パラダイス&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.1&lt;/td>
 &lt;/tr>
@@ -2138,6 +2322,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">Grip &amp;amp; Break down !!&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">おこちゃま戦争&lt;/td>
+&lt;td style="text-align:center">11+&lt;/td>
+&lt;td style="text-align:center">11.9&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -2327,6 +2516,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">12.5&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">Duello&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.5&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">Genesis&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.4&lt;/td>
@@ -2343,6 +2537,21 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">最っ高のエンタメだ!!&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Ai Drew&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">YURUSHITE&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Dazzle hop&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.3&lt;/td>
 &lt;/tr>
@@ -2425,6 +2634,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">シャッキーーン！！&lt;/td>
 &lt;td style="text-align:center">11+&lt;/td>
 &lt;td style="text-align:center">11.8&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ラクガキスト&lt;/td>
+&lt;td style="text-align:center">11+&lt;/td>
+&lt;td style="text-align:center">11.7&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">A Day in the Patisserie&lt;/td>
