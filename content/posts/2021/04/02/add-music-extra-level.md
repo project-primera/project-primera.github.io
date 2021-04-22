@@ -16,7 +16,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 ## 追記 2021/04/23 0:44
 
 追記時点で判明している譜面定数を追加で反映いたしました。  
-なお追加の差分に関しましては[こちら](https://github.com/project-primera/project-primera.github.io/commit/)よりご確認をお願いいたします。
+なお追加の差分に関しましては[こちら](https://github.com/project-primera/project-primera.github.io/commit/1da8a797276216215f3a4c6cd8038878fcb2966c)よりご確認をお願いいたします。
 
 ## 追記 2021/04/09 0:44
 
