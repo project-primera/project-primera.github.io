@@ -3,7 +3,7 @@ title: "バージョンアップに伴う譜面定数反映のお知らせ（追
 date: 2021-04-02T18:10:04+09:00
 draft: false
 
-tags: ["譜面定数反映"]
+tags: ["譜面定数反映", "大型アップデート関連"]
 categories: ["OngekiScoreLog"]
 ---
 
@@ -27,7 +27,6 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 追記時点で判明している譜面定数を追加で反映いたしました。  
 なお追加の差分に関しましては[こちら](https://github.com/project-primera/project-primera.github.io/commit/8ef70b671c58e47d374559137ab3924ddd5921b5)よりご確認をお願いいたします。
-
 
 ## 追記 2021/04/04 7:05
 
