@@ -42,6 +42,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 {{< twitter_profile id="chiyo16_ver500" >}}
 {{< twitter_profile id="RKS49019722" >}}
+{{< twitter_profile id="agori_CHUNITHM" >}}
 
 （順不同　敬称略）  
 ご提供いただき誠にありがとうございます。
