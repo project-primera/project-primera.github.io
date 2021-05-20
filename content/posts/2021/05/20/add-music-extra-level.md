@@ -21,6 +21,11 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Amphisbaena | 14 | 14.3 |
 | c.s.q.n. | 13+ | 13.9 |
 | Realize! | 12 | 12.3 |
+| DreamRiser | 11+ | 11.8 |
+| This game | 11+ | 11.8 |
+| シュガーソングとビターステップ | 11+ | 11.8 |
+| Brave Song | 11+ | 11.7 |
+| First Twinkle | 11 | 11.4 |
 
 ### Expert
 
@@ -35,10 +40,17 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 {{< tweet 1395205016974098436 >}}
 {{< tweet 1395203328674463747 >}}
 
+{{< tweet 1395339142897098752 >}}
+{{< tweet 1395338653551890433 >}}
+{{< tweet 1395338122305540096 >}}
+{{< tweet 1395336953298518017 >}}
+{{< tweet 1395337267879677955 >}}
+
 ## データの提供者
 
 {{< twitter_profile id="suoineau_ac" >}}
 {{< twitter_profile id="RKS49019722" >}}
+{{< twitter_profile id="Rinsaku471" >}}
 
 （順不同　敬称略）  
 ご提供いただき誠にありがとうございます。
