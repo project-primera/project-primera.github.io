@@ -28,6 +28,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 |:-:|:-:|:-:|
 | Cult future | 13 | 13.3 |
 | Pastel Sprinkles | 12 | 12.2 |
+| give it up to you | 11 | 11.0 |
 
 ## データの出典元
 
@@ -35,10 +36,12 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 {{< tweet 1397711800288768001 >}}
 {{< tweet 1397706434117177344 >}}
 {{< tweet 1397716662284001280 >}}
+{{< tweet 1397764220477837312 >}}
 
 ## データの提供者
 
 {{< twitter_profile id="suoineau_ac" >}}
+{{< twitter_profile id="chiyo16_ver501" >}}
 
 <!-- （順不同　敬称略） -->
 ご提供いただき誠にありがとうございます。
