@@ -1,4 +1,114 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OngekiScoreLog on Project Primera Blog</title><link>https://project-primera.github.io/categories/ongekiscorelog/</link><description>Project Primera Blog (OngekiScoreLog)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 04 Jun 2021 01:31:00 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/categories/ongekiscorelog/index.xml" rel="self" type="application/rss+xml"/><item><title>譜面定数反映のお知らせ（2021-06-04）</title><link>https://project-primera.github.io/posts/2021/06/03/add-music-extra-level/</link><pubDate>Fri, 04 Jun 2021 01:31:00 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/06/03/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OngekiScoreLog on Project Primera Blog</title><link>https://project-primera.github.io/categories/ongekiscorelog/</link><description>Project Primera Blog (OngekiScoreLog)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 08 Jun 2021 03:05:01 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/categories/ongekiscorelog/index.xml" rel="self" type="application/rss+xml"/><item><title>譜面定数反映のお知らせ（2021-06-08）</title><link>https://project-primera.github.io/posts/2021/06/08/add-music-extra-level/</link><pubDate>Tue, 08 Jun 2021 03:05:01 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/06/08/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
+以下の譜面定数を反映いたしました。&lt;/p>
+&lt;h2 id="新規追加">新規追加&lt;/h2>
+&lt;h3 id="master">Master&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">曲名&lt;/th>
+&lt;th style="text-align:center">レベル&lt;/th>
+&lt;th style="text-align:center">譜面定数&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">鳥の詩&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">連れ去って・閉じ込めて・好きにして&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">SAKURA&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">STARTLINER&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">えがおのオーケストラっ！&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">しゅわりん☆どり〜みん&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ときめきエクスペリエンス！&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.1&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="expert">Expert&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">曲名&lt;/th>
+&lt;th style="text-align:center">レベル&lt;/th>
+&lt;th style="text-align:center">譜面定数&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">天狗の落とし文 feat. ｙｔｒ&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">fulgente (flip-side color mix)&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Death Doll&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Paranoia&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">物凄い狂っとるフランちゃんが物凄いうた&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Doll Judgment&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">初音ミクの激唱&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.0&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="データの出典元">データの出典元&lt;/h2>
+&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1401831672866246657">Tweet: 1401831672866246657&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1401832132687798275">Tweet: 1401832132687798275&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>&lt;/p>
+&lt;h2 id="データの提供者">データの提供者&lt;/h2>
+&lt;a href="https://twitter.com/Rinsaku471" target="_blank">@Rinsaku471&lt;/a>
+&lt;p>（敬称略）&lt;br>
+ご提供いただき誠にありがとうございます。&lt;/p>
+&lt;p>引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>譜面定数反映のお知らせ（2021-06-04）</title><link>https://project-primera.github.io/posts/2021/06/03/add-music-extra-level/</link><pubDate>Fri, 04 Jun 2021 01:31:00 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/06/03/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
 以下の譜面定数を反映いたしました。&lt;/p>
 &lt;h2 id="新規追加">新規追加&lt;/h2>
 &lt;h3 id="master">Master&lt;/h3>
