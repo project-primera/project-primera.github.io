@@ -1,4 +1,238 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OngekiScoreLog on Project Primera Blog</title><link>https://project-primera.github.io/categories/ongekiscorelog/</link><description>Project Primera Blog (OngekiScoreLog)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 11 Jun 2021 01:51:59 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/categories/ongekiscorelog/index.xml" rel="self" type="application/rss+xml"/><item><title>譜面定数反映のお知らせ（2021-06-11）</title><link>https://project-primera.github.io/posts/2021/06/11/add-music-extra-level/</link><pubDate>Fri, 11 Jun 2021 01:51:59 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/06/11/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OngekiScoreLog on Project Primera Blog</title><link>https://project-primera.github.io/categories/ongekiscorelog/</link><description>Project Primera Blog (OngekiScoreLog)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 17 Jun 2021 17:49:00 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/categories/ongekiscorelog/index.xml" rel="self" type="application/rss+xml"/><item><title>譜面定数反映のお知らせ（2021-06-17）</title><link>https://project-primera.github.io/posts/2021/06/17/add-music-extra-level/</link><pubDate>Thu, 17 Jun 2021 17:49:00 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/06/17/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
+以下の譜面定数を反映いたしました。&lt;/p>
+&lt;h2 id="新規追加">新規追加&lt;/h2>
+&lt;h3 id="master">Master&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">曲名&lt;/th>
+&lt;th style="text-align:center">レベル&lt;/th>
+&lt;th style="text-align:center">譜面定数&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">ジャンヌ・ダルクの慟哭&lt;/td>
+&lt;td style="text-align:center">14&lt;/td>
+&lt;td style="text-align:center">14.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Once in my life&lt;/td>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:center">13.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">シンデレラディスコ&lt;/td>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:center">13.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">極上スマイル&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Lost Princess&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">わたし音頭&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">みんな Happy!!&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Perfect Shining!!&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">That Is How I Roll!&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Cream+Mint&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="expert">Expert&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">曲名&lt;/th>
+&lt;th style="text-align:center">レベル&lt;/th>
+&lt;th style="text-align:center">譜面定数&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">ジャンヌ・ダルクの慟哭&lt;/td>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:center">13.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Once in my life&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">シンデレラディスコ&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">迷える音色は恋の唄&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Satori ～3rd EyEs (2020 Recall)&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Oshama Scramble! (Cranky Remix)&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">撩乱乙女†無双劇&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Imperishable Night 2006 (2016 Refine)&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Lazy Addiction&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Singularity&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ヤミツキ&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">All Right!&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">花たちに希望を&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">アマツカミ&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Radiance&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">GOODRAGE&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Iudicium “Apocalypsis Mix”&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Destr0yer&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">疾走あんさんぶる&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Baqeela&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">conflict&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">アンハッピーリフレイン&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.3&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="データの出典元">データの出典元&lt;/h2>
+&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1405309734861688832">Tweet: 1405309734861688832&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1405314824117002240">Tweet: 1405314824117002240&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1405312468935581697">Tweet: 1405312468935581697&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1405335666829889548">Tweet: 1405335666829889548&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1405341516969611264">Tweet: 1405341516969611264&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1405097256085118979">Tweet: 1405097256085118979&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1405097272002551810">Tweet: 1405097272002551810&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1405097287466901505">Tweet: 1405097287466901505&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1405097304353218560">Tweet: 1405097304353218560&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1405099211591274502">Tweet: 1405099211591274502&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>&lt;/p>
+&lt;h2 id="データの提供者">データの提供者&lt;/h2>
+&lt;p>&lt;a href="https://twitter.com/suoineau_ac" target="_blank">@suoineau_ac&lt;/a>
+&lt;a href="https://twitter.com/chiyo16_ver501" target="_blank">@chiyo16_ver501&lt;/a>
+&lt;a href="https://twitter.com/Rinsaku471" target="_blank">@Rinsaku471&lt;/a>&lt;/p>
+&lt;p>（順不同　敬称略）&lt;br>
+ご提供いただき誠にありがとうございます。&lt;/p>
+&lt;p>引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>譜面定数反映のお知らせ（2021-06-11）</title><link>https://project-primera.github.io/posts/2021/06/11/add-music-extra-level/</link><pubDate>Fri, 11 Jun 2021 01:51:59 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/06/11/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
 以下の譜面定数を反映いたしました。&lt;/p>
 &lt;h2 id="新規追加">新規追加&lt;/h2>
 &lt;h3 id="master">Master&lt;/h3>
