@@ -31,9 +31,9 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 ### 集計対象外
 
-- Ruler Count, Zero -珠洲島 有栖ソロver.-
-- Ruler Count, Zero -九條 楓ソロver.-
 - Ruler Count, Zero -逢坂 茜ソロver.-
+- Ruler Count, Zero -九條 楓ソロver.-
+- Ruler Count, Zero -珠洲島 有栖ソロver.-
 
 ## データの出典元
 
