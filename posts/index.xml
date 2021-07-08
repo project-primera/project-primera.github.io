@@ -43,10 +43,30 @@
 &lt;td style="text-align:center">14&lt;/td>
 &lt;td style="text-align:center">14.0&lt;/td>
 &lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Rendezvous&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.8&lt;/td>
+&lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;!-- raw HTML omitted -->
-&lt;!-- raw HTML omitted -->
+&lt;h3 id="expert">Expert&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">曲名&lt;/th>
+&lt;th style="text-align:center">レベル&lt;/th>
+&lt;th style="text-align:center">譜面定数&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">Rendezvous&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
 &lt;h2 id="集計対象外">集計対象外&lt;/h2>
 &lt;ul>
 &lt;li>君の知らない物語&lt;/li>
@@ -77,10 +97,18 @@
 &lt;li>Link with U&lt;/li>
 &lt;/ul>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1412955344486076420">Tweet: 1412955344486076420&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
+&lt;blockquote class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1413170744964444161">Tweet: 1413170744964444161&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1413170881589694478">Tweet: 1413170881589694478&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>&lt;/p>
 &lt;h2 id="データの提供者">データの提供者&lt;/h2>
 &lt;p>&lt;a href="https://twitter.com/46189_ext" target="_blank">@46189_ext&lt;/a>
 &lt;a href="https://twitter.com/wakaru1124" target="_blank">@wakaru1124&lt;/a>&lt;/p>
