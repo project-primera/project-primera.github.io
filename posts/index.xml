@@ -1,4 +1,558 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Project Primera Blog</title><link>https://project-primera.github.io/posts/</link><description>Project Primera Blog (Posts)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 11 Jul 2021 02:32:40 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>譜面定数反映のお知らせ（2021-07-11）</title><link>https://project-primera.github.io/posts/2021/07/11/add-music-extra-level/</link><pubDate>Sun, 11 Jul 2021 02:32:40 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/07/11/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Project Primera Blog</title><link>https://project-primera.github.io/posts/</link><description>Project Primera Blog (Posts)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 15 Jul 2021 12:50:19 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>譜面定数反映のお知らせ（2021-07-15）</title><link>https://project-primera.github.io/posts/2021/07/15/add-music-extra-level/</link><pubDate>Thu, 15 Jul 2021 12:50:19 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/07/15/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
+以下の譜面定数を反映いたしました。&lt;/p>
+&lt;h2 id="新規追加">新規追加&lt;/h2>
+&lt;h3 id="master">Master&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">曲名&lt;/th>
+&lt;th style="text-align:center">レベル&lt;/th>
+&lt;th style="text-align:center">譜面定数&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">SmileAgain&lt;/td>
+&lt;td style="text-align:center">11+&lt;/td>
+&lt;td style="text-align:center">11.7&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>現在実装されているMaster譜面すべての定数が反映されました。&lt;/p>
+&lt;h3 id="expert">Expert&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">曲名&lt;/th>
+&lt;th style="text-align:center">レベル&lt;/th>
+&lt;th style="text-align:center">譜面定数&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">c.s.q.n.&lt;/td>
+&lt;td style="text-align:center">11+&lt;/td>
+&lt;td style="text-align:center">11.8&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Random Access Emotions&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ロストワードクロニカル&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Realize&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">藍の華&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">命に嫌われている&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">STARRED HEART&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">吉原ラメント&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Reach for the Stars&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ウキウキ☆Candy!&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ルナティックレッドアイズ&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">深海のリトルクライ feat. 土岐麻子&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Say Goodbye&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">テオ&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">超常マイマイン&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Nameless Story&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Splash Dance!!&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">セツナトリップ&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ナイト・オブ・ナイツ (Cranky Remix)&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">青春サイダー&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">全力ハッピーライフ&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">サドマミホリック&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ギガンティックO.T.N&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">GO! GO! MANIAC&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Scream out! -音華鏡 Re:BREAK-&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">妖狐仙楽踏&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">BOUNCE &amp;amp; DANCE&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">メニメニマニマニ&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">オンゲキ全域★アカネサマ？&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Chelly spLash♪♪&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">星屑ユートピア&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">クイーンオブハート&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ロッキンピンクモンスター&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">P！P！P！P！がおー!!&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Dolphika&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Kattobi KEIKYU Rider&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">閃鋼のブリューナク&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Paqqin&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Gate of Doom&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Halcyon&lt;/td>
+&lt;td style="text-align:center">10+&lt;/td>
+&lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Ahoy!! 我ら宝鐘海賊団☆&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">あの世行きのバスに乗ってさらば。&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ワールズエンド・ダンスホール&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">LOVERS&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ツクヨミステップ&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ベノム&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">侵略ノススメ☆&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Jörqer&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ナンセンス文学&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">アンドロイドガール&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ヒャダインのカカカタ☆カタオモイ-C&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">地球最後の告白を&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Heart Cooking Recipe&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ライトスピード・デイズ&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ダンスロボットダンス&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ロボットプラネットユートピア&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">We Gonna Journey&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">最終鬼畜妹フランドール・Ｓ&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">幻想のサテライト&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ぼくらの16bit戦争&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">鬼KYOKAN&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ボッカデラベリタ&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">JOINT&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ワタシConnect*&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">スクランブル交際&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">STORIA&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">絶対にチョコミントを食べるアオイチャン&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">よいまちカンターレ&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Glitter-Glitter&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">100%ちゅ～学生&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ベースラインやってる？笑&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">絆はずっとGrowing Up!!!&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">チェチェ・チェック・ワンツー！&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Seyana. ～何でも言うことを聞いてくれるアカネチャン～&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Catch the Moment&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ピースサイン&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">folern&lt;/td>
+&lt;td style="text-align:center">11+&lt;/td>
+&lt;td style="text-align:center">11.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">白い雪のプリンセスは&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">トーキョーゲットー&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">デリヘル呼んだら君が来た&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Help me, ERINNNNNN!!&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">光線チューニング&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ドーナツホール&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">チルノのパーフェクトさんすう教室&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Rising Hope&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">fantastic dreamer&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Rule the World!!&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">東方妖々夢 ～the maximum moving about～&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">TeA&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">TAKE ON THE WORLD&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">チュルリラ・チュルリラ・ダッダッダ！&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Cyberozar&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Oshama Scramble!&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Destiny Runner&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">脳漿炸裂ガール&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="データの出典元">データの出典元&lt;/h2>
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1415248217021636608">Tweet: 1415248217021636608&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote data-conversation="none" class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1415318599296712705">Tweet: 1415318599296712705&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote data-conversation="none" class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1415318615495041028">Tweet: 1415318615495041028&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote data-conversation="none" class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1415318673804255238">Tweet: 1415318673804255238&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote data-conversation="none" class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1415318735703838722">Tweet: 1415318735703838722&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote data-conversation="none" class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1415318775625240578">Tweet: 1415318775625240578&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote data-conversation="none" class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1415318817824133123">Tweet: 1415318817824133123&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote data-conversation="none" class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1415318846089490436">Tweet: 1415318846089490436&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote data-conversation="none" class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1415318886614925312">Tweet: 1415318886614925312&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>
+&lt;blockquote data-conversation="none" class="twitter-tweet">
+&lt;a href="https://twitter.com/Twitter/status/1415318909096370180">Tweet: 1415318909096370180&lt;/a>&lt;br>
+If it does not load properly, it may have been made private or deleted.
+&lt;/blockquote>&lt;/p>
+&lt;h2 id="データの提供者">データの提供者&lt;/h2>
+&lt;p>&lt;a href="https://twitter.com/Rinsaku471" target="_blank">@Rinsaku471&lt;/a>
+&lt;a href="https://twitter.com/hikkey7th" target="_blank">@hikkey7th&lt;/a>&lt;/p>
+&lt;p>（順不同　敬称略）&lt;br>
+ご提供いただき誠にありがとうございます。&lt;/p>
+&lt;p>引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>譜面定数反映のお知らせ（2021-07-11）</title><link>https://project-primera.github.io/posts/2021/07/11/add-music-extra-level/</link><pubDate>Sun, 11 Jul 2021 02:32:40 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/07/11/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
 以下の譜面定数を反映いたしました。&lt;/p>
 &lt;h2 id="新規追加">新規追加&lt;/h2>
 &lt;h3 id="master">Master&lt;/h3>
@@ -56,7 +610,7 @@
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1413806408923893765">Tweet: 1413806408923893765&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
@@ -223,47 +777,47 @@ If it does not load properly, it may have been made private or deleted.
 &lt;li>Link with U&lt;/li>
 &lt;/ul>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1412955344486076420">Tweet: 1412955344486076420&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1413332039642669058">Tweet: 1413332039642669058&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1413352633251729410">Tweet: 1413352633251729410&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1413170744964444161">Tweet: 1413170744964444161&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1413399779292286978">Tweet: 1413399779292286978&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1413382490002104325">Tweet: 1413382490002104325&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1413396597329731585">Tweet: 1413396597329731585&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1413442918493265922">Tweet: 1413442918493265922&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1413382524684836865">Tweet: 1413382524684836865&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1413170881589694478">Tweet: 1413170881589694478&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1413344078113112064">Tweet: 1413344078113112064&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -412,11 +966,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1412377722500763653">Tweet: 1412377722500763653&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1412432995764477953">Tweet: 1412432995764477953&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -490,23 +1044,23 @@ If it does not load properly, it may have been made private or deleted.
 &lt;li>Ruler Count, Zero -珠洲島 有栖ソロver.-&lt;/li>
 &lt;/ul>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1410442536686997507">Tweet: 1410442536686997507&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1410425866086088713">Tweet: 1410425866086088713&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1410387263763091456">Tweet: 1410387263763091456&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1410426316130639875">Tweet: 1410426316130639875&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1410751442919428097">Tweet: 1410751442919428097&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -541,11 +1095,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1407886010701139968">Tweet: 1407886010701139968&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1407886224614821888">Tweet: 1407886224614821888&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -740,43 +1294,43 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1405309734861688832">Tweet: 1405309734861688832&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1405314824117002240">Tweet: 1405314824117002240&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1405312468935581697">Tweet: 1405312468935581697&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1405335666829889548">Tweet: 1405335666829889548&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1405341516969611264">Tweet: 1405341516969611264&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1405097256085118979">Tweet: 1405097256085118979&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1405097272002551810">Tweet: 1405097272002551810&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1405097287466901505">Tweet: 1405097287466901505&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1405097304353218560">Tweet: 1405097304353218560&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1405099211591274502">Tweet: 1405099211591274502&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -844,27 +1398,27 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1402771939874119686">Tweet: 1402771939874119686&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1402767582474608641">Tweet: 1402767582474608641&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1402805962180677635">Tweet: 1402805962180677635&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1402805615626387457">Tweet: 1402805615626387457&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1402805316039839746">Tweet: 1402805316039839746&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1402806331094888449">Tweet: 1402806331094888449&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -1036,27 +1590,27 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1401831672866246657">Tweet: 1401831672866246657&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1401832132687798275">Tweet: 1401832132687798275&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1402179160848486400">Tweet: 1402179160848486400&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1402179161943199746">Tweet: 1402179161943199746&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1402180066440663043">Tweet: 1402180066440663043&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1402179163121885186">Tweet: 1402179163121885186&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -1167,27 +1721,27 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1400298005702463488">Tweet: 1400298005702463488&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1400291733741572096">Tweet: 1400291733741572096&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1400281622058979337">Tweet: 1400281622058979337&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1400297468558934016">Tweet: 1400297468558934016&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1400291487825367043">Tweet: 1400291487825367043&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1400019317417156610">Tweet: 1400019317417156610&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -1256,23 +1810,23 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1397700966338625536">Tweet: 1397700966338625536&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1397711800288768001">Tweet: 1397711800288768001&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1397706434117177344">Tweet: 1397706434117177344&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1397716662284001280">Tweet: 1397716662284001280&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1397764220477837312">Tweet: 1397764220477837312&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -1307,11 +1861,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1395579188178944002">Tweet: 1395579188178944002&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1395576912659943426">Tweet: 1395576912659943426&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -1392,39 +1946,39 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1395189060621070340">Tweet: 1395189060621070340&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1395186211082276865">Tweet: 1395186211082276865&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1395205016974098436">Tweet: 1395205016974098436&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1395203328674463747">Tweet: 1395203328674463747&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1395339142897098752">Tweet: 1395339142897098752&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1395338653551890433">Tweet: 1395338653551890433&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1395338122305540096">Tweet: 1395338122305540096&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1395336953298518017">Tweet: 1395336953298518017&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1395337267879677955">Tweet: 1395337267879677955&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -1492,23 +2046,23 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1392651901804576771">Tweet: 1392651901804576771&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1392658712741908485">Tweet: 1392658712741908485&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1392782427630698499">Tweet: 1392782427630698499&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1392782182972747777">Tweet: 1392782182972747777&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1387015522273820676">Tweet: 1387015522273820676&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -1567,7 +2121,7 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1390159474619412480">Tweet: 1390159474619412480&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
@@ -1637,23 +2191,23 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1387203207202435072">Tweet: 1387203207202435072&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1387211117034819586">Tweet: 1387211117034819586&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1387214307629232133">Tweet: 1387214307629232133&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1387206433389703168">Tweet: 1387206433389703168&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1387326746567925771">Tweet: 1387326746567925771&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -1711,11 +2265,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1385041724733489154">Tweet: 1385041724733489154&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1385048782560120834">Tweet: 1385048782560120834&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -1770,11 +2324,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1380010881791057922">Tweet: 1380010881791057922&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1380119299738587137">Tweet: 1380119299738587137&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -4447,7 +5001,7 @@ If it does not load properly, it may have been made private or deleted.
 &lt;li>ポケットからぬりつぶせ！ -東雲 つむぎソロver.-&lt;/li>
 &lt;/ul>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1377606946753249284">Tweet: 1377606946753249284&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
@@ -4532,7 +5086,7 @@ If it does not load properly, it may have been made private or deleted.
 &lt;p>&lt;img src="https://project-primera.github.io/images/pbs-twimg-com-media-ExOCxwEU8AIBMTC.png" alt="pbs-twimg-com-media-ExOCxwEU8AIBMTC">&lt;br>
 &lt;img src="https://project-primera.github.io/images/pbs-twimg-com-media-ExOC1BqU8AEtnFY.png" alt="pbs-twimg-com-media-ExOC1BqU8AEtnFY">&lt;br>
 &lt;img src="https://project-primera.github.io/images/pbs-twimg-com-media-ExOC23VVIAEZb5J.png" alt="pbs-twimg-com-media-ExOC23VVIAEZb5J">&lt;/p>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1374586252171698181">Tweet: 1374586252171698181&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
@@ -4599,27 +5153,27 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1372326891927965696">Tweet: 1372326891927965696&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1372326957665243136">Tweet: 1372326957665243136&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1372337443442106371">Tweet: 1372337443442106371&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1372366399138529281">Tweet: 1372366399138529281&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1372489922947424259">Tweet: 1372489922947424259&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1372490205995753475">Tweet: 1372490205995753475&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -4652,7 +5206,7 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1371715191931510785">Tweet: 1371715191931510785&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
@@ -4712,23 +5266,23 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1369868718835003395">Tweet: 1369868718835003395&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1369899746282799106">Tweet: 1369899746282799106&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1369899992232562689">Tweet: 1369899992232562689&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1369899549737709568">Tweet: 1369899549737709568&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1369900265264979968">Tweet: 1369900265264979968&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -4770,15 +5324,15 @@ If it does not load properly, it may have been made private or deleted.
 &lt;!-- raw HTML omitted -->
 &lt;!-- raw HTML omitted -->
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1367303115624521729">Tweet: 1367303115624521729&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1367303792190844929">Tweet: 1367303792190844929&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1367304107749371904">Tweet: 1367304107749371904&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -4830,11 +5384,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1364750681282764805">Tweet: 1364750681282764805&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1364942740207792132">Tweet: 1364942740207792132&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -4909,23 +5463,23 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1362350184773033987">Tweet: 1362350184773033987&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1362209981806698498">Tweet: 1362209981806698498&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1362208923751604225">Tweet: 1362208923751604225&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1362355006666465280">Tweet: 1362355006666465280&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1362355655777026059">Tweet: 1362355655777026059&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -4989,15 +5543,15 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1359635151248969729">Tweet: 1359635151248969729&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1359651859598692353">Tweet: 1359651859598692353&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1359863689667510275">Tweet: 1359863689667510275&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -5033,11 +5587,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1359378894852268033">Tweet: 1359378894852268033&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1359375866480873472">Tweet: 1359375866480873472&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -5087,19 +5641,19 @@ If it does not load properly, it may have been made private or deleted.
 &lt;!-- raw HTML omitted -->
 &lt;!-- raw HTML omitted -->
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1357102339031658496">Tweet: 1357102339031658496&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1357102347336314881">Tweet: 1357102347336314881&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1357184785559343113">Tweet: 1357184785559343113&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1357139211707576320">Tweet: 1357139211707576320&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -5180,23 +5734,23 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1354696812892852227">Tweet: 1354696812892852227&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1354701619695259648">Tweet: 1354701619695259648&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1354709109883330572">Tweet: 1354709109883330572&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1354742491828817922">Tweet: 1354742491828817922&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1354753775055982594">Tweet: 1354753775055982594&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -5226,7 +5780,7 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1353329200464187392">Tweet: 1353329200464187392&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
@@ -5266,15 +5820,15 @@ If it does not load properly, it may have been made private or deleted.
 &lt;!-- raw HTML omitted -->
 &lt;!-- raw HTML omitted -->
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1352031702978183170">Tweet: 1352031702978183170&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1352041530555473920">Tweet: 1352041530555473920&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1352109623256309766">Tweet: 1352109623256309766&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -5332,11 +5886,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1349514546034012161">Tweet: 1349514546034012161&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1349521925287026695">Tweet: 1349521925287026695&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -5377,19 +5931,19 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1347052947423645698">Tweet: 1347052947423645698&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1347057723259588615">Tweet: 1347057723259588615&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1347071555302408193">Tweet: 1347071555302408193&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1347077707864018945">Tweet: 1347077707864018945&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -5484,27 +6038,27 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1341916989841784834">Tweet: 1341916989841784834&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1341917493799972864">Tweet: 1341917493799972864&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1341933526493536257">Tweet: 1341933526493536257&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1341937543533641728">Tweet: 1341937543533641728&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1341975070491590657">Tweet: 1341975070491590657&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1341947073030021122">Tweet: 1341947073030021122&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -5534,7 +6088,7 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1341280549256642561">Tweet: 1341280549256642561&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
@@ -5590,7 +6144,7 @@ If it does not load properly, it may have been made private or deleted.
 &lt;!-- raw HTML omitted -->
 &lt;!-- raw HTML omitted -->
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1339340323797966848">Tweet: 1339340323797966848&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
@@ -5661,27 +6215,27 @@ If it does not load properly, it may have been made private or deleted.
 &lt;/tbody>
 &lt;/table>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1336962029274316800">Tweet: 1336962029274316800&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1336837137627402240">Tweet: 1336837137627402240&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1336863376270454786">Tweet: 1336863376270454786&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1336999859178520577">Tweet: 1336999859178520577&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1336857172668366853">Tweet: 1336857172668366853&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1336999547340406787">Tweet: 1336999547340406787&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -5706,19 +6260,19 @@ Sign &lt;strong>12.7&lt;/strong>&lt;/p>
 Let&amp;rsquo;s Starry Party！ -結城 莉玖ソロver.-&lt;br>
 Let&amp;rsquo;s Starry Party！ -藍原 椿ソロver.-&lt;/p>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1334337364089425923">Tweet: 1334337364089425923&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1334337544381612033">Tweet: 1334337544381612033&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1334364699849199617">Tweet: 1334364699849199617&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1334365033631948804">Tweet: 1334365033631948804&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -5740,27 +6294,27 @@ Reach for the Stars &lt;strong>13.8&lt;/strong>&lt;br>
 ヤミツキ &lt;strong>11.50&lt;/strong>&lt;br>
 Reach for the Stars &lt;strong>10.90&lt;/strong>&lt;/p>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1331916553554542599">Tweet: 1331916553554542599&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1331891949498900480">Tweet: 1331891949498900480&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1331913630024024064">Tweet: 1331913630024024064&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1331934056955559936">Tweet: 1331934056955559936&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1331933389352419329">Tweet: 1331933389352419329&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1331934593138606080">Tweet: 1331934593138606080&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
@@ -5779,19 +6333,19 @@ If it does not load properly, it may have been made private or deleted.
 &lt;h3 id="expert">Expert&lt;/h3>
 &lt;p>LiftOff &lt;strong>11.7&lt;/strong>&lt;/p>
 &lt;h2 id="データの出典元">データの出典元&lt;/h2>
-&lt;p>&lt;blockquote class="twitter-tweet">
+&lt;p>&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1329298751219875840">Tweet: 1329298751219875840&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1329314813743251457">Tweet: 1329314813743251457&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1329331602321670144">Tweet: 1329331602321670144&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>
-&lt;blockquote class="twitter-tweet">
+&lt;blockquote data-conversation="none" class="twitter-tweet">
 &lt;a href="https://twitter.com/Twitter/status/1329373004355182600">Tweet: 1329373004355182600&lt;/a>&lt;br>
 If it does not load properly, it may have been made private or deleted.
 &lt;/blockquote>&lt;/p>
