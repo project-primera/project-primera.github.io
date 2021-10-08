@@ -33,14 +33,15 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | 曲名 | レベル | 譜面定数 |
 |:-:|:-:|:-:|
 | ENERGY SYNERGY MATRIX | 11+ | 11.9 |
-| カラッポ・ノンフィクション | 10 | 10.9 |
 | Burning Hearts ～炎のANGEL～ | 10 | 10.4 |
+| カラッポ・ノンフィクション | 10 | 10.0 |
 
 ## データの出典元
 
 {{< tweet 1445946212755001352 >}}
 {{< tweet 1445895595428757512 >}}
 {{< tweet 1446007063692210177 >}}
+{{< tweet 1446405038742536195 >}}
 
 ## データの提供者
 
@@ -48,6 +49,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 {{< twitter_profile id="RKS49019722" >}}
 {{< twitter_profile id="suoineau_ac" >}}
 {{< twitter_profile id="chiyo16_ver501" >}}
+{{< twitter_profile id="Rinsaku471" >}}
 
 （順不同　敬称略）  
 ご提供いただき誠にありがとうございます。
