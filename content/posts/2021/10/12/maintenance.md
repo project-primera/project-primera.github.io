@@ -22,11 +22,13 @@ categories: ["OngekiScoreLog"]
 
 メンテナンスにご協力いただきまして誠にありがとうございました。
 
-## 追記: 2021/10/21 2:00
+-->
+
+## 追記: 2021/10/21 3:50
 
 メンテナンスを開始いたしました。  
 メンテナンス中はスコア登録を含むブックマークレット実行がご利用いただけません。  
-状況に関しましては[Twitter@ongeki_score](https://twitter.com/ongeki_score)にてご報告いたします。 -->
+状況に関しましては[Twitter@ongeki_score](https://twitter.com/ongeki_score)にてご報告いたします。 
 
 ## メンテナンス日程
 
