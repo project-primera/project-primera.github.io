@@ -1,4 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OngekiScoreLog_issue_close on Project Primera Blog</title><link>https://project-primera.github.io/tags/ongekiscorelog_issue_close/</link><description>Project Primera Blog (OngekiScoreLog_issue_close)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 02 Apr 2021 02:58:49 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/tags/ongekiscorelog_issue_close/index.xml" rel="self" type="application/rss+xml"/><item><title>[OngekiScoreLog]不具合情報 - 同じ楽曲名／同じジャンル名を同時に満たす楽曲が処理できない</title><link>https://project-primera.github.io/posts/2021/04/02/same-song-name-and-genre-name-will-cause-error/</link><pubDate>Fri, 02 Apr 2021 02:58:49 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/04/02/same-song-name-and-genre-name-will-cause-error/</guid><description>&lt;p>OngekiScoreLogをご利用いただきありがとうございます。&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>OngekiScoreLog_issue_close on Project Primera Blog</title><link>https://project-primera.github.io/tags/ongekiscorelog_issue_close/</link><description>Project Primera Blog (OngekiScoreLog_issue_close)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 22 Oct 2021 17:57:11 +0000</lastBuildDate><atom:link href="https://project-primera.github.io/tags/ongekiscorelog_issue_close/index.xml" rel="self" type="application/rss+xml"/><item><title>[OngekiScoreLog]不具合情報 シアワセうさぎ・ぺこみこマリンが重複して登録されてしまう</title><link>https://project-primera.github.io/posts/2021/10/23/shiawase-usagi/</link><pubDate>Fri, 22 Oct 2021 17:57:11 +0000</pubDate><guid>https://project-primera.github.io/posts/2021/10/23/shiawase-usagi/</guid><description>&lt;p>OngekiScoreLogをご利用いただきありがとうございます。&lt;br>
+以下の不具合を確認しておりました。&lt;br>
+現在は修正が完了しております。&lt;/p>
+&lt;h2 id="不具合内容">不具合内容&lt;/h2>
+&lt;p>「シアワセうさぎ・ぺこみこマリン（兎田ぺこら、さくらみこ、宝鐘マリン）」と「シアワセうさぎ・ぺこみこマリン」が重複して登録されてしまう&lt;/p>
+&lt;h2 id="発生期間">発生期間&lt;/h2>
+&lt;p>2021/10/22 1:55 - 2021/10/23 1:40&lt;/p>
+&lt;h2 id="本不具合に該当するユーザー">本不具合に該当するユーザー&lt;/h2>
+&lt;ul>
+&lt;li>発生期間中にスコア登録を行い「シアワセうさぎ・ぺこみこマリン」のスコアを更新した方&lt;/li>
+&lt;li>「シアワセうさぎ・ぺこみこマリン（兎田ぺこら、さくらみこ、宝鐘マリン）」の称号を上記期間より前に登録している方&lt;/li>
+&lt;li>「シアワセうさぎ・ぺこみこマリン」の称号を発生期間中に登録している方&lt;/li>
+&lt;/ul>
+&lt;h2 id="対応内容">対応内容&lt;/h2>
+&lt;ul>
+&lt;li>楽曲データ／称号データを「シアワセうさぎ・ぺこみこマリン（兎田ぺこら、さくらみこ、宝鐘マリン）」から「シアワセうさぎ・ぺこみこマリン」に変更いたしました&lt;/li>
+&lt;li>上記期間のうちに「シアワセうさぎ・ぺこみこマリン」のスコア登録を行っていた方の該当データを削除いたしました&lt;/li>
+&lt;li>上記期間のうちに「シアワセうさぎ・ぺこみこマリン」として称号を獲得していた方の該当データを削除いたしました&lt;/li>
+&lt;/ul>
+&lt;h3 id="上記本不具合に該当するユーザーに含まれない方">上記本不具合に該当するユーザーに含まれない方&lt;/h3>
+&lt;p>一時的にレーティング新曲枠に「シアワセうさぎ・ぺこみこマリン」が表示される状態となっておりました。特定状態の際、到達可能レーティングが正しく表示されていない状態となっていた可能性があります。&lt;br>
+こちらは表示上の不具合であり、ユーザーデータに不具合はありません。&lt;/p>
+&lt;h3 id="発生期間中にスコア登録を行いシアワセうさぎぺこみこマリンのスコアを更新した方">発生期間中にスコア登録を行い「シアワセうさぎ・ぺこみこマリン」のスコアを更新した方&lt;/h3>
+&lt;p>該当ユーザー数: 49人&lt;/p>
+&lt;p>旧楽曲名の「シアワセうさぎ・ぺこみこマリン（兎田ぺこら、さくらみこ、宝鐘マリン）」を正しいデータとし、変更前の「シアワセうさぎ・ぺこみこマリン」として登録されたデータを削除いたしました。&lt;br>
+次回ブックマークレット実行時に、スコアの更新がある場合は再度記録されます。&lt;/p>
+&lt;h3 id="シアワセうさぎぺこみこマリン兎田ぺこらさくらみこ宝鐘マリンの称号を上記期間より前に登録している方">「シアワセうさぎ・ぺこみこマリン（兎田ぺこら、さくらみこ、宝鐘マリン）」の称号を上記期間より前に登録している方&lt;/h3>
+&lt;p>該当ユーザー数: 68人&lt;/p>
+&lt;p>旧称号名の「シアワセうさぎ・ぺこみこマリン（兎田ぺこら、さくらみこ、宝鐘マリン）」を「シアワセうさぎ・ぺこみこマリン」に変更いたしました。&lt;/p>
+&lt;h3 id="シアワセうさぎぺこみこマリンの称号を発生期間中に登録している方">「シアワセうさぎ・ぺこみこマリン」の称号を発生期間中に登録している方&lt;/h3>
+&lt;p>該当ユーザー数: 13人&lt;/p>
+&lt;p>期間中に「シアワセうさぎ・ぺこみこマリン」として登録されたデータを削除いたしました。&lt;br>
+次回ブックマークレット実行時に、旧称号を獲得していない場合は記録されます。&lt;/p>
+&lt;hr>
+&lt;p>この度はご迷惑をおかけし、誠に申し訳ございません。&lt;br>
+引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>[OngekiScoreLog]不具合情報 - 同じ楽曲名／同じジャンル名を同時に満たす楽曲が処理できない</title><link>https://project-primera.github.io/posts/2021/04/02/same-song-name-and-genre-name-will-cause-error/</link><pubDate>Fri, 02 Apr 2021 02:58:49 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/04/02/same-song-name-and-genre-name-will-cause-error/</guid><description>&lt;p>OngekiScoreLogをご利用いただきありがとうございます。&lt;br>
 以下の不具合を確認しておりました。&lt;br>
 現在は修正が完了しております。&lt;/p>
 &lt;h2 id="不具合内容">不具合内容&lt;/h2>
