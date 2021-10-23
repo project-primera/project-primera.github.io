@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>譜面定数反映 on Project Primera Blog</title><link>https://project-primera.github.io/tags/%E8%AD%9C%E9%9D%A2%E5%AE%9A%E6%95%B0%E5%8F%8D%E6%98%A0/</link><description>Project Primera Blog (譜面定数反映)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 22 Oct 2021 03:26:13 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/tags/%E8%AD%9C%E9%9D%A2%E5%AE%9A%E6%95%B0%E5%8F%8D%E6%98%A0/index.xml" rel="self" type="application/rss+xml"/><item><title>bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/10/22 19:51）</title><link>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</link><pubDate>Fri, 22 Oct 2021 03:26:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
 2021/10/22 3:30現在で判明している、以下の譜面定数を反映いたしました。&lt;/p>
+&lt;h2 id="追記-20211024-0058">追記 2021/10/24 00:58&lt;/h2>
+&lt;p>追記時点で判明している譜面定数を追加で反映いたしました。&lt;br>
+なお追加の差分に関しましては&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/5e70a7eeee68ecbc0571cb3c9b5f44716daa9911">こちら&lt;/a>よりご確認をお願いいたします。&lt;/p>
 &lt;h2 id="追記-20211022-1951">追記 2021/10/22 19:51&lt;/h2>
 &lt;p>追記時点で判明している譜面定数を追加で反映いたしました。&lt;br>
 なお追加の差分に関しましては&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/5e70a7eeee68ecbc0571cb3c9b5f44716daa9911">こちら&lt;/a>よりご確認をお願いいたします。&lt;/p>
@@ -215,11 +218,6 @@
 &lt;td style="text-align:center">よんでミラクるん!&lt;/td>
 &lt;td style="text-align:center">12+&lt;/td>
 &lt;td style="text-align:center">12.9&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td style="text-align:center">シアワセうさぎ・ぺこみこマリン&lt;/td>
-&lt;td style="text-align:center">12+&lt;/td>
-&lt;td style="text-align:center">12.8&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">Transcend Lights&lt;/td>
@@ -1429,6 +1427,11 @@
 &lt;td style="text-align:center">13.2&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">ロッキンピンクモンスター&lt;/td>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:center">13.2&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">今ぞ♡崇め奉れ☆オマエらよ！！～姫の秘メタル渇望～&lt;/td>
 &lt;td style="text-align:center">13&lt;/td>
 &lt;td style="text-align:center">13.2&lt;/td>
@@ -1445,6 +1448,11 @@
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">Paradisus-Paradoxum&lt;/td>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:center">13.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">give it up to you&lt;/td>
 &lt;td style="text-align:center">13&lt;/td>
 &lt;td style="text-align:center">13.1&lt;/td>
 &lt;/tr>
@@ -1519,6 +1527,16 @@
 &lt;td style="text-align:center">13.1&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">ネクストネスト&lt;/td>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:center">13.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">アカリがやってきたぞっ&lt;/td>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:center">13.0&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">サクライロフワリ&lt;/td>
 &lt;td style="text-align:center">13&lt;/td>
 &lt;td style="text-align:center">13.0&lt;/td>
@@ -1554,6 +1572,11 @@
 &lt;td style="text-align:center">13.0&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">Catch the Moment&lt;/td>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:center">13.0&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">Change Our MIRAI！ (Our 7 Lights)&lt;/td>
 &lt;td style="text-align:center">13&lt;/td>
 &lt;td style="text-align:center">13.0&lt;/td>
@@ -1565,6 +1588,11 @@
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">感情アクセラレイション&lt;/td>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:center">13.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">MAKING！ハイタッチ！&lt;/td>
 &lt;td style="text-align:center">13&lt;/td>
 &lt;td style="text-align:center">13.0&lt;/td>
 &lt;/tr>
@@ -1594,6 +1622,11 @@
 &lt;td style="text-align:center">13.0&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">sweet little sister&lt;/td>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:center">13.0&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">蛙石&lt;/td>
 &lt;td style="text-align:center">12+&lt;/td>
 &lt;td style="text-align:center">12.9&lt;/td>
@@ -1604,7 +1637,22 @@
 &lt;td style="text-align:center">12.9&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">ネガティブ進化論&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.9&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">あの世行きのバスに乗ってさらば。&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.9&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">だから僕は音楽を辞めた&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.9&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ヤミツキ&lt;/td>
 &lt;td style="text-align:center">12+&lt;/td>
 &lt;td style="text-align:center">12.9&lt;/td>
 &lt;/tr>
@@ -1615,6 +1663,11 @@
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">侵略ノススメ☆&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.9&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ルナティックレッドアイズ&lt;/td>
 &lt;td style="text-align:center">12+&lt;/td>
 &lt;td style="text-align:center">12.9&lt;/td>
 &lt;/tr>
@@ -1634,12 +1687,27 @@
 &lt;td style="text-align:center">12.9&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">ADAMAS&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.9&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">Necro Fantasia&lt;/td>
 &lt;td style="text-align:center">12+&lt;/td>
 &lt;td style="text-align:center">12.9&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">星屑ユートピア&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.9&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">時の冒険者&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.9&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">GAME IS LIFE&lt;/td>
 &lt;td style="text-align:center">12+&lt;/td>
 &lt;td style="text-align:center">12.9&lt;/td>
 &lt;/tr>
@@ -1654,7 +1722,17 @@
 &lt;td style="text-align:center">12.9&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">oboro&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.9&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">Cyberozar&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.9&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">幻想のサテライト&lt;/td>
 &lt;td style="text-align:center">12+&lt;/td>
 &lt;td style="text-align:center">12.9&lt;/td>
 &lt;/tr>
@@ -1664,7 +1742,17 @@
 &lt;td style="text-align:center">12.9&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">ケロ⑨destiny&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.8&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">おはようジャポニカ&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.8&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Rendezvous&lt;/td>
 &lt;td style="text-align:center">12+&lt;/td>
 &lt;td style="text-align:center">12.8&lt;/td>
 &lt;/tr>
@@ -1730,6 +1818,21 @@
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">Preserved Roses&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.8&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">からくりピエロ&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.8&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Dragoon&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.8&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">チュルリラ・チュルリラ・ダッダッダ！&lt;/td>
 &lt;td style="text-align:center">12+&lt;/td>
 &lt;td style="text-align:center">12.8&lt;/td>
 &lt;/tr>
@@ -1974,7 +2077,17 @@
 &lt;td style="text-align:center">12.4&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">カラフル&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">ホシノキズナ&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">夜明けのストリング&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.4&lt;/td>
 &lt;/tr>
@@ -2000,6 +2113,11 @@
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">beautiful tomorrow&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">徒花ネクロマンシー&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.3&lt;/td>
 &lt;/tr>
@@ -2164,6 +2282,11 @@
 &lt;td style="text-align:center">13.0&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">Garakuta Doll Play&lt;/td>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:center">13.0&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">MEGATON BLAST&lt;/td>
 &lt;td style="text-align:center">13&lt;/td>
 &lt;td style="text-align:center">13.0&lt;/td>
@@ -2260,6 +2383,11 @@
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">Genesis&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">神威&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.4&lt;/td>
 &lt;/tr>
