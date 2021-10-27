@@ -1,5 +1,5 @@
 ---
-title: "bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/10/27 2:18）"
+title: "bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/10/27 23:43）"
 date: 2021-10-22T03:26:13+09:00
 draft: false
 
@@ -12,30 +12,21 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 <!--more-->
 
-## 追記 2021/10/27 2:18
+## 追記
 
 追記時点で判明している譜面定数を追加で反映いたしました。  
-なお追加の差分に関しましては[こちら](https://github.com/project-primera/project-primera.github.io/commit/321cebfe83879faa3729c811db533d6b4139ace9)よりご確認をお願いいたします。
+なお追加の差分に関しましては以下よりご確認をお願いいたします。
 
-## 追記 2021/10/26 3:59
 
-追記時点で判明している譜面定数を追加で反映いたしました。  
-なお追加の差分に関しましては[こちら](https://github.com/project-primera/project-primera.github.io/commit/475eb7db64abcf833ee5020dee286f90020d8b8d)よりご確認をお願いいたします。
-
-## 追記 2021/10/25 3:26
-
-追記時点で判明している譜面定数を追加で反映いたしました。  
-なお追加の差分に関しましては[こちら](https://github.com/project-primera/project-primera.github.io/commit/87d88ab25611ba7078ab2eb8ba1698e832a12e87)よりご確認をお願いいたします。
-
-## 追記 2021/10/24 00:58
-
-追記時点で判明している譜面定数を追加で反映いたしました。  
-なお追加の差分に関しましては[こちら](https://github.com/project-primera/project-primera.github.io/commit/b6b96f5f6676fbcd3c17eb0c5f998acae5418009)よりご確認をお願いいたします。
-
-## 追記 2021/10/22 19:51
-
-追記時点で判明している譜面定数を追加で反映いたしました。  
-なお追加の差分に関しましては[こちら](https://github.com/project-primera/project-primera.github.io/commit/5e70a7eeee68ecbc0571cb3c9b5f44716daa9911)よりご確認をお願いいたします。
+| 追記日時 | 更新差分 |
+|:-:|:-:|
+| 2021/10/22 19:51 | [Link](https://github.com/project-primera/project-primera.github.io/commit/5e70a7eeee68ecbc0571cb3c9b5f44716daa9911) |
+| 2021/10/22 19:51 | [Link](https://github.com/project-primera/project-primera.github.io/commit/5e70a7eeee68ecbc0571cb3c9b5f44716daa9911) |
+| 2021/10/24 0:58 | [Link](https://github.com/project-primera/project-primera.github.io/commit/b6b96f5f6676fbcd3c17eb0c5f998acae5418009) |
+| 2021/10/25 3:26 | [Link](https://github.com/project-primera/project-primera.github.io/commit/87d88ab25611ba7078ab2eb8ba1698e832a12e87) |
+| 2021/10/26 3:59 | [Link](https://github.com/project-primera/project-primera.github.io/commit/475eb7db64abcf833ee5020dee286f90020d8b8d) |
+| 2021/10/27 2:18 | [Link](https://github.com/project-primera/project-primera.github.io/commit/321cebfe83879faa3729c811db533d6b4139ace9) |
+| 2021/10/27 23:43 | [Link](https://github.com/project-primera/project-primera.github.io/commit/43f350c21be46500fbbcef70cdaa80320004a05f) |
 
 ## 新規追加
 
