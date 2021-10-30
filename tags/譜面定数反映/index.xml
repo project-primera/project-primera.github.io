@@ -54,7 +54,7 @@ If it does not load properly, it may have been made private or deleted.
 &lt;a href="https://twitter.com/suoineau_ac" target="_blank">@suoineau_ac&lt;/a>
 &lt;p>（敬称略）&lt;br>
 ご提供いただき誠にありがとうございます。&lt;/p>
-&lt;p>引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/10/27 23:43）</title><link>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</link><pubDate>Fri, 22 Oct 2021 03:26:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
+&lt;p>引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/10/31 0:47）</title><link>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</link><pubDate>Fri, 22 Oct 2021 03:26:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
 2021/10/22 3:30現在で判明している、以下の譜面定数を反映いたしました。&lt;/p>
 &lt;h2 id="追記">追記&lt;/h2>
 &lt;p>追記時点で判明している譜面定数を追加で反映いたしました。&lt;br>
@@ -94,6 +94,10 @@ If it does not load properly, it may have been made private or deleted.
 &lt;tr>
 &lt;td style="text-align:center">2021/10/27 23:43&lt;/td>
 &lt;td style="text-align:center">&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/43f350c21be46500fbbcef70cdaa80320004a05f">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">2021/10/31 0:47&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/8f3a00aaa8770f7c5e57ad7d2f8de1faa5c3545e">Link&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>

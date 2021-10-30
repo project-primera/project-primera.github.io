@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>大型アップデート関連 on Project Primera Blog</title><link>https://project-primera.github.io/tags/%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E9%96%A2%E9%80%A3/</link><description>Project Primera Blog (大型アップデート関連)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 22 Oct 2021 03:26:13 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/tags/%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E9%96%A2%E9%80%A3/index.xml" rel="self" type="application/rss+xml"/><item><title>bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/10/27 23:43）</title><link>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</link><pubDate>Fri, 22 Oct 2021 03:26:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>大型アップデート関連 on Project Primera Blog</title><link>https://project-primera.github.io/tags/%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E9%96%A2%E9%80%A3/</link><description>Project Primera Blog (大型アップデート関連)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 22 Oct 2021 03:26:13 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/tags/%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E9%96%A2%E9%80%A3/index.xml" rel="self" type="application/rss+xml"/><item><title>bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/10/31 0:47）</title><link>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</link><pubDate>Fri, 22 Oct 2021 03:26:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
 2021/10/22 3:30現在で判明している、以下の譜面定数を反映いたしました。&lt;/p>
 &lt;h2 id="追記">追記&lt;/h2>
 &lt;p>追記時点で判明している譜面定数を追加で反映いたしました。&lt;br>
@@ -38,6 +38,10 @@
 &lt;tr>
 &lt;td style="text-align:center">2021/10/27 23:43&lt;/td>
 &lt;td style="text-align:center">&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/43f350c21be46500fbbcef70cdaa80320004a05f">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">2021/10/31 0:47&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/8f3a00aaa8770f7c5e57ad7d2f8de1faa5c3545e">Link&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
