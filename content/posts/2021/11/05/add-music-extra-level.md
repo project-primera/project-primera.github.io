@@ -33,12 +33,14 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 {{< tweet 1456060734375284739 >}}
 {{< tweet 1456086856248950791 >}}
+{{< tweet 1456611124950962179 >}}
 
 [[G7]オンゲキbright譜面定数速報](https://docs.google.com/spreadsheets/d/1ZAUxUsUesk5mmKARzsxIRrpMVERIEKZZU038zKFGEoI/edit#gid=2079156372)
 
 ## データの提供者
 
 {{< twitter_profile id="suoineau_ac" >}}
+{{< twitter_profile id="Rinsaku471" >}}
 
 （敬称略）  
 ご提供いただき誠にありがとうございます。
