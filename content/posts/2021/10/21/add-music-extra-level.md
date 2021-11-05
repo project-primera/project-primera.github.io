@@ -564,7 +564,15 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | 心象蜃気楼 | 12 | 12.2 |
 | ゴーストルール | 12 | 12.2 |
 | 木彫り鯰と右肩ゾンビ | 12 | 12.2 |
+| タイムマシン | 12 | 12.1 |
+| 五等分の気持ち | 12 | 12.1 |
+| NATSUKAGE-夏陰- | 12 | 12.1 |
 | 夏色花火 | 12 | 12.1 |
+| メーベル (self cover) | 12 | 12.1 |
+| どうぶつ☆パラダイス | 12 | 12.1 |
+| Colors | 12 | 12.1 |
+| 寒想桜 | 12 | 12.1 |
+| ヒビカセ | 12 | 12.1 |
 | エブリデイワールド | 12 | 12.0 |
 
 ### Expert
@@ -641,11 +649,21 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Ai Drew | 12 | 12.3 |
 | YURUSHITE | 12 | 12.3 |
 | Dazzle hop | 12 | 12.3 |
+| GODLINESS | 12 | 12.2 |
 | Xevel | 12 | 12.2 |
+| Pastel Sprinkles | 12 | 12.2 |
+| colorful transparency | 12 | 12.2 |
+| ナイト・オブ・ナイツ (かめりあ’s“ワンス・アポン・ア・ナイト”Remix) | 12 | 12.2 |
 | RED to RED | 12 | 12.2 |
+| Air | 12 | 12.2 |
+| Mini skirt | 12 | 12.2 |
 | インビジブル | 12 | 12.2 |
 | The wheel to the right | 12 | 12.2 |
+| Grievous Lady | 12 | 12.1 |
+| Jack-the-Ripper◆ | 12 | 12.1 |
+| Trinity Departure | 12 | 12.1 |
 | SILENT BLUE | 12 | 12.1 |
+| GEOMETRIC DANCE | 12 | 12.1 |
 | ラクガキスト | 12 | 12.0 |
 | Last Kingdom | 11+ | 11.9 |
 | felys -final remix- | 11+ | 11.7 |
