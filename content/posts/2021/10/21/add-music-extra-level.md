@@ -573,7 +573,16 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Colors | 12 | 12.1 |
 | 寒想桜 | 12 | 12.1 |
 | ヒビカセ | 12 | 12.1 |
+| Snow Song Show | 12 | 12.0 |
 | エブリデイワールド | 12 | 12.0 |
+| 乙女解剖 | 12 | 12.0 |
+| メルト | 12 | 12.0 |
+| シャルル | 12 | 12.0 |
+| Tell Your World | 12 | 12.0 |
+| いーあるふぁんくらぶ | 12 | 12.0 |
+| Zest of Blue | 12 | 12.0 |
+| オモイヨシノ | 12 | 12.0 |
+| Grip & Break down !! | 12 | 12.0 |
 
 ### Expert
 
@@ -588,7 +597,11 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | ゲーミングポーラーベア | 11 | 11.4 |
 | Dement ～after legend～ | 11 | 11.4 |
 | ジャンキーナイトタウンオーケストラ | 11 | 11.2 |
+| Cutter | 11 | 11.1 |
 | Elusive Emotes | 11 | 11.0 |
+| ぶいちゅっばの歌 | 10+ | 10.7 |
+| Psalms ～魂の還るばしょ～ | 10+ | 10.7 |
+| ハッピーエンドをはじめから | 10 | 10.0 |
 
 #### 既存曲
 
@@ -659,14 +672,20 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Mini skirt | 12 | 12.2 |
 | インビジブル | 12 | 12.2 |
 | The wheel to the right | 12 | 12.2 |
+| Adverse Gaff | 12 | 12.1 |
 | Grievous Lady | 12 | 12.1 |
 | Jack-the-Ripper◆ | 12 | 12.1 |
+| PinqPiq (xovevox Remix) | 12 | 12.1 |
 | Trinity Departure | 12 | 12.1 |
 | SILENT BLUE | 12 | 12.1 |
 | GEOMETRIC DANCE | 12 | 12.1 |
 | ラクガキスト | 12 | 12.0 |
+| Daydreama | 12 | 12.0 |
+| HONEY-Q | 12 | 12.0 |
+| Calamity Fortune | 12 | 12.0 |
 | Last Kingdom | 11+ | 11.9 |
 | felys -final remix- | 11+ | 11.7 |
+| folern | 11 | 11.5 |
 
 ## レーティング対象外
 
