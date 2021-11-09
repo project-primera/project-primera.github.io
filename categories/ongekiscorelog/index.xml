@@ -160,7 +160,7 @@ If it does not load properly, it may have been made private or deleted.
 次回ブックマークレット実行時に、旧称号を獲得していない場合は記録されます。&lt;/p>
 &lt;hr>
 &lt;p>この度はご迷惑をおかけし、誠に申し訳ございません。&lt;br>
-引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/11/06 0:27）</title><link>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</link><pubDate>Fri, 22 Oct 2021 03:26:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
+引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/11/10 0:10）</title><link>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</link><pubDate>Fri, 22 Oct 2021 03:26:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
 2021/10/22 3:30現在で判明している、以下の譜面定数を反映いたしました。&lt;/p>
 &lt;h2 id="追記">追記&lt;/h2>
 &lt;p>追記時点で判明している譜面定数を追加で反映いたしました。&lt;br>
@@ -208,6 +208,10 @@ If it does not load properly, it may have been made private or deleted.
 &lt;tr>
 &lt;td style="text-align:center">2021/11/06 0:27&lt;/td>
 &lt;td style="text-align:center">&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/880cc2ba3dcd9808072a07d66124088a86a427a0">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">2021/11/10 0:10&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/edf41ef71ebc644f6898fb8887e1b44452cb3351">Link&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
