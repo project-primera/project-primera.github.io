@@ -1,4 +1,64 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Project Primera Blog</title><link>https://project-primera.github.io/posts/</link><description>Project Primera Blog (Posts)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 05 Nov 2021 02:26:41 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>譜面定数反映のお知らせ（2021-11-05）</title><link>https://project-primera.github.io/posts/2021/11/05/add-music-extra-level/</link><pubDate>Fri, 05 Nov 2021 02:26:41 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/11/05/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Project Primera Blog</title><link>https://project-primera.github.io/posts/</link><description>Project Primera Blog (Posts)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 12 Nov 2021 11:14:02 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>譜面定数反映のお知らせ（2021-11-12）</title><link>https://project-primera.github.io/posts/2021/11/12/add-music-extra-level/</link><pubDate>Fri, 12 Nov 2021 11:14:02 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/11/12/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
+以下の譜面定数を反映いたしました。&lt;/p>
+&lt;h2 id="新規追加">新規追加&lt;/h2>
+&lt;h3 id="master">Master&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">曲名&lt;/th>
+&lt;th style="text-align:center">レベル&lt;/th>
+&lt;th style="text-align:center">譜面定数&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">μάγια&lt;/td>
+&lt;td style="text-align:center">14&lt;/td>
+&lt;td style="text-align:center">14.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Skip &amp;amp; Smile!!&lt;/td>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:center">13.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Catch Me If You Can&lt;/td>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:center">13.2&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h3 id="expert">Expert&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:center">曲名&lt;/th>
+&lt;th style="text-align:center">レベル&lt;/th>
+&lt;th style="text-align:center">譜面定数&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:center">μάγια&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Skip &amp;amp; Smile!!&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Catch Me If You Can&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h2 id="データの出典元">データの出典元&lt;/h2>
+&lt;p>&lt;a href="https://docs.google.com/spreadsheets/d/1ZAUxUsUesk5mmKARzsxIRrpMVERIEKZZU038zKFGEoI/edit#gid=2079156372">[G7]オンゲキbright譜面定数速報&lt;/a>&lt;/p>
+&lt;p>ご調査いただき誠にありがとうございます。&lt;br>
+引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>譜面定数反映のお知らせ（2021-11-05）</title><link>https://project-primera.github.io/posts/2021/11/05/add-music-extra-level/</link><pubDate>Fri, 05 Nov 2021 02:26:41 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/11/05/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
 以下の譜面定数を反映いたしました。&lt;/p>
 &lt;h2 id="新規追加">新規追加&lt;/h2>
 &lt;h3 id="lunatic">Lunatic&lt;/h3>
