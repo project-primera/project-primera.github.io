@@ -220,7 +220,7 @@ If it does not load properly, it may have been made private or deleted.
 次回ブックマークレット実行時に、旧称号を獲得していない場合は記録されます。&lt;/p>
 &lt;hr>
 &lt;p>この度はご迷惑をおかけし、誠に申し訳ございません。&lt;br>
-引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/11/10 0:10）</title><link>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</link><pubDate>Fri, 22 Oct 2021 03:26:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
+引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/11/12 11:30）</title><link>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</link><pubDate>Fri, 22 Oct 2021 03:26:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
 2021/10/22 3:30現在で判明している、以下の譜面定数を反映いたしました。&lt;/p>
 &lt;h2 id="追記">追記&lt;/h2>
 &lt;p>追記時点で判明している譜面定数を追加で反映いたしました。&lt;br>
@@ -272,6 +272,10 @@ If it does not load properly, it may have been made private or deleted.
 &lt;tr>
 &lt;td style="text-align:center">2021/11/10 0:10&lt;/td>
 &lt;td style="text-align:center">&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/edf41ef71ebc644f6898fb8887e1b44452cb3351">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">2021/11/12 11:30&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/ef8f76daedf45596138167179324c860f76ceb72">Link&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -444,6 +448,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">14.5&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">μάγια&lt;/td>
+&lt;td style="text-align:center">14&lt;/td>
+&lt;td style="text-align:center">14.4&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">ミラージュ・フレイグランス&lt;/td>
 &lt;td style="text-align:center">14&lt;/td>
 &lt;td style="text-align:center">14.4&lt;/td>
@@ -474,6 +483,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">13.8&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">Skip &amp;amp; Smile!!&lt;/td>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:center">13.6&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">ジャンキーナイトタウンオーケストラ&lt;/td>
 &lt;td style="text-align:center">13&lt;/td>
 &lt;td style="text-align:center">13.6&lt;/td>
@@ -497,6 +511,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">春を告げる&lt;/td>
 &lt;td style="text-align:center">13&lt;/td>
 &lt;td style="text-align:center">13.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Catch Me If You Can&lt;/td>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:center">13.2&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">NEXT COLOR PLANET&lt;/td>
@@ -2960,6 +2979,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.0&lt;/td>
 &lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">星のダイアローグ&lt;/td>
+&lt;td style="text-align:center">11+&lt;/td>
+&lt;td style="text-align:center">11.7&lt;/td>
+&lt;/tr>
 &lt;/tbody>
 &lt;/table>
 &lt;h3 id="expert">Expert&lt;/h3>
@@ -2989,6 +3013,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">12.4&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">μάγια&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">Last Celebration&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.0&lt;/td>
@@ -3002,6 +3031,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">Dement ～after legend～&lt;/td>
 &lt;td style="text-align:center">11&lt;/td>
 &lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Skip &amp;amp; Smile!!&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.2&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">ジャンキーナイトタウンオーケストラ&lt;/td>
@@ -3027,6 +3061,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">Psalms ～魂の還るばしょ～&lt;/td>
 &lt;td style="text-align:center">10+&lt;/td>
 &lt;td style="text-align:center">10.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Catch Me If You Can&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">ハッピーエンドをはじめから&lt;/td>
@@ -3431,7 +3470,27 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">11.9&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">Climax&lt;/td>
+&lt;td style="text-align:center">11+&lt;/td>
+&lt;td style="text-align:center">11.8&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ニニ&lt;/td>
+&lt;td style="text-align:center">11+&lt;/td>
+&lt;td style="text-align:center">11.7&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">felys -final remix-&lt;/td>
+&lt;td style="text-align:center">11+&lt;/td>
+&lt;td style="text-align:center">11.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Touch and Go&lt;/td>
+&lt;td style="text-align:center">11+&lt;/td>
+&lt;td style="text-align:center">11.7&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">7thSense&lt;/td>
 &lt;td style="text-align:center">11+&lt;/td>
 &lt;td style="text-align:center">11.7&lt;/td>
 &lt;/tr>
