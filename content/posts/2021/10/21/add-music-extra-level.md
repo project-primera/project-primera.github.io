@@ -114,6 +114,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | KING | 12 | 12.4 |
 | 色は匂へど散りぬるを | 12 | 12.3 |
 | 恋愛裁判 | 12 | 12.3 |
+| うぇるかむ to ONSEN!! | 12 | 12.2 |
 | Happiness on the Table | 12 | 12.0 |
 | なんどでも笑おう | 11+ | 11.7 |
 
@@ -421,6 +422,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | おはようジャポニカ | 12+ | 12.8 |
 | Rendezvous | 12+ | 12.8 |
 | 雨とペトラ | 12+ | 12.8 |
+| シアワセうさぎ・ぺこみこマリン | 12+ | 12.8 |
 | Daydream café | 12+ | 12.8 |
 | STARRED HEART | 12+ | 12.8 |
 | 心予報 | 12+ | 12.8 |
@@ -607,7 +609,13 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | タテマエと本心の大乱闘 | 11+ | 11.8 |
 | 回レ！雪月花 | 11+ | 11.8 |
 | シュガーソングとビターステップ | 11+ | 11.8 |
+| Hand in Hand | 11+ | 11.7 |
+| SmileAgain | 11+ | 11.7 |
+| Brave Song | 11+ | 11.7 |
+| お願い☆My Boy | 11+ | 11.7 |
 | 星のダイアローグ | 11+ | 11.7 |
+| ブリキノダンス | 11+ | 11.7 |
+| Lost Princess | 11 | 11.6 |
 
 ### Expert
 
@@ -622,13 +630,17 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Last Celebration | 12 | 12.0 |
 | ゲーミングポーラーベア | 11 | 11.4 |
 | Dement ～after legend～ | 11 | 11.4 |
+| 初音天地開闢神話 | 11 | 11.3 |
 | Skip & Smile!! | 11 | 11.2 |
 | ジャンキーナイトタウンオーケストラ | 11 | 11.2 |
 | Cutter | 11 | 11.1 |
+| 足立オウフwwww | 11 | 11.0 |
 | Elusive Emotes | 11 | 11.0 |
 | ぶいちゅっばの歌 | 10+ | 10.7 |
 | Psalms ～魂の還るばしょ～ | 10+ | 10.7 |
+| Mizutama-Tripster | 10 | 10.4 |
 | ダーリンダンス | 10 | 10.4 |
+| 福宿音屋魂音泉 | 10 | 10.0 |
 | Catch Me If You Can | 10 | 10.0 |
 | ハッピーエンドをはじめから | 10 | 10.0 |
 | Transcend Lights | 10 | 10.0 |
@@ -716,21 +728,34 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | HONEY-Q | 12 | 12.0 |
 | Calamity Fortune | 12 | 12.0 |
 | ENERGY SYNERGY MATRIX | 11+ | 11.9 |
+| A Day in the Patisserie | 11+ | 11.9 |
 | ナイト・オブ・ナイツ (xi Remix) | 11+ | 11.9 |
 | Last Kingdom | 11+ | 11.9 |
 | World Vanquisher | 11+ | 11.9 |
 | FREEDOM DiVE (tpz Overcute Remix) | 11+ | 11.9 |
+| DRAGONLADY | 11+ | 11.8 |
 | Secret Sleuth | 11+ | 11.8 |
+| c.s.q.n. | 11+ | 11.8 |
 | Climax | 11+ | 11.8 |
 | DAWNBREAKER | 11+ | 11.8 |
 | Sparkle | 11+ | 11.8 |
 | エンドマークに希望と涙を添えて | 11+ | 11.8 |
 | ニニ | 11+ | 11.7 |
 | LUNA DIAL -Version X-SAKUYA- | 11+ | 11.7 |
+| 四月の雨 | 11+ | 11.7 |
+| Ruler Count, Zero | 11+ | 11.7 |
+| LiftOff | 11+ | 11.7 |
+| Lostwizz | 11+ | 11.7 |
 | felys -final remix- | 11+ | 11.7 |
+| ウサテイ | 11+ | 11.7 |
 | Touch and Go | 11+ | 11.7 |
+| 初音ミクの消失 | 11+ | 11.7 |
+| カミサマネジマキ | 11+ | 11.7 |
 | 7thSense | 11+ | 11.7 |
+| Satori ～3rd EyEs (2020 Recall) | 11 | 11.6 |
+| Imperishable Night 2006 (2016 Refine) | 11 | 11.6 |
 | folern | 11 | 11.5 |
+| 裏表ラバーズ | 11 | 11.3 |
 | Phantom Joke | 11 | 11.1 |
 | Honey Bear | 11 | 11.0 |
 
