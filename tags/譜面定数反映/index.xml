@@ -408,7 +408,7 @@ If it does not load properly, it may have been made private or deleted.
 &lt;a href="https://twitter.com/suoineau_ac" target="_blank">@suoineau_ac&lt;/a>
 &lt;p>（敬称略）&lt;br>
 ご提供いただき誠にありがとうございます。&lt;/p>
-&lt;p>引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/12/01 01:10）</title><link>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</link><pubDate>Fri, 22 Oct 2021 03:26:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
+&lt;p>引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/12/09 04:14）</title><link>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</link><pubDate>Fri, 22 Oct 2021 03:26:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
 2021/10/22 3:30現在で判明している、以下の譜面定数を反映いたしました。&lt;/p>
 &lt;h2 id="追記">追記&lt;/h2>
 &lt;p>追記時点で判明している譜面定数を追加で反映いたしました。&lt;br>
@@ -472,6 +472,10 @@ If it does not load properly, it may have been made private or deleted.
 &lt;tr>
 &lt;td style="text-align:center">2021/12/01 01:10&lt;/td>
 &lt;td style="text-align:center">&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/480afa715e6564ba91841c571022fe2effb5fcb0">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">2021/12/09 04:14&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/8adc281adb6d04bc4e3069faead9e09e5d2e4a2b">Link&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -724,6 +728,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">13.4&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">電脳少女は歌姫の夢を見るか？&lt;/td>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:center">13.3&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">ハッピーエンドをはじめから&lt;/td>
 &lt;td style="text-align:center">13&lt;/td>
 &lt;td style="text-align:center">13.3&lt;/td>
@@ -754,6 +763,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">13.0&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">永遠にゲームで対戦したいキリタン&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.9&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">39みゅーじっく！&lt;/td>
 &lt;td style="text-align:center">12+&lt;/td>
 &lt;td style="text-align:center">12.9&lt;/td>
@@ -762,6 +776,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">よんでミラクるん!&lt;/td>
 &lt;td style="text-align:center">12+&lt;/td>
 &lt;td style="text-align:center">12.9&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">泥の分際で私だけの大切を奪おうだなんて&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.8&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">ぽかぽか温泉音頭&lt;/td>
@@ -3310,6 +3329,41 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">11&lt;/td>
 &lt;td style="text-align:center">11.6&lt;/td>
 &lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">みんな Happy!!&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Perfect Shining!!&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Cream+Mint&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">First Twinkle&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">檄!帝国華撃団&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">鳥の詩&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">STARTLINER&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.2&lt;/td>
+&lt;/tr>
 &lt;/tbody>
 &lt;/table>
 &lt;h3 id="expert">Expert&lt;/h3>
@@ -3364,6 +3418,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">11.3&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">電脳少女は歌姫の夢を見るか？&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.2&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">Skip &amp;amp; Smile!!&lt;/td>
 &lt;td style="text-align:center">11&lt;/td>
 &lt;td style="text-align:center">11.2&lt;/td>
@@ -3407,6 +3466,11 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">ダーリンダンス&lt;/td>
 &lt;td style="text-align:center">10&lt;/td>
 &lt;td style="text-align:center">10.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">永遠にゲームで対戦したいキリタン&lt;/td>
+&lt;td style="text-align:center">10&lt;/td>
+&lt;td style="text-align:center">10.0&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">福宿音屋魂音泉&lt;/td>
@@ -3956,7 +4020,32 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">11.7&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">CO5M1C R4ILR0AD&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">U ARE&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">僕たちの旅とエピローグ。&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.6&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">Satori ～3rd EyEs (2020 Recall)&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Oshama Scramble! (Cranky Remix)&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">撩乱乙女†無双劇&lt;/td>
 &lt;td style="text-align:center">11&lt;/td>
 &lt;td style="text-align:center">11.6&lt;/td>
 &lt;/tr>
@@ -3966,14 +4055,129 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">11.6&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">Lazy Addiction&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Random Access Emotions&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Singularity&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ヤミツキ&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">All Right!&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">花たちに希望を&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">アマツカミ&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Radiance&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">folern&lt;/td>
 &lt;td style="text-align:center">11&lt;/td>
 &lt;td style="text-align:center">11.5&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">GOODRAGE&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Singularity&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Daredevil Glaive&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">迷える音色は恋の唄&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Iudicium “Apocalypsis Mix”&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Destr0yer&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">疾走あんさんぶる&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Baqeela&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">conflict&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">天狗の落とし文 feat. ｙｔｒ&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">BOKUTO&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.3&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">裏表ラバーズ&lt;/td>
 &lt;td style="text-align:center">11&lt;/td>
 &lt;td style="text-align:center">11.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">人生リセットボタン&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">アンハッピーリフレイン&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">fulgente (flip-side color mix)&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Hyper Active&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.2&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">Phantom Joke&lt;/td>
