@@ -1,5 +1,5 @@
 ---
-title: "bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/12/01 01:10）"
+title: "bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/12/09 04:14）"
 date: 2021-10-22T03:26:13+09:00
 draft: false
 
@@ -32,6 +32,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | 2021/11/12 11:30 | [Link](https://github.com/project-primera/project-primera.github.io/commit/ef8f76daedf45596138167179324c860f76ceb72) |
 | 2021/11/25 20:32 | [Link](https://github.com/project-primera/project-primera.github.io/commit/f6f963f24d79db6a9429a63528e31a59ec30f42b) |
 | 2021/12/01 01:10 | [Link](https://github.com/project-primera/project-primera.github.io/commit/480afa715e6564ba91841c571022fe2effb5fcb0) |
+| 2021/12/09 04:14 | [Link](https://github.com/project-primera/project-primera.github.io/commit/8adc281adb6d04bc4e3069faead9e09e5d2e4a2b) |
 
 ## 新規追加
 
