@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>大型アップデート関連 on Project Primera Blog</title><link>https://project-primera.github.io/tags/%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E9%96%A2%E9%80%A3/</link><description>Project Primera Blog (大型アップデート関連)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 22 Oct 2021 03:26:13 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/tags/%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E9%96%A2%E9%80%A3/index.xml" rel="self" type="application/rss+xml"/><item><title>bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/12/09 04:14）</title><link>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</link><pubDate>Fri, 22 Oct 2021 03:26:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>大型アップデート関連 on Project Primera Blog</title><link>https://project-primera.github.io/tags/%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E9%96%A2%E9%80%A3/</link><description>Project Primera Blog (大型アップデート関連)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 22 Oct 2021 03:26:13 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/tags/%E5%A4%A7%E5%9E%8B%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E9%96%A2%E9%80%A3/index.xml" rel="self" type="application/rss+xml"/><item><title>bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/12/09 21:35）</title><link>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</link><pubDate>Fri, 22 Oct 2021 03:26:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
 2021/10/22 3:30現在で判明している、以下の譜面定数を反映いたしました。&lt;/p>
 &lt;h2 id="追記">追記&lt;/h2>
 &lt;p>追記時点で判明している譜面定数を追加で反映いたしました。&lt;br>
@@ -228,6 +228,11 @@
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
+&lt;td style="text-align:center">MANIERA REMASTERED&lt;/td>
+&lt;td style="text-align:center">14+&lt;/td>
+&lt;td style="text-align:center">14.8&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">SUPER AMBULANCE&lt;/td>
 &lt;td style="text-align:center">14+&lt;/td>
 &lt;td style="text-align:center">14.7&lt;/td>
@@ -373,6 +378,11 @@
 &lt;td style="text-align:center">12.8&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">シャノワール&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.7&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">ぽかぽか温泉音頭&lt;/td>
 &lt;td style="text-align:center">12+&lt;/td>
 &lt;td style="text-align:center">12.7&lt;/td>
@@ -396,6 +406,11 @@
 &lt;td style="text-align:center">うっせぇわ&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">700,000,000,000,000,000,000,000の空で&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.5&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">Hide &amp;amp; Attack&lt;/td>
@@ -2968,6 +2983,11 @@
 &lt;/thead>
 &lt;tbody>
 &lt;tr>
+&lt;td style="text-align:center">MANIERA REMASTERED&lt;/td>
+&lt;td style="text-align:center">13&lt;/td>
+&lt;td style="text-align:center">13.5&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">SUPER AMBULANCE&lt;/td>
 &lt;td style="text-align:center">12+&lt;/td>
 &lt;td style="text-align:center">12.9&lt;/td>
@@ -3640,6 +3660,11 @@
 &lt;td style="text-align:center">11.6&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">Dreadnought&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.6&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">Imperishable Night 2006 (2016 Refine)&lt;/td>
 &lt;td style="text-align:center">11&lt;/td>
 &lt;td style="text-align:center">11.6&lt;/td>
@@ -3695,12 +3720,27 @@
 &lt;td style="text-align:center">11.5&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">Paradisus-Paradoxum&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Bad Apple!! feat.nomico (Camellia’s “Bad Psy” Remix)&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">Singularity&lt;/td>
 &lt;td style="text-align:center">11&lt;/td>
 &lt;td style="text-align:center">11.4&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">Daredevil Glaive&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">カナリア&lt;/td>
 &lt;td style="text-align:center">11&lt;/td>
 &lt;td style="text-align:center">11.4&lt;/td>
 &lt;/tr>
@@ -3735,7 +3775,17 @@
 &lt;td style="text-align:center">11.4&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">断罪は遍く人間の元に&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.3&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">天狗の落とし文 feat. ｙｔｒ&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">イカサマライフゲイム&lt;/td>
 &lt;td style="text-align:center">11&lt;/td>
 &lt;td style="text-align:center">11.3&lt;/td>
 &lt;/tr>
@@ -3760,7 +3810,17 @@
 &lt;td style="text-align:center">11.3&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">夜咄ディセイブ&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.2&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">fulgente (flip-side color mix)&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Death Doll&lt;/td>
 &lt;td style="text-align:center">11&lt;/td>
 &lt;td style="text-align:center">11.2&lt;/td>
 &lt;/tr>
@@ -3775,7 +3835,22 @@
 &lt;td style="text-align:center">11.1&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">STARRED HEART&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.0&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">Honey Bear&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">AMAZING MIGHTYYYY!!!!&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">初音ミクの激唱&lt;/td>
 &lt;td style="text-align:center">11&lt;/td>
 &lt;td style="text-align:center">11.0&lt;/td>
 &lt;/tr>
