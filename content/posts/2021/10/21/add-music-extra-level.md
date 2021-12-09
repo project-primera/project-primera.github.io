@@ -1,5 +1,5 @@
 ---
-title: "bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/12/09 04:14）"
+title: "bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/12/09 21:35）"
 date: 2021-10-22T03:26:13+09:00
 draft: false
 
@@ -80,6 +80,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 | 曲名 | レベル | 譜面定数 |
 |:-:|:-:|:-:|
+| MANIERA REMASTERED | 14+ | 14.8 |
 | SUPER AMBULANCE | 14+ | 14.7 |
 | Last Celebration | 14 | 14.6 |
 | TEmPTaTiON | 14 | 14.5 |
@@ -109,11 +110,13 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | 39みゅーじっく！ | 12+ | 12.9 |
 | よんでミラクるん! | 12+ | 12.9 |
 | 泥の分際で私だけの大切を奪おうだなんて | 12+ | 12.8 |
+| シャノワール | 12+ | 12.7 |
 | ぽかぽか温泉音頭 | 12+ | 12.7 |
 | アマカミサマ | 12+ | 12.7 |
 | Transcend Lights | 12+ | 12.7 |
 | 花ハ踊レヤいろはにほ | 12+ | 12.7 |
 | うっせぇわ | 12 | 12.6 |
+| 700,000,000,000,000,000,000,000の空で | 12 | 12.5 |
 | Hide & Attack | 12 | 12.5 |
 | エッビーナースデイ | 12 | 12.4 |
 | KING | 12 | 12.4 |
@@ -635,6 +638,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 | 曲名 | レベル | 譜面定数 |
 |:-:|:-:|:-:|
+| MANIERA REMASTERED | 13 | 13.5 |
 | SUPER AMBULANCE | 12+ | 12.9 |
 | ミラージュ・フレイグランス | 12+ | 12.8 |
 | 竹 | 12 | 12.4 |
@@ -772,6 +776,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Satori ～3rd EyEs (2020 Recall) | 11 | 11.6 |
 | Oshama Scramble! (Cranky Remix) | 11 | 11.6 |
 | 撩乱乙女†無双劇 | 11 | 11.6 |
+| Dreadnought | 11 | 11.6 |
 | Imperishable Night 2006 (2016 Refine) | 11 | 11.6 |
 | Lazy Addiction | 11 | 11.6 |
 | Random Access Emotions | 11 | 11.5 |
@@ -783,23 +788,33 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Radiance | 11 | 11.5 |
 | folern | 11 | 11.5 |
 | GOODRAGE | 11 | 11.5 |
+| Paradisus-Paradoxum | 11 | 11.4 |
+| Bad Apple!! feat.nomico (Camellia’s “Bad Psy” Remix) | 11 | 11.4 |
 | Singularity | 11 | 11.4 |
 | Daredevil Glaive | 11 | 11.4 |
+| カナリア | 11 | 11.4 |
 | 迷える音色は恋の唄 | 11 | 11.4 |
 | Iudicium “Apocalypsis Mix” | 11 | 11.4 |
 | Destr0yer | 11 | 11.4 |
 | 疾走あんさんぶる | 11 | 11.4 |
 | Baqeela | 11 | 11.4 |
 | conflict | 11 | 11.4 |
+| 断罪は遍く人間の元に | 11 | 11.3 |
 | 天狗の落とし文 feat. ｙｔｒ | 11 | 11.3 |
+| イカサマライフゲイム | 11 | 11.3 |
 | BOKUTO | 11 | 11.3 |
 | 裏表ラバーズ | 11 | 11.3 |
 | 人生リセットボタン | 11 | 11.3 |
 | アンハッピーリフレイン | 11 | 11.3 |
+| 夜咄ディセイブ | 11 | 11.2 |
 | fulgente (flip-side color mix) | 11 | 11.2 |
+| Death Doll | 11 | 11.2 |
 | Hyper Active | 11 | 11.2 |
 | Phantom Joke | 11 | 11.1 |
+| STARRED HEART | 11 | 11.0 |
 | Honey Bear | 11 | 11.0 |
+| AMAZING MIGHTYYYY!!!! | 11 | 11.0 |
+| 初音ミクの激唱 | 11 | 11.0 |
 
 ## レーティング対象外
 
