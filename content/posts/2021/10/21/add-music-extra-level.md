@@ -33,6 +33,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | 2021/11/25 20:32 | [Link](https://github.com/project-primera/project-primera.github.io/commit/f6f963f24d79db6a9429a63528e31a59ec30f42b) |
 | 2021/12/01 01:10 | [Link](https://github.com/project-primera/project-primera.github.io/commit/480afa715e6564ba91841c571022fe2effb5fcb0) |
 | 2021/12/09 04:14 | [Link](https://github.com/project-primera/project-primera.github.io/commit/8adc281adb6d04bc4e3069faead9e09e5d2e4a2b) |
+| 2021/12/09 21:35| [Link](https://github.com/project-primera/project-primera.github.io/commit/ae8c0005f93213135cfa679a9a06dc18fc532f20) |
 
 ## 新規追加
 
