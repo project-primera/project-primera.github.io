@@ -508,7 +508,7 @@ If it does not load properly, it may have been made private or deleted.
 次回ブックマークレット実行時に、旧称号を獲得していない場合は記録されます。&lt;/p>
 &lt;hr>
 &lt;p>この度はご迷惑をおかけし、誠に申し訳ございません。&lt;br>
-引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/12/09 21:35）</title><link>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</link><pubDate>Fri, 22 Oct 2021 03:26:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
+引き続きOngekiScoreLogをよろしくお願いいたします。&lt;/p></description></item><item><title>bright バージョンアップに伴う譜面定数反映のお知らせ（追記 2021/12/15 1:53）</title><link>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</link><pubDate>Fri, 22 Oct 2021 03:26:13 +0900</pubDate><guid>https://project-primera.github.io/posts/2021/10/21/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
 2021/10/22 3:30現在で判明している、以下の譜面定数を反映いたしました。&lt;/p>
 &lt;h2 id="追記">追記&lt;/h2>
 &lt;p>追記時点で判明している譜面定数を追加で反映いたしました。&lt;br>
@@ -580,6 +580,10 @@ If it does not load properly, it may have been made private or deleted.
 &lt;tr>
 &lt;td style="text-align:center">2021/12/09 21:35&lt;/td>
 &lt;td style="text-align:center">&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/ae8c0005f93213135cfa679a9a06dc18fc532f20">Link&lt;/a>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">2021/12/15 1:53&lt;/td>
+&lt;td style="text-align:center">&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/fb9276eff93c8d52d7c78fa1c68bd30fa22b1092">Link&lt;/a>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
@@ -4349,12 +4353,67 @@ If it does not load properly, it may have been made private or deleted.
 &lt;td style="text-align:center">11.1&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">深海のリトルクライ feat. 土岐麻子&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">物凄い狂っとるフランちゃんが物凄いうた&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Doll Judgment&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">おやすみのうた&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.0&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">STARRED HEART&lt;/td>
 &lt;td style="text-align:center">11&lt;/td>
 &lt;td style="text-align:center">11.0&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">Burning Steel Inferno&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">アンノウン・マザーグース&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Summer is over&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.0&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">Honey Bear&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Change Our MIRAI！ (Our 7 Lights)&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">こどものしくみ&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">患部で止まってすぐ溶ける～狂気の優曇華院&lt;/td>
+&lt;td style="text-align:center">11&lt;/td>
+&lt;td style="text-align:center">11.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Ai Nov&lt;/td>
 &lt;td style="text-align:center">11&lt;/td>
 &lt;td style="text-align:center">11.0&lt;/td>
 &lt;/tr>
