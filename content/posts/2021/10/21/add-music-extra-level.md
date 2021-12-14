@@ -33,7 +33,8 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | 2021/11/25 20:32 | [Link](https://github.com/project-primera/project-primera.github.io/commit/f6f963f24d79db6a9429a63528e31a59ec30f42b) |
 | 2021/12/01 01:10 | [Link](https://github.com/project-primera/project-primera.github.io/commit/480afa715e6564ba91841c571022fe2effb5fcb0) |
 | 2021/12/09 04:14 | [Link](https://github.com/project-primera/project-primera.github.io/commit/8adc281adb6d04bc4e3069faead9e09e5d2e4a2b) |
-| 2021/12/09 21:35| [Link](https://github.com/project-primera/project-primera.github.io/commit/ae8c0005f93213135cfa679a9a06dc18fc532f20) |
+| 2021/12/09 21:35 | [Link](https://github.com/project-primera/project-primera.github.io/commit/ae8c0005f93213135cfa679a9a06dc18fc532f20) |
+| 2021/12/15 1:53 | [Link](https://github.com/project-primera/project-primera.github.io/commit/ae8c0005f93213135cfa679a9a06dc18fc532f20) |
 
 ## 新規追加
 
@@ -812,8 +813,19 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Death Doll | 11 | 11.2 |
 | Hyper Active | 11 | 11.2 |
 | Phantom Joke | 11 | 11.1 |
+| 深海のリトルクライ feat. 土岐麻子 | 11 | 11.1 |
+| 物凄い狂っとるフランちゃんが物凄いうた | 11 | 11.1 |
+| Doll Judgment | 11 | 11.1 |
+| おやすみのうた | 11 | 11.0 |
 | STARRED HEART | 11 | 11.0 |
+| Burning Steel Inferno | 11 | 11.0 |
+| アンノウン・マザーグース | 11 | 11.0 |
+| Summer is over | 11 | 11.0 |
 | Honey Bear | 11 | 11.0 |
+| Change Our MIRAI！ (Our 7 Lights) | 11 | 11.0 |
+| こどものしくみ | 11 | 11.0 |
+| 患部で止まってすぐ溶ける～狂気の優曇華院 | 11 | 11.0 |
+| Ai Nov | 11 | 11.0 |
 | AMAZING MIGHTYYYY!!!! | 11 | 11.0 |
 | 初音ミクの激唱 | 11 | 11.0 |
 
