@@ -14,6 +14,12 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 ## 新規追加
 
+### Lunatic
+
+| 曲名 | レベル | 譜面定数 |
+|:-:|:-:|:-:|
+| The world of spirit | 13+ | 13.8 |
+
 ### Master
 
 | 曲名 | レベル | 譜面定数 |
@@ -23,16 +29,29 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | STARLIGHT TWILIGHT -GC edit- | 13+ | 13.8 |
 | 君のStarlight Road | 12 | 12.2 |
 
+### Expert
+
+| 曲名 | レベル | 譜面定数 |
+|:-:|:-:|:-:|
+| Crimson Phoenix | 13 | 13.0 |
+| 2112410403927243233368 | 12 | 12.4 |
+| STARLIGHT TWILIGHT -GC edit- | 10 | 10.0 |
+| 君のStarlight Road | 10 | 10.0 |
+
 ## データの出典元
 
+{{< tweet 1486905063629279235 >}}
 {{< tweet 1486553343900401665 >}}
+{{< tweet 1486998738183028737 >}}
+{{< tweet 1486998819233759232 >}}
 
 ## データの提供者
 
+{{< twitter_profile id="2no38chika" >}}
 {{< twitter_profile id="suoineau_ac" >}}
+{{< twitter_profile id="hikkey7th" >}}
 
-<!-- （順不同　敬称略）   -->
-（敬称略）  
+（順不同　敬称略）  
 ご提供いただき誠にありがとうございます。
 
 引き続きOngekiScoreLogをよろしくお願いいたします。
