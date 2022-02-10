@@ -34,10 +34,10 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 ## データの提供者
 
+{{< twitter_profile id="Fibonacci_seque" >}}
 {{< twitter_profile id="suoineau_ac" >}}
 
-<!-- （順不同　敬称略）   -->
-（敬称略）  
+（順不同　敬称略）  
 ご提供いただき誠にありがとうございます。
 
 引き続きOngekiScoreLogをよろしくお願いいたします。
