@@ -52,6 +52,18 @@
       ],
       "problemMatcher": []
     },
+    {
+      "label": "post: ongeki-score-log-feature",
+      "detail": "Create post from archetypes/ongeki-score-log-feature.",
+      "type": "shell",
+      "command": "hugo",
+      "args": [
+        "new",
+        "posts/${input:directory}/feature.md",
+        "--kind=ongeki-score-log-feature"
+      ],
+      "problemMatcher": []
+    },
   ],
   "inputs": [
     {
