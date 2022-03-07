@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project Primera Blog</title><link>https://project-primera.github.io/</link><description>Project Primera Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 04 Mar 2022 08:24:55 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>2022/03/03 バージョンアップに伴う譜面定数反映のお知らせ（追記 2022/03/06 2:00）</title><link>https://project-primera.github.io/posts/2022/03/04/add-music-extra-level/</link><pubDate>Fri, 04 Mar 2022 08:24:55 +0900</pubDate><guid>https://project-primera.github.io/posts/2022/03/04/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Project Primera Blog</title><link>https://project-primera.github.io/</link><description>Project Primera Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 04 Mar 2022 08:24:55 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>2022/03/03 バージョンアップに伴う譜面定数反映のお知らせ（追記 2022/03/08 2:40）</title><link>https://project-primera.github.io/posts/2022/03/04/add-music-extra-level/</link><pubDate>Fri, 04 Mar 2022 08:24:55 +0900</pubDate><guid>https://project-primera.github.io/posts/2022/03/04/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
 メインフレームの皆様にご調査いただきました譜面定数を反映いたしました。&lt;/p>
+&lt;h2 id="追記-20220308-240">追記 2022/03/08 2:40&lt;/h2>
+&lt;p>追記時点で判明している譜面定数を追加で反映いたしました。&lt;br>
+なお追加の差分に関しましては&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/3c901d8716b4ecce7409b803aae2c8eecbd91d18">こちら&lt;/a>よりご確認をお願いいたします。&lt;/p>
 &lt;h2 id="追記-20220306-200">追記 2022/03/06 2:00&lt;/h2>
 &lt;p>追記時点で判明している譜面定数を追加で反映いたしました。&lt;br>
 なお追加の差分に関しましては&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/c427ca6db5aebaf0575b6f8b3687922c4f35fdb9">こちら&lt;/a>よりご確認をお願いいたします。&lt;/p>
@@ -2487,6 +2490,16 @@
 &lt;td style="text-align:center">12.7&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">ミライメモリーズ！&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Hide &amp;amp; Attack&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.6&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">STYX HELIX&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.6&lt;/td>
@@ -2557,7 +2570,17 @@
 &lt;td style="text-align:center">12.5&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">キズナ Sparkling World&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.5&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">JUMPin' JUMP UP!!!!&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ウミユリ海底譚&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.5&lt;/td>
 &lt;/tr>
@@ -2627,6 +2650,11 @@
 &lt;td style="text-align:center">12.5&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">ヒバナ&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.5&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">GranFatalité&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.5&lt;/td>
@@ -2672,7 +2700,17 @@
 &lt;td style="text-align:center">12.4&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">サマータイムレコード&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">Star Divine&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ネ！コ！&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.4&lt;/td>
 &lt;/tr>
@@ -3037,7 +3075,17 @@
 &lt;td style="text-align:center">12.6&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">B WiZ U&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.5&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">RELOAD&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Amphisbaena&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.5&lt;/td>
 &lt;/tr>
@@ -3075,6 +3123,11 @@
 &lt;td style="text-align:center">神威&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Calamity Fortune&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
