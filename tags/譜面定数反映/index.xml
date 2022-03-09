@@ -1,5 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>譜面定数反映 on Project Primera Blog</title><link>https://project-primera.github.io/tags/%E8%AD%9C%E9%9D%A2%E5%AE%9A%E6%95%B0%E5%8F%8D%E6%98%A0/</link><description>Project Primera Blog (譜面定数反映)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 04 Mar 2022 08:24:55 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/tags/%E8%AD%9C%E9%9D%A2%E5%AE%9A%E6%95%B0%E5%8F%8D%E6%98%A0/index.xml" rel="self" type="application/rss+xml"/><item><title>2022/03/03 バージョンアップに伴う譜面定数反映のお知らせ（追記 2022/03/08 2:40）</title><link>https://project-primera.github.io/posts/2022/03/04/add-music-extra-level/</link><pubDate>Fri, 04 Mar 2022 08:24:55 +0900</pubDate><guid>https://project-primera.github.io/posts/2022/03/04/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>譜面定数反映 on Project Primera Blog</title><link>https://project-primera.github.io/tags/%E8%AD%9C%E9%9D%A2%E5%AE%9A%E6%95%B0%E5%8F%8D%E6%98%A0/</link><description>Project Primera Blog (譜面定数反映)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 04 Mar 2022 08:24:55 +0900</lastBuildDate><atom:link href="https://project-primera.github.io/tags/%E8%AD%9C%E9%9D%A2%E5%AE%9A%E6%95%B0%E5%8F%8D%E6%98%A0/index.xml" rel="self" type="application/rss+xml"/><item><title>2022/03/03 バージョンアップに伴う譜面定数反映のお知らせ（追記 2022/03/10 1:00）</title><link>https://project-primera.github.io/posts/2022/03/04/add-music-extra-level/</link><pubDate>Fri, 04 Mar 2022 08:24:55 +0900</pubDate><guid>https://project-primera.github.io/posts/2022/03/04/add-music-extra-level/</guid><description>&lt;p>OngekiScoreLogをいつもご利用いただきましてありがとうございます。&lt;br>
 メインフレームの皆様にご調査いただきました譜面定数を反映いたしました。&lt;/p>
+&lt;h2 id="追記-20220310-100">追記 2022/03/10 1:00&lt;/h2>
+&lt;p>追記時点で判明している譜面定数を追加で反映いたしました。&lt;br>
+なお追加の差分に関しましては&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/06caeaa2c2eb3a02e5e27e66aee1afdbce6ef83d">こちら&lt;/a>よりご確認をお願いいたします。&lt;/p>
 &lt;h2 id="追記-20220308-240">追記 2022/03/08 2:40&lt;/h2>
 &lt;p>追記時点で判明している譜面定数を追加で反映いたしました。&lt;br>
 なお追加の差分に関しましては&lt;a href="https://github.com/project-primera/project-primera.github.io/commit/3c901d8716b4ecce7409b803aae2c8eecbd91d18">こちら&lt;/a>よりご確認をお願いいたします。&lt;/p>
@@ -2570,7 +2573,22 @@
 &lt;td style="text-align:center">12.5&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">色は匂へど散りぬるを&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Nowhere Girl&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.5&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">キズナ Sparkling World&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.5&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">キレキャリオン&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.5&lt;/td>
 &lt;/tr>
@@ -2670,6 +2688,16 @@
 &lt;td style="text-align:center">12.5&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">セカイ&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">セカイはまだ始まってすらいない&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">エッビーナースデイ&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.4&lt;/td>
@@ -2680,12 +2708,42 @@
 &lt;td style="text-align:center">12.4&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">キミは“見ていたね”？&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">進化系Colors&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Forever Friends&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">カラフル&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.4&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">リトルソルジャー&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">ホシノキズナ&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">わたしたち魔法乙女です☆&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">LEVEL5-judgelight-&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.4&lt;/td>
 &lt;/tr>
@@ -2696,6 +2754,11 @@
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">最強 the サマータイム!!!!!&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">METEOR&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.4&lt;/td>
 &lt;/tr>
@@ -2715,6 +2778,16 @@
 &lt;td style="text-align:center">12.4&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">Handmade Good Day&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">恋愛裁判&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">空奏列車&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.3&lt;/td>
@@ -2725,7 +2798,77 @@
 &lt;td style="text-align:center">12.3&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">アルカリレットウセイ&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Realize!&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Check my soul&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">秒針を噛む&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">クライングハート&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">太陽系デスコ&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">愛されなくても君がいる&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">進め！マイウェイ！&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">My Soul,Your Beats!&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ポケットからぬりつぶせ！&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">永遠メモリー&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">快晴&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">39&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">Y.Y.Y.計画!!!!&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">櫻結び&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.3&lt;/td>
 &lt;/tr>
@@ -2740,9 +2883,244 @@
 &lt;td style="text-align:center">12.3&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">HARMONIZE&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">砂の惑星 feat. HATSUNE MIKU&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">グリーンライツ・セレナーデ&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">六兆年と一夜物語&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">君のStarlight Road&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">うぇるかむ to ONSEN!!&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">イルミナージュ・ランド&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Henceforth&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">初恋は君色メモリー&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">SAKURAスキップ&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">beautiful tomorrow&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">紅蓮華&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Contrail ～軌跡～&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">春擬き&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ただ君に晴れ&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">セカイのヒミツ&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">スタートライン&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">レプリカの恋&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">妄想感傷代償連盟&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">＊ハロー、プラネット。&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">炉心融解&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">月に叢雲華に風&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">心象蜃気楼&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ゴーストルール&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">木彫り鯰と右肩ゾンビ&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">天空カフェテリア&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">タイムマシン&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">五等分の気持ち&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">NATSUKAGE-夏陰-&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">夏色花火&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">メーベル (self cover)&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">徒花ネクロマンシー&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">どうぶつ☆パラダイス&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Colors&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">寒想桜&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ヒビカセ&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">White Magic Night!&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Happiness on the Table&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Snow Song Show&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">エブリデイワールド&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">乙女解剖&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">メルト&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">シャルル&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Tell Your World&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">いーあるふぁんくらぶ&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Zest of Blue&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">オモイヨシノ&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Grip &amp;amp; Break down !!&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">STARTLINER&lt;/td>
@@ -2985,6 +3363,11 @@
 &lt;td style="text-align:center">12.9&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">TEmPTaTiON&lt;/td>
+&lt;td style="text-align:center">12+&lt;/td>
+&lt;td style="text-align:center">12.9&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">Re：End of a Dream&lt;/td>
 &lt;td style="text-align:center">12+&lt;/td>
 &lt;td style="text-align:center">12.9&lt;/td>
@@ -3110,6 +3493,16 @@
 &lt;td style="text-align:center">12.5&lt;/td>
 &lt;/tr>
 &lt;tr>
+&lt;td style="text-align:center">2112410403927243233368&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">竹&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
 &lt;td style="text-align:center">Genesis&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.4&lt;/td>
@@ -3123,6 +3516,161 @@
 &lt;td style="text-align:center">神威&lt;/td>
 &lt;td style="text-align:center">12&lt;/td>
 &lt;td style="text-align:center">12.4&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">μάγια&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Supersonic Generation&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">最っ高のエンタメだ!!&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Galaxy Blaster&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Ai Drew&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">YURUSHITE&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Dazzle hop&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.3&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">GODLINESS&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Xevel&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Pastel Sprinkles&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">colorful transparency&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ナイト・オブ・ナイツ (かめりあ’s“ワンス・アポン・ア・ナイト”Remix)&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">RED to RED&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Air&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Mini skirt&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">インビジブル&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">The wheel to the right&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">DRAGONLADY&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Adverse Gaff&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Grievous Lady&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Jack-the-Ripper◆&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Trinity Departure&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">SILENT BLUE&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">GEOMETRIC DANCE&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.1&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">BABYLON&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Showguts&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Last Celebration&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">ラクガキスト&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">Daydreama&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">PinqPiq (xovevox Remix)&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:center">HONEY-Q&lt;/td>
+&lt;td style="text-align:center">12&lt;/td>
+&lt;td style="text-align:center">12.0&lt;/td>
 &lt;/tr>
 &lt;tr>
 &lt;td style="text-align:center">Calamity Fortune&lt;/td>
