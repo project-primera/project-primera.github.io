@@ -93,8 +93,12 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Princesses Holiday | 14 | 14.0 |
 | ICEBURN | 14 | 14.0 |
 | 神々が恋した幻想郷 | 14 | 14.0 |
+| パラジクロロベンゼン | 13+ | 13.9 |
 | Knocking Harder | 13+ | 13.9 |
+| サイハテ | 13+ | 13.8 |
 | まりもとおもちゃ箱 | 13+ | 13.8 |
+| ミラクルペイント | 13+ | 13.7 |
+| So much loving you★ -DIVA Edit- | 13+ | 13.7 |
 | HEAVEN'S RAVE | 13+ | 13.7 |
 | UTOPIA CRASH | 13 | 13.6 |
 | Butterfly Wave | 13 | 13.6 |
@@ -690,6 +694,10 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | YURUSHITE (LeaF Remix) | 12 | 12.2 |
 | ICEBURN | 11+ | 11.9 |
 | Island Breeze | 11+ | 11.9 |
+| パラジクロロベンゼン | 11 | 11.4 |
+| ミラクルペイント | 10+ | 10.7 |
+| So much loving you★ -DIVA Edit- | 10 | 10.4 |
+| サイハテ | 10 | 10.0 |
 
 #### Expert > 既存曲
 
