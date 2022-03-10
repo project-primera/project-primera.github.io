@@ -17,8 +17,24 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.76.3'
+          hugo-version: '0.91.2'
           extended: true
+
+      # - uses: actions/setup-node@v2
+      #   with:
+      #     node-version: '16'
+      #     cache: npm
+      #     cache-dependency-path: ./themes/hugo-github-markdown-style/package-lock.json
+
+      # - name: "src/blogcard: npm install"
+      #   working-directory: ./src/blogcard
+      #   run: npm install --no-save
+
+      # - name: "src/blogcard: npm run start"
+      #   working-directory: ./src/blogcard
+      #   run: npm run start
+
+      # - run: timeout 120 sh -c 'until (curl -f -LI http://localhost:6060/getogp?url=https://github.com | grep "200") do sleep 1; done'
 
       - name: Build
         run: hugo --minify
