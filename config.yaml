@@ -1,39 +1,88 @@
-languageCode: "en-us"
-baseUrl: "https://project-primera.github.io"
+baseurl: "https://project-primera.github.io"
 title: "Project Primera Blog"
-theme: "anubis"
-paginate: 10
-enableRobotsTXT: true
+theme: "hugo-github-markdown-style"
+languageCode: "ja"
+hasCJKLanguage: true
 enableGitInfo: true
+footnotereturnlinkcontents: "↩"
+
+permalinks:
+  posts: ":year/:month/:day/:filename"
+
+params:
+  paginate: 50
+  description: "Project Primeraが開発運営を行うツールのアナウンスを行います。"
+  footer:
+    poweredByHugo: true
+    themeInformation: true
+    text: "&copy; 2018 [Project Primera](https://github.com/project-primera) | [プライバシーポリシーと免責事項](/privacy)"
+  gtagId: "G-MP0P5VS342"
+  hatenaBookmark: false
+  hatenaStar: true
+  alternativeTweet: true
+  editThis:
+    gitHub:
+      repo: project-primera/project-primera.github.io
+      branch: main
+    gitHubDev:
+      repo: project-primera/project-primera.github.io
+      branch: main
+    vsCode:
+      url: https://vscode.dev/github/project-primera/project-primera.github.io/
+
 
 menu:
   main:
-  - identifier: archive
-    name: Archive
-    title: Archive
-    url: /posts/
-    weight: 1
-  - identifier: categories
-    name: Categories
-    title: Categories
-    url: /categories/
-    weight: 2
-  - identifier: tags
-    name: Tags
-    title: Tags
-    url: /tags/
-    weight: 3
-
-
-params:
-  author: "Project Primera Developer Team"
-  description: "Project Primeraが開発運営を行うツールのアナウンスを行います。"
-  dateFormat: "2006-01-02"
-  paginationSinglePost: true
-  style: auto
-  readMore: true
+    - name: すべてのカテゴリー
+      url: "/categories/"
+      params:
+        color: "informational"
+      weight: 1
+    - name: すべてのタグ
+      url: "/tags/"
+      params:
+        color: "informational"
+      weight: 2
+    - name: RSS Feed
+      url: "/index.xml"
+      params:
+        color: "orange"
+      weight: 3
+    - name: "OngekiScoreLog"
+      url: "https://ongeki-score.net"
+      params:
+        label: "ongeki--score.net"
+        color: "14bfdf"
+        target: "_blank"
+      weight: 4
+    - name: GitHub
+      url: "https://github.com/project-primera"
+      params:
+        label: /
+        message: project--primera
+        logo: github
+        color: "181717"
+        target: "_blank"
+      weight: 11
+    - name: Twitter
+      url: "https://twitter.com/ongeki_score"
+      params:
+        label: /
+        message: ongeki_score
+        logo: twitter
+        color: "1DA1F2"
+        target: "_blank"
+      weight: 12
 
 markup:
-  goldmark:
-    renderer:
-      unsafe: false
+  highlight:
+    codeFences: true
+  tableOfContents:
+    startLevel: 2
+    endLevel: 6
+    ordered: false
+
+caches:
+  getjson:
+    dir: ":cacheDir/:project"
+    maxAge: "10s"

@@ -1,3 +1,3 @@
-[submodule "themes/anubis"]
-	path = themes/anubis
-	url = https://github.com/mitrichius/hugo-theme-anubis.git
+[submodule "themes/hugo-github-markdown-style"]
+	path = themes/hugo-github-markdown-style
+	url = https://github.com/slime-hatena/hugo-github-markdown-style.git
