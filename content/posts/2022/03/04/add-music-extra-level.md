@@ -675,6 +675,17 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Zest of Blue | 12 | 12.0 |
 | オモイヨシノ | 12 | 12.0 |
 | Grip & Break down !! | 12 | 12.0 |
+| Snow Fairy Story | 11+ | 11.9 |
+| Sentimental Snow | 11+ | 11.9 |
+| ＧＯ！ＧＯ！ラブリズム♥ | 11+ | 11.9 |
+| 千本桜 | 11+ | 11.9 |
+| おこちゃま戦争 | 11+ | 11.9 |
+| 天ノ弱 | 11+ | 11.9 |
+| Los! Los! Los! | 11+ | 11.9 |
+| ブレス・ユア・ブレス | 11+ | 11.8 |
+| タテマエと本心の大乱闘 | 11+ | 11.8 |
+| 回レ！雪月花 | 11+ | 11.8 |
+| シュガーソングとビターステップ | 11+ | 11.8 |
 | STARTLINER | 11 | 11.2 |
 
 ### Expert
@@ -695,9 +706,19 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | ICEBURN | 11+ | 11.9 |
 | Island Breeze | 11+ | 11.9 |
 | パラジクロロベンゼン | 11 | 11.4 |
+| HEAVEN'S RAVE | 11 | 11.2 |
+| まりもとおもちゃ箱 | 11 | 11.1 |
+| 神々が恋した幻想郷 | 11 | 11.1 |
+| Let Me Know (feat. Masayoshi Iimori) | 11 | 11.0 |
 | ミラクルペイント | 10+ | 10.7 |
+| UTOPIA CRASH | 10+ | 10.7 |
+| Butterfly Wave | 10+ | 10.7 |
 | So much loving you★ -DIVA Edit- | 10 | 10.4 |
+| FANTASY BABY | 10 | 10.4 |
 | サイハテ | 10 | 10.0 |
+| Girl's Party Planet! | 10 | 10.0 |
+| 回転 feat.あやぽんず＊ | 10 | 10.0 |
+| サンダーライン | 10 | 10.0 |
 
 #### Expert > 既存曲
 
@@ -797,6 +818,19 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | PinqPiq (xovevox Remix) | 12 | 12.0 |
 | HONEY-Q | 12 | 12.0 |
 | Calamity Fortune | 12 | 12.0 |
+| ENERGY SYNERGY MATRIX | 11+ | 11.9 |
+| A Day in the Patisserie | 11+ | 11.9 |
+| ナイト・オブ・ナイツ (xi Remix) | 11+ | 11.9 |
+| Last Kingdom | 11+ | 11.9 |
+| World Vanquisher | 11+ | 11.9 |
+| FREEDOM DiVE (tpz Overcute Remix) | 11+ | 11.9 |
+| Secret Sleuth | 11+ | 11.8 |
+| c.s.q.n. | 11+ | 11.8 |
+| シャッキーーン！！ | 11+ | 11.8 |
+| Climax | 11+ | 11.8 |
+| DAWNBREAKER | 11+ | 11.8 |
+| Sparkle | 11+ | 11.8 |
+| エンドマークに希望と涙を添えて | 11+ | 11.8 |
 
 ## レーティング対象外
 
