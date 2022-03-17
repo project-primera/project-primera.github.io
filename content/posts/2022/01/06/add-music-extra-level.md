@@ -36,7 +36,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 - Heart Cooking Recipe -井之原 小星ソロver.-
 - Heart Cooking Recipe -九條 楓ソロver.-
 
-## データの出典元
+## データの出典
 
 {{< tweet 1477054345871241216 >}}
 {{< tweet 1477048069397315587 >}}

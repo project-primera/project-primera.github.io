@@ -30,7 +30,7 @@ Let's Starry Party！ -高瀬 梨緒ソロver.-
 Let's Starry Party！ -結城 莉玖ソロver.-  
 Let's Starry Party！ -藍原 椿ソロver.-
 
-## データの出典元
+## データの出典
 
 {{< tweet 1334337364089425923 >}}
 {{< tweet 1334337544381612033 >}}

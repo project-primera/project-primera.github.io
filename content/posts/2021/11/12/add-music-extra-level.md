@@ -30,7 +30,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Skip & Smile!! | 11 | 11.2 |
 | Catch Me If You Can | 10 | 10.0 |
 
-## データの出典元
+## データの出典
 
 [[G7]オンゲキbright譜面定数速報](https://docs.google.com/spreadsheets/d/1ZAUxUsUesk5mmKARzsxIRrpMVERIEKZZU038zKFGEoI/edit#gid=2079156372)
 

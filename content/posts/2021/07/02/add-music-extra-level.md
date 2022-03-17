@@ -37,7 +37,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 - Ruler Count, Zero -九條 楓ソロver.-
 - Ruler Count, Zero -珠洲島 有栖ソロver.-
 
-## データの出典元
+## データの出典
 
 {{< tweet 1410442536686997507 >}}
 {{< tweet 1410425866086088713 >}}

@@ -850,7 +850,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 - Jump!! Jump!! Jump!! -高瀬 梨緒ソロver.-
 - Jump!! Jump!! Jump!! -逢坂 茜ソロver.-
 
-## データの出典元
+## データの出典
 
 {{< tweet 1498917923184050179 >}}
 

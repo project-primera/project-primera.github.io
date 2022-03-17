@@ -30,7 +30,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Paradisus-Paradoxum | 11 | 11.4 |
 | My precious holiday | 10 | 10.4 |
 
-## データの出典元
+## データの出典
 
 {{< tweet 1428197677439733764 >}}
 {{< tweet 1428198678636883972 >}}

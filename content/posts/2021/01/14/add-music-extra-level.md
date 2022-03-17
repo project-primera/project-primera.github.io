@@ -28,7 +28,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Don't Fight The Music | 13 | 13.6 |
 | Falsum Atlantis. | 13 | 13.5 |
 
-## データの出典元
+## データの出典
 
 {{< tweet 1349514546034012161 >}}
 {{< tweet 1349521925287026695 >}}

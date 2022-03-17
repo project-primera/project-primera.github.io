@@ -38,7 +38,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | STARLIGHT TWILIGHT -GC edit- | 10 | 10.0 |
 | 君のStarlight Road | 10 | 10.0 |
 
-## データの出典元
+## データの出典
 
 {{< tweet 1486905063629279235 >}}
 {{< tweet 1486553343900401665 >}}

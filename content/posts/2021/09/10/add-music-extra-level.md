@@ -28,7 +28,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 |:-:|:-:|:-:|
 | CO5M1C R4ILR0AD | 11 | 11.6 |
 
-## データの出典元
+## データの出典
 
 [[G6]オンゲキREDPLUS譜面定数速報](https://docs.google.com/spreadsheets/d/1KVR7eG3qN4hkw3ymz2h273NNv5aP4-PGORVlz4Pjauk/edit)
 
