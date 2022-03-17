@@ -91,6 +91,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Op.I《fear-TITΛN-》 | 15 | 15.2 |
 | FREEDOM DiVE | 14+ | 14.9 |
 | Final Flash Flight | 14+ | 14.8 |
+| In Chaos | 14+ | 14.7 |
 | Alea jacta est! | 14+ | 14.7 |
 | 其のエメラルドを見よ | 14 | 14.6 |
 | 8OROCHI | 14 | 14.5 |
@@ -110,11 +111,14 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Island Breeze | 13 | 13.3 |
 | Let Me Know (feat. Masayoshi Iimori) | 13 | 13.3 |
 | サンダーライン | 13 | 13.1 |
+| クライノイド | 13 | 13.0 |
 | FANTASY BABY | 12+ | 12.9 |
 | ヒステリックナイトガール | 12+ | 12.9 |
+| ワガママMIRROR HEART | 12+ | 12.7 |
 | 回転 feat.あやぽんず＊ | 12+ | 12.7 |
 | 金木犀 feat.Ado | 12+ | 12.7 |
 | リテラチュア | 12+ | 12.7 |
+| 無敵☆moment | 12 | 12.5 |
 | Girl's Party Planet! | 12 | 12.4 |
 | うまぴょい伝説 | 12 | 12.4 |
 | 涙隠しておんな道 | 12 | 12.3 |
@@ -710,6 +714,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | YURUSHITE (LeaF Remix) | 12 | 12.2 |
 | ICEBURN | 11+ | 11.9 |
 | Island Breeze | 11+ | 11.9 |
+| In Chaos | 11+ | 11.8 |
 | パラジクロロベンゼン | 11 | 11.4 |
 | HEAVEN'S RAVE | 11 | 11.2 |
 | まりもとおもちゃ箱 | 11 | 11.1 |
