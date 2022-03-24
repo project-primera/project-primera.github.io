@@ -102,6 +102,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | 其のエメラルドを見よ | 14 | 14.6 |
 | 8OROCHI | 14 | 14.5 |
 | YURUSHITE (LeaF Remix) | 14 | 14.3 |
+| Blows Up Everything | 14 | 14.1 |
 | Princesses Holiday | 14 | 14.0 |
 | ICEBURN | 14 | 14.0 |
 | 神々が恋した幻想郷 | 14 | 14.0 |
@@ -118,8 +119,10 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Let Me Know (feat. Masayoshi Iimori) | 13 | 13.3 |
 | サンダーライン | 13 | 13.1 |
 | クライノイド | 13 | 13.0 |
+| マイオドレ！舞舞タイム | 12+ | 12.9 |
 | FANTASY BABY | 12+ | 12.9 |
 | ヒステリックナイトガール | 12+ | 12.9 |
+| ポジティブ☆ダンスタイム | 12+ | 12.8 |
 | ワガママMIRROR HEART | 12+ | 12.7 |
 | 回転 feat.あやぽんず＊ | 12+ | 12.7 |
 | 金木犀 feat.Ado | 12+ | 12.7 |
@@ -729,6 +732,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Final Flash Flight | 12+ | 12.8 |
 | Knocking Harder | 12 | 12.4 |
 | 8OROCHI | 12 | 12.4 |
+| Blows Up Everything | 12 | 12.3 |
 | Princesses Holiday | 12 | 12.3 |
 | Alea jacta est! | 12 | 12.3 |
 | YURUSHITE (LeaF Remix) | 12 | 12.2 |
@@ -740,11 +744,13 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | まりもとおもちゃ箱 | 11 | 11.1 |
 | 神々が恋した幻想郷 | 11 | 11.1 |
 | Let Me Know (feat. Masayoshi Iimori) | 11 | 11.0 |
+| ポジティブ☆ダンスタイム | 10+ | 10.7 |
 | ミラクルペイント | 10+ | 10.7 |
 | UTOPIA CRASH | 10+ | 10.7 |
 | Butterfly Wave | 10+ | 10.7 |
 | So much loving you★ -DIVA Edit- | 10 | 10.4 |
 | FANTASY BABY | 10 | 10.4 |
+| マイオドレ！舞舞タイム | 10 | 10.0 |
 | サイハテ | 10 | 10.0 |
 | Girl's Party Planet! | 10 | 10.0 |
 | 回転 feat.あやぽんず＊ | 10 | 10.0 |
