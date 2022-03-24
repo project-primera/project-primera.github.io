@@ -1,5 +1,5 @@
 ---
-title: "2022/03/03 バージョンアップに伴う譜面定数反映のお知らせ（追記 2022/03/20 1:00）"
+title: "2022/03/03 バージョンアップに伴う譜面定数反映のお知らせ（追記 2022/03/25 4:54）"
 date: 2022-03-04T08:24:55+09:00
 draft: false
 
@@ -12,35 +12,17 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 <!--more-->
 
-## 追記 2022/03/20 1:00
+## 追記 2022/03/25 4:54
 
 追記時点で判明している譜面定数を追加で反映いたしました。  
-なお追加の差分に関しましては[こちら](https://github.com/project-primera/project-primera.github.io/commit/3a5b1f0d171840c3040750cea469eabd9073ece6)よりご確認をお願いいたします。
+なお追加の差分に関しましては以下よりご確認をお願いいたします。
 
-## 追記 2022/03/16 0:22
-
-追記時点で判明している譜面定数を追加で反映いたしました。  
-なお追加の差分に関しましては[こちら](https://github.com/project-primera/project-primera.github.io/commit/83ee11c3f385190101019628d8a809280d985e97)よりご確認をお願いいたします。
-
-## 追記 2022/03/10 1:00
-
-追記時点で判明している譜面定数を追加で反映いたしました。  
-なお追加の差分に関しましては[こちら](https://github.com/project-primera/project-primera.github.io/commit/06caeaa2c2eb3a02e5e27e66aee1afdbce6ef83d)よりご確認をお願いいたします。
-
-## 追記 2022/03/08 2:40
-
-追記時点で判明している譜面定数を追加で反映いたしました。  
-なお追加の差分に関しましては[こちら](https://github.com/project-primera/project-primera.github.io/commit/3c901d8716b4ecce7409b803aae2c8eecbd91d18)よりご確認をお願いいたします。
-
-## 追記 2022/03/06 2:00
-
-追記時点で判明している譜面定数を追加で反映いたしました。  
-なお追加の差分に関しましては[こちら](https://github.com/project-primera/project-primera.github.io/commit/c427ca6db5aebaf0575b6f8b3687922c4f35fdb9)よりご確認をお願いいたします。
-
-## 追記 2022/03/05 1:00
-
-追記時点で判明している譜面定数を追加で反映いたしました。  
-なお追加の差分に関しましては[こちら](https://github.com/project-primera/project-primera.github.io/commit/9cdf034c5bafea16edefe6cba4d0a89e8b190461)よりご確認をお願いいたします。
+- [2022/03/25 4:54](https://github.com/project-primera/project-primera.github.io/commit/83ee11c3f385190101019628d8a809280d985e97)
+- [2022/03/16 0:22](https://github.com/project-primera/project-primera.github.io/commit/83ee11c3f385190101019628d8a809280d985e97)
+- [2022/03/10 1:00](https://github.com/project-primera/project-primera.github.io/commit/06caeaa2c2eb3a02e5e27e66aee1afdbce6ef83d)
+- [2022/03/08 2:40](https://github.com/project-primera/project-primera.github.io/commit/3c901d8716b4ecce7409b803aae2c8eecbd91d18)
+- [2022/03/06 2:00](https://github.com/project-primera/project-primera.github.io/commit/c427ca6db5aebaf0575b6f8b3687922c4f35fdb9)
+- [2022/03/05 1:00](https://github.com/project-primera/project-primera.github.io/commit/9cdf034c5bafea16edefe6cba4d0a89e8b190461)
 
 ## 新規追加
 
@@ -995,6 +977,68 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Paqqin | 10+ | 10.7 |
 | Gate of Doom | 10+ | 10.7 |
 | Halcyon | 10+ | 10.7 |
+| その群青が愛しかったようだった | 10 | 10.4 |
+| My precious holiday | 10 | 10.4 |
+| Rendezvous | 10 | 10.4 |
+| とても素敵な六月でした | 10 | 10.4 |
+| シンデレラディスコ | 10 | 10.4 |
+| キレキャリオン | 10 | 10.4 |
+| Ahoy!! 我ら宝鐘海賊団☆ | 10 | 10.4 |
+| ワールズエンド・ダンスホール | 10 | 10.4 |
+| LOVERS | 10 | 10.4 |
+| ツクヨミステップ | 10 | 10.4 |
+| ベノム | 10 | 10.4 |
+| 侵略ノススメ☆ | 10 | 10.4 |
+| Jörqer | 10 | 10.4 |
+| ナンセンス文学 | 10 | 10.4 |
+| アンドロイドガール | 10 | 10.4 |
+| ヒャダインのカカカタ☆カタオモイ-C | 10 | 10.4 |
+| 地球最後の告白を | 10 | 10.4 |
+| Heart Cooking Recipe | 10 | 10.4 |
+| ライトスピード・デイズ | 10 | 10.4 |
+| ダンスロボットダンス | 10 | 10.4 |
+| ロボットプラネットユートピア | 10 | 10.4 |
+| We Gonna Journey | 10 | 10.4 |
+| 最終鬼畜妹フランドール・Ｓ | 10 | 10.4 |
+| 幻想のサテライト | 10 | 10.4 |
+| ぼくらの16bit戦争 | 10 | 10.4 |
+| 鬼KYOKAN | 10 | 10.4 |
+| カラッポ・ノンフィクション | 10 | 10.0 |
+| あ・り・ま・す・か？ | 10 | 10.0 |
+| おはようジャポニカ | 10 | 10.0 |
+| 悪戯センセーション | 10 | 10.0 |
+| STAR | 10 | 10.0 |
+| 雨とペトラ | 10 | 10.0 |
+| ラストリゾート | 10 | 10.0 |
+| Check my soul | 10 | 10.0 |
+| ボッカデラベリタ | 10 | 10.0 |
+| JOINT | 10 | 10.0 |
+| ワタシConnect* | 10 | 10.0 |
+| スクランブル交際 | 10 | 10.0 |
+| STORIA | 10 | 10.0 |
+| 絶対にチョコミントを食べるアオイチャン | 10 | 10.0 |
+| よいまちカンターレ | 10 | 10.0 |
+| Glitter-Glitter | 10 | 10.0 |
+| ベースラインやってる？笑 | 10 | 10.0 |
+| 絆はずっとGrowing Up!!! | 10 | 10.0 |
+| チェチェ・チェック・ワンツー！ | 10 | 10.0 |
+| Catch the Moment | 10 | 10.0 |
+| ピースサイン | 10 | 10.0 |
+| 白い雪のプリンセスは | 10 | 10.0 |
+| トーキョーゲットー | 10 | 10.0 |
+| デリヘル呼んだら君が来た | 10 | 10.0 |
+| Help me, ERINNNNNN!! | 10 | 10.0 |
+| 光線チューニング | 10 | 10.0 |
+| ドーナツホール | 10 | 10.0 |
+| チルノのパーフェクトさんすう教室 | 10 | 10.0 |
+| Rule the World!! | 10 | 10.0 |
+| TeA | 10 | 10.0 |
+| TAKE ON THE WORLD | 10 | 10.0 |
+| チュルリラ・チュルリラ・ダッダッダ！ | 10 | 10.0 |
+| Cyberozar | 10 | 10.0 |
+| Oshama Scramble! | 10 | 10.0 |
+| Destiny Runner | 10 | 10.0 |
+| 脳漿炸裂ガール | 10 | 10.0 |
 
 ## レーティング対象外
 
