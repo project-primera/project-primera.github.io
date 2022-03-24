@@ -1,7 +1,7 @@
 ---
 title: "譜面定数反映のお知らせ（2022-03-25）"
 date: 2022-03-25T04:46:12+09:00
-draft: true
+draft: false
 
 tags: ["譜面定数反映"]
 categories: ["OngekiScoreLog"]
