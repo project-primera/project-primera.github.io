@@ -1,5 +1,5 @@
 ---
-title: "2022/03/03 バージョンアップに伴う譜面定数反映のお知らせ（追記 2022/03/25 4:54）"
+title: "2022/03/03 バージョンアップに伴う譜面定数反映のお知らせ（追記 2022/03/27 2:05）"
 date: 2022-03-04T08:24:55+09:00
 draft: false
 
@@ -17,6 +17,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 追記時点で判明している譜面定数を追加で反映いたしました。  
 なお追加の差分に関しましては以下よりご確認をお願いいたします。
 
+- [2022/03/27 2:05](https://github.com/project-primera/project-primera.github.io/commit/37fc6d9161e96652f73309d84d61cee9b2f617c7)
 - [2022/03/25 4:54](https://github.com/project-primera/project-primera.github.io/commit/819c40261264248447100ad7d04984623e582249)
 - [2022/03/16 0:22](https://github.com/project-primera/project-primera.github.io/commit/83ee11c3f385190101019628d8a809280d985e97)
 - [2022/03/10 1:00](https://github.com/project-primera/project-primera.github.io/commit/06caeaa2c2eb3a02e5e27e66aee1afdbce6ef83d)
