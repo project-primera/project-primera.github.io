@@ -6,9 +6,6 @@ hasCJKLanguage: true
 enableGitInfo: true
 footnotereturnlinkcontents: "↩"
 
-permalinks:
-  posts: ":year/:month/:day/:filename"
-
 params:
   paginate: 50
   description: "Project Primeraが開発運営を行うツールのアナウンスを行います。"
