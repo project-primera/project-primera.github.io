@@ -77,14 +77,18 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 | 曲名 | レベル | 譜面定数 |
 |:-:|:-:|:-:|
+| MarbleBlue. | 15 | 15.3 |
 | Op.I《fear-TITΛN-》 | 15 | 15.2 |
+| オンソクデイズ!! | 14+ | 14.9 |
 | FREEDOM DiVE | 14+ | 14.9 |
 | Final Flash Flight | 14+ | 14.8 |
 | In Chaos | 14+ | 14.7 |
 | Alea jacta est! | 14+ | 14.7 |
 | 其のエメラルドを見よ | 14 | 14.6 |
 | 8OROCHI | 14 | 14.5 |
+| Baqeela (Creepy Remix) | 14 | 14.3 |
 | YURUSHITE (LeaF Remix) | 14 | 14.3 |
+| BLUE ZONE | 14 | 14.2 |
 | Blows Up Everything | 14 | 14.1 |
 | Princesses Holiday | 14 | 14.0 |
 | ICEBURN | 14 | 14.0 |
@@ -98,6 +102,8 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | HEAVEN'S RAVE | 13+ | 13.7 |
 | UTOPIA CRASH | 13 | 13.6 |
 | Butterfly Wave | 13 | 13.6 |
+| 超前進！満点スマイル！ | 13 | 13.5 |
+| Vibes 2k20 (owl＊aging remix) | 13 | 13.4 |
 | Island Breeze | 13 | 13.3 |
 | Let Me Know (feat. Masayoshi Iimori) | 13 | 13.3 |
 | サンダーライン | 13 | 13.1 |
@@ -105,16 +111,21 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | マイオドレ！舞舞タイム | 12+ | 12.9 |
 | FANTASY BABY | 12+ | 12.9 |
 | ヒステリックナイトガール | 12+ | 12.9 |
+| HELLO,SOFMAP WORLD | 12+ | 12.8 |
 | ポジティブ☆ダンスタイム | 12+ | 12.8 |
 | ワガママMIRROR HEART | 12+ | 12.7 |
 | 回転 feat.あやぽんず＊ | 12+ | 12.7 |
 | 金木犀 feat.Ado | 12+ | 12.7 |
 | リテラチュア | 12+ | 12.7 |
+| Departure | 12 | 12.6 |
+| 空色メモリーズ | 12 | 12.5 |
 | 無敵☆moment | 12 | 12.5 |
+| ランダムサンデー | 12 | 12.4 |
 | Girl's Party Planet! | 12 | 12.4 |
 | うまぴょい伝説 | 12 | 12.4 |
 | 涙隠しておんな道 | 12 | 12.3 |
 | 幽霊東京 | 12 | 12.2 |
+| Little Twinkle | 12 | 12.1 |
 
 #### Master > 既存曲
 
@@ -709,8 +720,10 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 | 曲名 | レベル | 譜面定数 |
 |:-:|:-:|:-:|
+| MarbleBlue. | 13+ | 13.7 |
 | Op.I《fear-TITΛN-》 | 13+ | 13.7 |
 | 其のエメラルドを見よ | 13 | 13.5 |
+| オンソクデイズ!! | 13 | 13.0 |
 | FREEDOM DiVE | 12+ | 12.9 |
 | Final Flash Flight | 12+ | 12.8 |
 | Knocking Harder | 12 | 12.4 |
@@ -718,10 +731,13 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Blows Up Everything | 12 | 12.3 |
 | Princesses Holiday | 12 | 12.3 |
 | Alea jacta est! | 12 | 12.3 |
+| Baqeela (Creepy Remix) | 12 | 12.2 |
 | YURUSHITE (LeaF Remix) | 12 | 12.2 |
+| Vibes 2k20 (owl＊aging remix) | 11+ | 11.9 |
 | ICEBURN | 11+ | 11.9 |
 | Island Breeze | 11+ | 11.9 |
 | In Chaos | 11+ | 11.8 |
+| 超前進！満点スマイル！ | 11 | 11.4 |
 | パラジクロロベンゼン | 11 | 11.4 |
 | HEAVEN'S RAVE | 11 | 11.2 |
 | まりもとおもちゃ箱 | 11 | 11.1 |
