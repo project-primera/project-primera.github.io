@@ -53,7 +53,6 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 {{< tweet 1511987351467458560 >}}
 [[G6]オンゲキREDPLUS譜面定数速報](https://docs.google.com/spreadsheets/d/1KVR7eG3qN4hkw3ymz2h273NNv5aP4-PGORVlz4Pjauk/edit)
 
-
 ## データの提供者
 
 {{< twitter_profile id="46189_ext" >}}
