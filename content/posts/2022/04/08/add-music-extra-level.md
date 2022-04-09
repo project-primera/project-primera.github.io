@@ -37,6 +37,13 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Baqeela (Creepy Remix) | 12 | 12.2 |
 | Vibes 2k20 (owl＊aging remix) | 11+ | 11.9 |
 | 超前進！満点スマイル！ | 11 | 11.4 |
+| BLUE ZONE | 11 | 11.4 |
+
+### Advanced
+
+| 曲名 | レベル | 譜面定数 |
+|:-:|:-:|:-:|
+| MarbleBlue. | 10 | 10.0 |
 
 ### レーティング集計対象外
 
@@ -51,6 +58,9 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 {{< tweet 1511893839769862152 >}}
 {{< tweet 1511897476797591558 >}}
 {{< tweet 1511987351467458560 >}}
+{{< tweet 1512198427647520772 >}}
+{{< tweet 1512310436326100994 >}}
+
 [[G6]オンゲキREDPLUS譜面定数速報](https://docs.google.com/spreadsheets/d/1KVR7eG3qN4hkw3ymz2h273NNv5aP4-PGORVlz4Pjauk/edit)
 
 ## データの提供者
@@ -59,6 +69,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 {{< twitter_profile id="sd_celestiale10" >}}
 {{< twitter_profile id="chiyo16_ver501" >}}
 {{< twitter_profile id="amahina_rain" >}}
+{{< twitter_profile id="daiki__0110" >}}
 
 （順不同　敬称略）  
 ご提供いただき誠にありがとうございます。
