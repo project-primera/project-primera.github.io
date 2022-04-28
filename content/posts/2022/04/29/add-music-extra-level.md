@@ -32,11 +32,11 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 ### レーティング集計対象外
 
-- STARRED HEART -東雲 つむぎソロver.-
-- STARRED HEART -珠洲島 有栖ソロver.-
-- STARRED HEART -九條 楓ソロver.-
-- STARRED HEART -結城 莉玖ソロver.-
 - STARRED HEART -星咲 あかりソロver.-
+- STARRED HEART -結城 莉玖ソロver.-
+- STARRED HEART -九條 楓ソロver.-
+- STARRED HEART -珠洲島 有栖ソロver.-
+- STARRED HEART -東雲 つむぎソロver.-
 
 ## データの出典
 
