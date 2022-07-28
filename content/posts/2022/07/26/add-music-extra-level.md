@@ -26,10 +26,12 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | GranFatalité | 14 | 14.1 |
 | SWEET SHAKE!! | 14 | 14.0 |
 | Here We Go | 13+ | 13.9 |
+| Rule the World!! | 13+ | 13.9 |
 | Transcend Lights | 13+ | 13.9 |
 | Perfect Shining!! | 13+ | 13.8 |
 | みんな Happy!! | 13+ | 13.8 |
 | GAME IS LIFE | 13+ | 13.8 |
+| タテマエと本心の大乱闘 | 13+ | 13.7 |
 | Zest of Blue | 13 | 13.6 |
 | UTAKATA | 13 | 13.6 |
 | どうぶつ☆パラダイス | 13 | 13.6 |
@@ -37,9 +39,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 ## データの出典
 
-[譜面定数の一覧(スプレッドシート)](https://docs.google.com/spreadsheets/d/1QO6lw7S5zfsTUqNz1SxV6QM-IJc1MUb94EwegxJGZkE/edit#gid=397821777)
-
-{{< tweet 1551890860723224577 >}}
+{{< tweet 1552071235760140288 >}}
 
 ## データの提供者
 
