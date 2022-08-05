@@ -12,14 +12,14 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 <!--more-->
 
-<!-- ## 追記
+## 追記
 
 追記時点で判明している譜面定数を追加で反映いたしました。  
 なお追加の差分に関しましては以下よりご確認をお願いいたします。
 
 | 追記日時 | 更新差分 |
 |:-:|:-:|
-| 2021/10/22 19:51 | [Link](https://github.com/project-primera/project-primera.github.io/commit/5e70a7eeee68ecbc0571cb3c9b5f44716daa9911) | -->
+| 2021/10/22 19:51 | [Link](https://github.com/project-primera/project-primera.github.io/commit/5e70a7eeee68ecbc0571cb3c9b5f44716daa9911) |
 
 ## 新規追加
 
@@ -39,6 +39,8 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | トリドリ⇒モリモリ！Lovely fruits☆ | 14 | 14.2 |
 | GranFatalité | 14 | 14.1 |
 | SWEET SHAKE!! | 14 | 14.0 |
+| Transcend Lights | 13+ | 13.9 |
+| Rule the World!! | 13+ | 13.9 |
 | 本能的 Survivor | 13+ | 13.9 |
 | Here We Go | 13+ | 13.9 |
 | YO-KAI Disco | 13+ | 13.8 |
@@ -63,16 +65,25 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | luna blu | 14 | 14.6 |
 | 最終鬼畜全部声 | 14 | 14.3 |
 | 初音ミクの激唱 | 14 | 14.2 |
+| セガNET麻雀MJ -O.N.G.E.K.I. MIX- | 14 | 14.1 |
 | Calamity Fortune | 14 | 14.1 |
 | 六兆年と一夜物語 | 14 | 14.1 |
 | Fly to the Leaden Sky -O.N.G.E.K.I. MIX- | 14 | 14.0 |
 | ハッピータイフーン | 14 | 14.0 |
 | 回レ！雪月花 | 14 | 14.0 |
+| No Limit RED Force | 13+ | 13.9 |
+| どどんぱち大音頭 | 13+ | 13.9 |
 | ジングルベル | 13+ | 13.9 |
 | ナイト・オブ・ナイツ | 13+ | 13.9 |
 | The world of spirit | 13+ | 13.8 |
+| 東亞 -O.N.G.E.K.I. MIX- | 13+ | 13.8 |
+| ネ！コ！ | 13+ | 13.8 |
+| ブリキノダンス | 13+ | 13.8 |
+| Hide & Attack | 13+ | 13.7 |
 | Sakura Fubuki | 13+ | 13.7 |
 | 最強 the サマータイム!!!!! | 13 | 13.6 |
+| グリーンライツ・セレナーデ | 13 | 13.4 |
+| からくりピエロ | 13 | 13.2 |
 
 ### Master
 
@@ -126,19 +137,27 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | サイハテ | 13+ | 13.8 |
 | まりもとおもちゃ箱 | 13+ | 13.8 |
 | Löschen | 13+ | 13.7 |
+| ロッキンピンクモンスター (豚乙女ランコVo Ver.) | 13+ | 13.7 |
+| Vibes 2k20 (owl＊aging remix) | 13+ | 13.7 |
 | So much loving you★ -DIVA Edit- | 13+ | 13.7 |
+| HEAVEN'S RAVE | 13+ | 13.7 |
 | UTOPIA CRASH | 13 | 13.6 |
 | Butterfly Wave | 13 | 13.6 |
 | とびだせ！TO THE COSMIC!! | 13 | 13.5 |
+| Memories of O.N.G.E.K.I. | 13 | 13.5 |
 | 超前進！満点スマイル！ | 13 | 13.5 |
 | ストリーミングハート | 13 | 13.4 |
 | REAL VOICE | 13 | 13.4 |
 | ミラクルペイント | 13 | 13.4 |
 | ヒストリー×ブレイカー | 13 | 13.3 |
 | Island Breeze | 13 | 13.3 |
+| Let Me Know (feat. Masayoshi Iimori) | 13 | 13.3 |
 | コスモポップファンクラブ | 13 | 13.2 |
 | Alice's Suitcase | 13 | 13.2 |
 | Resolution | 13 | 13.2 |
+| Over the Border | 13 | 13.2 |
+| サンダーライン | 13 | 13.1 |
+| HEADLINER | 13 | 13.0 |
 | Magic | 13 | 13.0 |
 | クライノイド | 13 | 13.0 |
 | マチガイサガシ | 12+ | 12.9 |
@@ -263,9 +282,15 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Everlasting Today | 14 | 14.0 |
 | 7thSense | 14 | 14.0 |
 | BABYLON | 13+ | 13.9 |
+| エピトゥリカの祀 | 13+ | 13.9 |
 | Suspiro | 13+ | 13.9 |
+| 初音天地開闢神話 | 13+ | 13.9 |
+| Elusive Emotes | 13+ | 13.9 |
+| colorful transparency | 13+ | 13.9 |
 | 四月の雨 | 13+ | 13.9 |
 | Ruler Count, Zero | 13+ | 13.9 |
+| Trinity Departure | 13+ | 13.9 |
+| Ai Drew | 13+ | 13.9 |
 | Vibes 2k20 | 13+ | 13.9 |
 | Last Kingdom | 13+ | 13.9 |
 | Mini skirt | 13+ | 13.9 |
@@ -273,8 +298,12 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Ai Nov | 13+ | 13.9 |
 | 閃鋼のブリューナク | 13+ | 13.9 |
 | CHOCOLATE BOMB!!!! | 13+ | 13.8 |
+| STARLIGHT TWILIGHT -GC edit- | 13+ | 13.8 |
 | ゲーミングポーラーベア | 13+ | 13.8 |
 | Dement ～after legend～ | 13+ | 13.8 |
+| 断罪は遍く人間の元に | 13+ | 13.8 |
+| ニニ | 13+ | 13.8 |
+| CO5M1C R4ILR0AD | 13+ | 13.8 |
 | LUNA DIAL -Version X-SAKUYA- | 13+ | 13.8 |
 | MEGATON BLAST (tpz Overcute Remix) | 13+ | 13.8 |
 | Secret Sleuth | 13+ | 13.8 |
@@ -283,52 +312,69 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | 最っ高のエンタメだ!! | 13+ | 13.8 |
 | Reach for the Stars | 13+ | 13.8 |
 | Summer is over | 13+ | 13.8 |
+| アマツカミ | 13+ | 13.8 |
 | Dreadnought | 13+ | 13.8 |
 | Sparkle | 13+ | 13.8 |
 | Duello | 13+ | 13.8 |
+| ギガンティックO.T.N | 13+ | 13.8 |
+| conflict | 13+ | 13.8 |
 | ぼくらの16bit戦争 | 13+ | 13.8 |
+| せーので跳べって言ってんの！ | 13+ | 13.7 |
 | 腐れ外道とチョコレゐト | 13+ | 13.7 |
 | Mizutama-Tripster | 13+ | 13.7 |
+| 足立オウフwwww | 13+ | 13.7 |
 | ぶいちゅっばの歌 | 13+ | 13.7 |
 | U ARE | 13+ | 13.7 |
 | 夜咄ディセイブ | 13+ | 13.7 |
 | 僕たちの旅とエピローグ。 | 13+ | 13.7 |
+| 藍の華 | 13+ | 13.7 |
 | この番組はうら若き公務員たちの提供でお送りいたします | 13+ | 13.7 |
 | Lostwizz | 13+ | 13.7 |
 | Destr0yer | 13+ | 13.7 |
 | Doll Judgment | 13+ | 13.7 |
 | Honey Bear | 13+ | 13.7 |
+| 裏表ラバーズ | 13+ | 13.7 |
 | HONEY-Q | 13+ | 13.7 |
 | ウサテイ | 13+ | 13.7 |
 | Lazy Addiction | 13+ | 13.7 |
 | Touch and Go | 13+ | 13.7 |
 | The wheel to the right | 13+ | 13.7 |
 | 初音ミクの消失 | 13+ | 13.7 |
+| Calamity Fortune | 13+ | 13.7 |
 | クイーンオブハート | 13+ | 13.7 |
 | カミサマネジマキ | 13+ | 13.7 |
 | AMAZING MIGHTYYYY!!!! | 13+ | 13.7 |
 | Oshama Scramble! | 13+ | 13.7 |
 | I got a gig tonight! | 13 | 13.6 |
+| はっぴぃ にゅう にゃあ | 13 | 13.6 |
 | Cutter | 13 | 13.6 |
 | ジャンキーナイトタウンオーケストラ | 13 | 13.6 |
 | 輪廻転生 | 13 | 13.6 |
 | Once in my life | 13 | 13.6 |
+| Random Access Emotions | 13 | 13.6 |
 | Bad Apple!! feat.nomico (豚乙女 Ver.) | 13 | 13.6 |
 | Say Goodbye | 13 | 13.6 |
 | All Right! | 13 | 13.6 |
+| DAWNBREAKER | 13 | 13.6 |
 | 疾走あんさんぶる | 13 | 13.6 |
 | BOKUTO | 13 | 13.6 |
 | Radiance | 13 | 13.6 |
 | ナイト・オブ・ナイツ (Cranky Remix) | 13 | 13.6 |
+| 銀のめぐり | 13 | 13.6 |
+| アリサのテーマ | 13 | 13.6 |
 | Maqrite | 13 | 13.6 |
+| Destiny Runner | 13 | 13.6 |
 | いつか花咲くその前に | 13 | 13.5 |
+| Catch Me If You Can | 13 | 13.5 |
 | 春を告げる | 13 | 13.5 |
 | 幾望の月 | 13 | 13.5 |
 | ロストワードクロニカル | 13 | 13.5 |
 | fulgente (flip-side color mix) | 13 | 13.5 |
 | 天狗の落とし文 feat. ｙｔｒ | 13 | 13.5 |
+| Burning Steel Inferno | 13 | 13.5 |
 | イカサマライフゲイム | 13 | 13.5 |
 | Phantom Joke | 13 | 13.5 |
+| Jörqer | 13 | 13.5 |
 | スパッと！スパイ＆スパイス | 13 | 13.5 |
 | ライトスピード・デイズ | 13 | 13.5 |
 | Petit Etoile | 13 | 13.5 |
@@ -350,6 +396,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | エピクロスの虹はもう見えない | 13 | 13.4 |
 | Chelly spLash♪♪ | 13 | 13.4 |
 | ロボットプラネットユートピア | 13 | 13.4 |
+| Halcyon | 13 | 13.4 |
 | Brain Power | 13 | 13.4 |
 | Party 4U ''holy nite mix'' | 13 | 13.3 |
 | お空のニュークリアフュージョン道場 | 13 | 13.3 |
@@ -367,6 +414,60 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | BOUNCE & DANCE | 13 | 13.3 |
 | オンゲキ全域★アカネサマ？ | 13 | 13.3 |
 | TAKE ON THE WORLD | 13 | 13.3 |
+| NEXT COLOR PLANET | 13 | 13.2 |
+| ラストリゾート | 13 | 13.2 |
+| 無敵のフロンティア三銃士 | 13 | 13.2 |
+| Realize | 13 | 13.2 |
+| ガヴリールドロップキック | 13 | 13.2 |
+| 100%ちゅ～学生 | 13 | 13.2 |
+| Iudicium “Apocalypsis Mix” | 13 | 13.2 |
+| 超常マイマイン | 13 | 13.2 |
+| しゅわスパ大作戦☆ | 13 | 13.2 |
+| セツナトリップ | 13 | 13.2 |
+| ドーナツホール | 13 | 13.2 |
+| ロッキンピンクモンスター | 13 | 13.2 |
+| 今ぞ♡崇め奉れ☆オマエらよ！！～姫の秘メタル渇望～ | 13 | 13.2 |
+| 脳漿炸裂ガール | 13 | 13.2 |
+| 天つ風 | 13 | 13.1 |
+| カラッポ・ノンフィクション | 13 | 13.1 |
+| ケロ⑨destiny | 13 | 13.1 |
+| Paradisus-Paradoxum | 13 | 13.1 |
+| シンデレラディスコ | 13 | 13.1 |
+| give it up to you | 13 | 13.1 |
+| 吉原ラメント | 13 | 13.1 |
+| 反撃! 突撃! Back To Back! | 13 | 13.1 |
+| ウキウキ☆Candy! | 13 | 13.1 |
+| Seyana. ～何でも言うことを聞いてくれるアカネチャン～ | 13 | 13.1 |
+| デリヘル呼んだら君が来た | 13 | 13.1 |
+| 青春サイダー | 13 | 13.1 |
+| UTAKATA | 13 | 13.1 |
+| DAYBREAK FRONTLINE | 13 | 13.1 |
+| Paqqin | 13 | 13.1 |
+| Gate of Doom | 13 | 13.1 |
+| 天火明命 | 13 | 13.1 |
+| Äventyr | 13 | 13.1 |
+| Ready Steady | 13 | 13.0 |
+| Psalms ～魂の還るばしょ～ | 13 | 13.0 |
+| ネクストネスト | 13 | 13.0 |
+| アカリがやってきたぞっ | 13 | 13.0 |
+| サクライロフワリ | 13 | 13.0 |
+| スクランブル交際 | 13 | 13.0 |
+| Glitter-Glitter | 13 | 13.0 |
+| テオ | 13 | 13.0 |
+| Nameless Story | 13 | 13.0 |
+| ぱくぱく☆がーる | 13 | 13.0 |
+| INDETERMINATE UNIVERSE | 13 | 13.0 |
+| Catch the Moment | 13 | 13.0 |
+| Change Our MIRAI！ (Our 7 Lights) | 13 | 13.0 |
+| フィクサー | 13 | 13.0 |
+| 感情アクセラレイション | 13 | 13.0 |
+| MAKING！ハイタッチ！ | 13 | 13.0 |
+| まっすぐ→→→ストリーム！ | 13 | 13.0 |
+| 本能的 Survivor | 13 | 13.0 |
+| アンハッピーリフレイン | 13 | 13.0 |
+| TeA | 13 | 13.0 |
+| 幸せになれる隠しコマンドがあるらしい | 13 | 13.0 |
+| sweet little sister | 13 | 13.0 |
 | 悔やむと書いてミライ | 12+ | 12.9 |
 | 39みゅーじっく！ | 12+ | 12.9 |
 | よんでミラクるん! | 12+ | 12.9 |
@@ -392,7 +493,12 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Rule the World!! | 12+ | 12.7 |
 | LOVERS | 12 | 12.6 |
 | Snow in "I love you" | 12 | 12.6 |
+| Melody！ | 12 | 12.6 |
+| こころここから | 12 | 12.6 |
+| アクアテラリウム | 12 | 12.6 |
 | 700,000,000,000,000,000,000,000の空で | 12 | 12.5 |
+| Nowhere Girl | 12 | 12.5 |
+| キレキャリオン | 12 | 12.5 |
 | JUMPin' JUMP UP!!!! | 12 | 12.5 |
 | ビターチョコデコレーション | 12 | 12.5 |
 | 名探偵連続殺人事件 | 12 | 12.5 |
@@ -400,6 +506,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | いぇす！ゆゆゆ☆ゆるゆり♪♪ | 12 | 12.5 |
 | Believe | 12 | 12.5 |
 | ハッピータイフーン | 12 | 12.5 |
+| メルティランドナイトメア | 12 | 12.5 |
 | 未来の彼方 | 12 | 12.5 |
 | トリドリ⇒モリモリ！Lovely fruits☆ | 12 | 12.5 |
 | Starring Stars | 12 | 12.5 |
@@ -407,7 +514,42 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | GranFatalité | 12 | 12.5 |
 | Mare Maris | 12 | 12.5 |
 | キミノヨゾラ哨戒班 | 12 | 12.5 |
+| セカイ | 12 | 12.4 |
+| セカイはまだ始まってすらいない | 12 | 12.4 |
+| キミは“見ていたね”？ | 12 | 12.4 |
+| 進化系Colors | 12 | 12.4 |
 | No Limit RED Force | 12 | 12.4 |
+| Forever Friends | 12 | 12.4 |
+| カラフル | 12 | 12.4 |
+| リトルソルジャー | 12 | 12.4 |
+| わたしたち魔法乙女です☆ | 12 | 12.4 |
+| 夜明けのストリング | 12 | 12.4 |
+| METEOR | 12 | 12.4 |
+| ネ！コ！ | 12 | 12.4 |
+| Handmade Good Day | 12 | 12.3 |
+| 恋愛裁判 | 12 | 12.3 |
+| アルカリレットウセイ | 12 | 12.3 |
+| Realize! | 12 | 12.3 |
+| Check my soul | 12 | 12.3 |
+| クライングハート | 12 | 12.3 |
+| 太陽系デスコ | 12 | 12.3 |
+| 愛されなくても君がいる | 12 | 12.3 |
+| 進め！マイウェイ！ | 12 | 12.3 |
+| My Soul,Your Beats! | 12 | 12.3 |
+| ポケットからぬりつぶせ！ | 12 | 12.3 |
+| 快晴 | 12 | 12.3 |
+| 39 | 12 | 12.3 |
+| Y.Y.Y.計画!!!! | 12 | 12.3 |
+| 櫻結び | 12 | 12.3 |
+| 進捗どうですか？ | 12 | 12.3 |
+| HARMONIZE | 12 | 12.3 |
+| 砂の惑星 feat. HATSUNE MIKU | 12 | 12.3 |
+| グリーンライツ・セレナーデ | 12 | 12.3 |
+| 六兆年と一夜物語 | 12 | 12.3 |
+| イルミナージュ・ランド | 12 | 12.2 |
+| beautiful tomorrow | 12 | 12.2 |
+| 紅蓮華 | 12 | 12.2 |
+| 天空カフェテリア | 12 | 12.1 |
 
 ### Expert
 
@@ -417,13 +559,16 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 |:-:|:-:|:-:|
 | Recollect Lines | 14+ | 14.7 |
 | μ3 | 14 | 14.3 |
+| 光焔のラテラルアーク | 14 | 14.0 |
 | Selenadia | 13+ | 13.9 |
+| Stardust:RAY | 13+ | 13.8 |
 | Op.I《fear-TITΛN-》 | 13+ | 13.7 |
 | しとしとと | 13 | 13.5 |
 | MarbleBlue. | 13 | 13.5 |
 | 其のエメラルドを見よ | 13 | 13.4 |
 | FREEDOM DiVE | 13 | 13.3 |
 | Ai C | 13 | 13.0 |
+| オンソクデイズ!! | 13 | 13.0 |
 | Tempestissimo | 12+ | 12.8 |
 | Final Flash Flight | 12+ | 12.8 |
 | Diamond Dust -crystal piano Arr.- | 12+ | 12.7 |
@@ -434,15 +579,31 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | 曲名 | レベル | 譜面定数 |
 |:-:|:-:|:-:|
 | Apollo | 13+ | 13.7 |
+| LAMIA | 13+ | 13.7 |
+| Diamond Dust | 13 | 13.6 |
 | A Man In The Mirror | 13 | 13.6 |
 | Opfer | 13 | 13.6 |
 | Magical Panic Adventure | 13 | 13.5 |
+| MANIERA REMASTERED | 13 | 13.5 |
 | Singularity | 13 | 13.5 |
 | Cult future | 13 | 13.4 |
 | Don't Fight The Music | 13 | 13.4 |
 | Stargazing Dreamer | 13 | 13.4 |
 | BATTLE NO.1 | 13 | 13.3 |
 | Falsum Atlantis. | 13 | 13.3 |
+| Viyella's Scream | 13 | 13.2 |
+| End Time | 13 | 13.2 |
+| Viyella's Tears | 13 | 13.2 |
+| Titania | 13 | 13.2 |
+| TiamaT：F minor | 13 | 13.1 |
+| ジャンヌ・ダルクの慟哭 | 13 | 13.1 |
+| Crimson Phoenix | 13 | 13.0 |
+| QZKago Requiem | 13 | 13.0 |
+| 美夜月鏡 | 13 | 13.0 |
+| ω4 | 13 | 13.0 |
+| Garakuta Doll Play | 13 | 13.0 |
+| MEGATON BLAST | 13 | 13.0 |
+| 混沌を越えし我らが神聖なる調律主を讃えよ | 13 | 13.0 |
 | Glorious Crown (tpz over-Over-OVERCUTE REMIX) | 12+ | 12.9 |
 | 怒槌 | 12+ | 12.9 |
 | Sound Chimera | 12+ | 12.8 |
@@ -450,11 +611,86 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Re：End of a Dream | 12+ | 12.7 |
 | Everlasting Today | 12+ | 12.7 |
 | ヒトリボッチサテライト | 12 | 12.6 |
+| See The Light | 12 | 12.5 |
 | 宛城、炎上！！ | 12 | 12.5 |
 | R'N'R Monsta | 12 | 12.5 |
+| 竹 | 12 | 12.4 |
+| 神威 | 12 | 12.4 |
+| 2112410403927243233368 | 12 | 12.1 |
 
 ## レーティング対象外
 
+- Jump!! Jump!! Jump!! -三角 葵ソロver.-
+- Jump!! Jump!! Jump!! -星咲 あかりソロver.-
+- Jump!! Jump!! Jump!! -藤沢 柚子ソロver.-
+- Jump!! Jump!! Jump!! -逢坂 茜ソロver.-
+- Jump!! Jump!! Jump!! -高瀬 梨緒ソロver.-
+- Perfect Shining!!(ロケテスト譜面)
+- STARRED HEART -九條 楓ソロver.-
+- STARRED HEART -星咲 あかりソロver.-
+- STARRED HEART -東雲 つむぎソロver.-
+- STARRED HEART -珠洲島 有栖ソロver.-
+- STARRED HEART -結城 莉玖ソロver.-
+- Transcend Lights -星咲 あかりソロver.-
+- Transcend Lights -東雲 つむぎソロver.-
+- Transcend Lights -柏木 美亜ソロver.-
+- Transcend Lights -皇城 セツナソロver.-
+- Transcend Lights -高瀬 梨緒ソロver.-
+- 別れのワルツ
+- 怨撃・真
+- 最強 the サマータイム!!!!! -日向 千夏ソロver.-
+- 最強 the サマータイム!!!!! -星咲 あかりソロver.-
+- 最強 the サマータイム!!!!! -東雲 つむぎソロver.-
+- 最強 the サマータイム!!!!! -柏木 美亜ソロver.-
+- 最強 the サマータイム!!!!! -高瀬 梨緒ソロver.-
+- 絆はずっとGrowing Up!!! -三角 葵ソロver.-
+- 絆はずっとGrowing Up!!! -星咲 あかりソロver.-
+- 絆はずっとGrowing Up!!! -藤沢 柚子ソロver.-
+- give it up to you -早乙女 彩華ソロver.-
+- give it up to you -桜井 春菜ソロver.-
+- Heart Cooking Recipe -九條 楓ソロver.-
+- Heart Cooking Recipe -井之原 小星ソロver.-
+- Heart Cooking Recipe -藤沢 柚子ソロver.-
+- No Limit RED Force -早乙女 彩華ソロver.-
+- No Limit RED Force -星咲 あかりソロver.-
+- No Limit RED Force -柏木 咲姫ソロver.-
+- No Limit RED Force -柏木 美亜ソロver.-
+- No Limit RED Force -藍原 椿ソロver.-
+- Y.Y.Y.計画!!!! -九條 楓ソロver.-
+- Y.Y.Y.計画!!!! -珠洲島 有栖ソロver.-
+- Y.Y.Y.計画!!!! -逢坂 茜ソロver.-
+- キミは“見ていたね”？ -東雲 つむぎソロver.-
+- キミは“見ていたね”？ -結城 莉玖ソロver.-
+- 無敵のフロンティア三銃士 -三角 葵ソロver.-
+- 無敵のフロンティア三銃士 -九條 楓ソロver.-
+- 無敵のフロンティア三銃士 -日向 千夏ソロver.-
+- Ruler Count, Zero -九條 楓ソロver.-
+- Ruler Count, Zero -珠洲島 有栖ソロver.-
+- Ruler Count, Zero -逢坂 茜ソロver.-
+- Splash Dance!! -井之原 小星ソロver.-
+- Splash Dance!! -日向 千夏ソロver.-
+- Splash Dance!! -星咲 あかりソロver.-
+- Splash Dance!! -桜井 春菜ソロver.-
+- Splash Dance!! -高瀬 梨緒ソロver.-
+- Starring Stars -三角 葵ソロver.-
+- Starring Stars -星咲 あかりソロver.-
+- Starring Stars -藤沢 柚子ソロver.-
+- ポケットからぬりつぶせ！ -日向 千夏ソロver.-
+- ポケットからぬりつぶせ！ -東雲 つむぎソロver.-
+- ポケットからぬりつぶせ！ -柏木 美亜ソロver.-
+- めんどーい！やっほーい！ともだち！  -井之原 小星ソロver.-
+- めんどーい！やっほーい！ともだち！  -柏木 咲姫ソロver.-
+- Kiss Me Kiss -早乙女 彩華ソロver.-
+- Kiss Me Kiss -桜井 春菜ソロver.-
+- Let's Starry Party！ -結城 莉玖ソロver.-
+- Let's Starry Party！ -藍原 椿ソロver.-
+- Let's Starry Party！ -高瀬 梨緒ソロver.-
+- Red and Blue and Green
+- STARTLINER -三角 葵ソロver.-
+- STARTLINER -星咲 あかりソロver.-
+- STARTLINER -藤沢 柚子ソロver.-
+- My First Phone
+- セガサターン起動音\[H.\]\[Remix\]
 - ADAMAS
 - Brave Song
 - Crow Song
@@ -467,15 +703,62 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 - Star Divine
 - The Everlasting Guilty Crown
 - お願い☆My Boy
-- ただ君に晴れ
 - スタートライン
 - セカイのヒミツ
+- ただ君に晴れ
 - トーキョーゲットー
 - 徒花ネクロマンシー
 - 星のダイアローグ
 - 星屑☆シーカー
-- 透明声彩
 - 緋蜂
+- 透明声彩
+- DreamRiser
+- fantastic dreamer
+- Grand symphony
+- Hand in Hand
+- High Free Spirits
+- only my railgun
+- Paradise Lost
+- Redo
+- Rising Hope
+- sister's noise
+- カンペキWill
+- ですのっ！White & Black
+- メニメニマニマニ
+- 怒槌～光吉猛修一部謎～
+- 極上スマイル
+- 流星
+- 終わりの先の音節
+- 超電磁少女Days
+- BLACK SHOUT
+- CiRCLING
+- God knows...
+- Hey-day狂騒曲（カプリチオ）
+- Link of Destiny
+- Link with U
+- Love is MY RAIL
+- No Remorse
+- Opera of the wasteland
+- Red “reduction division” -crossroads version-
+- Red Battle
+- SAKURA
+- SAVIOR OF SONG
+- secret base ～君がくれたもの～ (10 years after Ver.)
+- STEP by STEP UP↑↑↑↑
+- That Is How I Roll!
+- This game
+- TOMORROW
+- えがおのオーケストラっ！
+- かくしん的☆めたまるふぉ～ぜっ!
+- ゴーカ！ごーかい！？ファントムシーフ！
+- しゅわりん☆どり〜みん
+- ときめきエクスペリエンス！
+- ファッとして桃源郷
+- ゆら・ゆらRing-Dong-Dance
+- ようこそジャパリパークへ
+- わたし音頭
+- 君の知らない物語
+- 連れ去って・閉じ込めて・好きにして
 
 ## データの出典
 
