@@ -1,5 +1,5 @@
 ---
-title: "2022/08/04 難易度改定に伴う譜面定数反映のお知らせ（最終更新: 2022/08/07 0:28）"
+title: "2022/08/04 難易度改定に伴う譜面定数反映のお知らせ（最終更新: 2022/08/10 0:20）"
 date: 2022-08-04T04:55:52+09:00
 draft: false
 
@@ -21,6 +21,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 |:-:|:-:|
 | 2022/08/06 5:13 | [Link](https://github.com/project-primera/project-primera.github.io/commit/021331158cf268baf327502a20e6795b61419a91) |
 | 2022/08/07 0:28 | [Link](https://github.com/project-primera/project-primera.github.io/commit/98356a3a83fab493e4fb63532c99abecbc31a68a) |
+| 2022/08/10 0:20 | [Link](https://github.com/project-primera/project-primera.github.io/commit/d558781714f92b5067a80a5477d461c87ec68af2) |
 
 ## 新規追加
 
