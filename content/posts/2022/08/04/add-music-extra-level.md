@@ -87,6 +87,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | グリーンライツ・セレナーデ | 13 | 13.4 |
 | からくりピエロ | 13 | 13.2 |
 | STARTLINER | 12+ | 12.8 |
+| STARRED HEART | 11 | 11.2 |
 
 ### Master
 
@@ -139,6 +140,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | オートファジー | 13+ | 13.8 |
 | サイハテ | 13+ | 13.8 |
 | まりもとおもちゃ箱 | 13+ | 13.8 |
+| 夢花火 | 13+ | 13.7 |
 | Löschen | 13+ | 13.7 |
 | ロッキンピンクモンスター (豚乙女ランコVo Ver.) | 13+ | 13.7 |
 | Vibes 2k20 (owl＊aging remix) | 13+ | 13.7 |
@@ -154,6 +156,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | New World | 13 | 13.4 |
 | REAL VOICE | 13 | 13.4 |
 | ミラクルペイント | 13 | 13.4 |
+| Paradisoda | 13 | 13.3 |
 | ヒストリー×ブレイカー | 13 | 13.3 |
 | Island Breeze | 13 | 13.3 |
 | Let Me Know (feat. Masayoshi Iimori) | 13 | 13.3 |
@@ -183,11 +186,18 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Departure | 12 | 12.6 |
 | ポジティブ☆ダンスタイム | 12 | 12.6 |
 | 無敵☆moment | 12 | 12.6 |
+| ビビッドヒーロー | 12 | 12.5 |
 | 空色メモリーズ | 12 | 12.5 |
 | 朝焼けプラットホーム | 12 | 12.4 |
 | Flower | 12 | 12.4 |
 | ランダムサンデー | 12 | 12.4 |
+| Girl's Party Planet! | 12 | 12.4 |
 | うまぴょい伝説 | 12 | 12.4 |
+| 涙隠しておんな道 | 12 | 12.3 |
+| 幽霊東京 | 12 | 12.2 |
+| 幽闇に目醒めしは | 12 | 12.1 |
+| Little Twinkle | 12 | 12.1 |
+| 青空コントレール | 11+ | 11.9 |
 
 #### Master > ベスト枠
 
@@ -711,6 +721,50 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | ゴーストルール | 12 | 12.2 |
 | 木彫り鯰と右肩ゾンビ | 12 | 12.2 |
 | 天空カフェテリア | 12 | 12.1 |
+| タイムマシン | 12 | 12.1 |
+| 五等分の気持ち | 12 | 12.1 |
+| NATSUKAGE-夏陰- | 12 | 12.1 |
+| 夏色花火 | 12 | 12.1 |
+| メーベル (self cover) | 12 | 12.1 |
+| どうぶつ☆パラダイス | 12 | 12.1 |
+| Colors | 12 | 12.1 |
+| 寒想桜 | 12 | 12.1 |
+| ヒビカセ | 12 | 12.1 |
+| White Magic Night! | 12 | 12.0 |
+| Happiness on the Table | 12 | 12.0 |
+| Snow Song Show | 12 | 12.0 |
+| エブリデイワールド | 12 | 12.0 |
+| 乙女解剖 | 12 | 12.0 |
+| メルト | 12 | 12.0 |
+| シャルル | 12 | 12.0 |
+| Tell Your World | 12 | 12.0 |
+| いーあるふぁんくらぶ | 12 | 12.0 |
+| Zest of Blue | 12 | 12.0 |
+| オモイヨシノ | 12 | 12.0 |
+| Grip & Break down !! | 12 | 12.0 |
+| Snow Fairy Story | 11+ | 11.9 |
+| Sentimental Snow | 11+ | 11.9 |
+| ＧＯ！ＧＯ！ラブリズム♥ | 11+ | 11.9 |
+| 千本桜 | 11+ | 11.9 |
+| おこちゃま戦争 | 11+ | 11.9 |
+| 天ノ弱 | 11+ | 11.9 |
+| Los! Los! Los! | 11+ | 11.9 |
+| ブレス・ユア・ブレス | 11+ | 11.8 |
+| タテマエと本心の大乱闘 | 11+ | 11.8 |
+| 回レ！雪月花 | 11+ | 11.8 |
+| シュガーソングとビターステップ | 11+ | 11.8 |
+| Hand in Hand | 11+ | 11.7 |
+| ブリキノダンス | 11+ | 11.7 |
+| 鳥の詩 | 11 | 11.6 |
+| みんな Happy!! | 11 | 11.5 |
+| Perfect Shining!! | 11 | 11.5 |
+| SmileAgain | 11 | 11.4 |
+| Cream+Mint | 11 | 11.4 |
+| First Twinkle | 11 | 11.4 |
+| 檄!帝国華撃団 | 11 | 11.4 |
+| なんどでも笑おう | 11 | 11.3 |
+| Lost Princess | 11 | 11.3 |
+| STARTLINER | 11 | 11.2 |
 
 ### Expert
 
@@ -736,7 +790,42 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Armageddon | 12 | 12.6 |
 | Cyaegha | 12 | 12.5 |
 | ゼーレンヴァンデルング | 12 | 12.5 |
+| FLUFFY FLASH (C-Show & Maozon Remix) | 12 | 12.5 |
+| Akasagarbha -reincarnate- | 12 | 12.4 |
+| Knocking Harder | 12 | 12.4 |
+| 8OROCHI | 12 | 12.4 |
+| Trrricksters!! | 12 | 12.3 |
 | Blows Up Everything | 12 | 12.3 |
+| Princesses Holiday | 12 | 12.3 |
+| Alea jacta est! | 12 | 12.3 |
+| Baqeela (Creepy Remix) | 12 | 12.2 |
+| YURUSHITE (LeaF Remix) | 12 | 12.2 |
+| 妖々跋扈 ～ Who done it！！！ | 12 | 12.1 |
+| Malicious Mischance | 12 | 12.0 |
+| U.N.オーエンは彼女なのか？ - Greater Scarlet | 11+ | 11.9 |
+| Vibes 2k20 (owl＊aging remix) | 11+ | 11.9 |
+| ICEBURN | 11+ | 11.9 |
+| Island Breeze | 11+ | 11.9 |
+| In Chaos | 11+ | 11.8 |
+| Electric Emotion | 11+ | 11.7 |
+| Löschen | 11 | 11.6 |
+| 音弾超人ゴリライザー | 11 | 11.6 |
+| ここからはじまるプロローグ。 | 11 | 11.5 |
+| 超前進！満点スマイル！ | 11 | 11.4 |
+| BLUE ZONE | 11 | 11.4 |
+| パラジクロロベンゼン | 11 | 11.4 |
+| ロッキンピンクモンスター (豚乙女ランコVo Ver.) | 11 | 11.2 |
+| タイガーランペイジ | 11 | 11.2 |
+| HEAVEN'S RAVE | 11 | 11.2 |
+| 夢を叶える場所 | 11 | 11.1 |
+| オートファジー | 11 | 11.1 |
+| まりもとおもちゃ箱 | 11 | 11.1 |
+| 神々が恋した幻想郷 | 11 | 11.1 |
+| とびだせ！TO THE COSMIC!! | 11 | 11.0 |
+| Memories of O.N.G.E.K.I. | 11 | 11.0 |
+| L'épilogue | 11 | 11.0 |
+| ヒストリー×ブレイカー | 11 | 11.0 |
+| Let Me Know (feat. Masayoshi Iimori) | 11 | 11.0 |
 
 #### Expert > ベスト枠
 
@@ -821,6 +910,119 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | インビジブル | 12 | 12.2 |
 | The wheel to the right | 12 | 12.2 |
 | 2112410403927243233368 | 12 | 12.1 |
+| DRAGONLADY | 12 | 12.1 |
+| Adverse Gaff | 12 | 12.1 |
+| Grievous Lady | 12 | 12.1 |
+| Jack-the-Ripper◆ | 12 | 12.1 |
+| Trinity Departure | 12 | 12.1 |
+| SILENT BLUE | 12 | 12.1 |
+| GEOMETRIC DANCE | 12 | 12.1 |
+| BABYLON | 12 | 12.0 |
+| Showguts | 12 | 12.0 |
+| Last Celebration | 12 | 12.0 |
+| ラクガキスト | 12 | 12.0 |
+| Daydreama | 12 | 12.0 |
+| PinqPiq (xovevox Remix) | 12 | 12.0 |
+| HONEY-Q | 12 | 12.0 |
+| Calamity Fortune | 12 | 12.0 |
+| ENERGY SYNERGY MATRIX | 11+ | 11.9 |
+| A Day in the Patisserie | 11+ | 11.9 |
+| ナイト・オブ・ナイツ (xi Remix) | 11+ | 11.9 |
+| Last Kingdom | 11+ | 11.9 |
+| World Vanquisher | 11+ | 11.9 |
+| FREEDOM DiVE (tpz Overcute Remix) | 11+ | 11.9 |
+| Secret Sleuth | 11+ | 11.8 |
+| c.s.q.n. | 11+ | 11.8 |
+| シャッキーーン！！ | 11+ | 11.8 |
+| Climax | 11+ | 11.8 |
+| DAWNBREAKER | 11+ | 11.8 |
+| Sparkle | 11+ | 11.8 |
+| エンドマークに希望と涙を添えて | 11+ | 11.8 |
+| ニニ | 11+ | 11.7 |
+| LUNA DIAL -Version X-SAKUYA- | 11+ | 11.7 |
+| 四月の雨 | 11+ | 11.7 |
+| Ruler Count, Zero | 11+ | 11.7 |
+| LiftOff | 11+ | 11.7 |
+| Lostwizz | 11+ | 11.7 |
+| felys -final remix- | 11+ | 11.7 |
+| ウサテイ | 11+ | 11.7 |
+| Touch and Go | 11+ | 11.7 |
+| 初音ミクの消失 | 11+ | 11.7 |
+| カミサマネジマキ | 11+ | 11.7 |
+| 7thSense | 11+ | 11.7 |
+| CO5M1C R4ILR0AD | 11 | 11.6 |
+| U ARE | 11 | 11.6 |
+| 僕たちの旅とエピローグ。 | 11 | 11.6 |
+| Satori ～3rd EyEs (2020 Recall) | 11 | 11.6 |
+| Oshama Scramble! (Cranky Remix) | 11 | 11.6 |
+| 撩乱乙女†無双劇 | 11 | 11.6 |
+| Dreadnought | 11 | 11.6 |
+| Imperishable Night 2006 (2016 Refine) | 11 | 11.6 |
+| Lazy Addiction | 11 | 11.6 |
+| エピトゥリカの祀 | 11 | 11.5 |
+| Random Access Emotions | 11 | 11.5 |
+| Singularity | 11 | 11.5 |
+| ヤミツキ | 11 | 11.5 |
+| All Right! | 11 | 11.5 |
+| 花たちに希望を | 11 | 11.5 |
+| アマツカミ | 11 | 11.5 |
+| Radiance | 11 | 11.5 |
+| folern | 11 | 11.5 |
+| GOODRAGE | 11 | 11.5 |
+| CHOCOLATE BOMB!!!! | 11 | 11.4 |
+| Elusive Emotes | 11 | 11.4 |
+| ゲーミングポーラーベア | 11 | 11.4 |
+| Dement ～after legend～ | 11 | 11.4 |
+| Paradisus-Paradoxum | 11 | 11.4 |
+| Bad Apple!! feat.nomico (Camellia’s “Bad Psy” Remix) | 11 | 11.4 |
+| Singularity | 11 | 11.4 |
+| Daredevil Glaive | 11 | 11.4 |
+| カナリア | 11 | 11.4 |
+| 迷える音色は恋の唄 | 11 | 11.4 |
+| Iudicium “Apocalypsis Mix” | 11 | 11.4 |
+| Destr0yer | 11 | 11.4 |
+| 疾走あんさんぶる | 11 | 11.4 |
+| Baqeela | 11 | 11.4 |
+| conflict | 11 | 11.4 |
+| Party 4U ''holy nite mix'' | 11 | 11.3 |
+| 初音天地開闢神話 | 11 | 11.3 |
+| 断罪は遍く人間の元に | 11 | 11.3 |
+| 天狗の落とし文 feat. ｙｔｒ | 11 | 11.3 |
+| イカサマライフゲイム | 11 | 11.3 |
+| BOKUTO | 11 | 11.3 |
+| 裏表ラバーズ | 11 | 11.3 |
+| 人生リセットボタン | 11 | 11.3 |
+| アンハッピーリフレイン | 11 | 11.3 |
+| 電脳少女は歌姫の夢を見るか？ | 11 | 11.2 |
+| Skip & Smile!! | 11 | 11.2 |
+| ジャンキーナイトタウンオーケストラ | 11 | 11.2 |
+| 夜咄ディセイブ | 11 | 11.2 |
+| ロストワードクロニカル | 11 | 11.2 |
+| fulgente (flip-side color mix) | 11 | 11.2 |
+| Death Doll | 11 | 11.2 |
+| Hyper Active | 11 | 11.2 |
+| Cutter | 11 | 11.1 |
+| Phantom Joke | 11 | 11.1 |
+| 深海のリトルクライ feat. 土岐麻子 | 11 | 11.1 |
+| 物凄い狂っとるフランちゃんが物凄いうた | 11 | 11.1 |
+| Doll Judgment | 11 | 11.1 |
+| Suspiro | 11 | 11.0 |
+| いつか花咲くその前に | 11 | 11.0 |
+| 天つ風 | 11 | 11.0 |
+| 足立オウフwwww | 11 | 11.0 |
+| おやすみのうた | 11 | 11.0 |
+| give it up to you | 11 | 11.0 |
+| STARRED HEART | 11 | 11.0 |
+| Burning Steel Inferno | 11 | 11.0 |
+| アンノウン・マザーグース | 11 | 11.0 |
+| Summer is over | 11 | 11.0 |
+| Honey Bear | 11 | 11.0 |
+| Change Our MIRAI！ (Our 7 Lights) | 11 | 11.0 |
+| こどものしくみ | 11 | 11.0 |
+| 患部で止まってすぐ溶ける～狂気の優曇華院 | 11 | 11.0 |
+| Ai Nov | 11 | 11.0 |
+| AMAZING MIGHTYYYY!!!! | 11 | 11.0 |
+| 初音ミクの激唱 | 11 | 11.0 |
 
 ## レーティング対象外
 
