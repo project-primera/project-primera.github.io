@@ -1,5 +1,5 @@
 ---
-title: "2022/08/04 難易度改定に伴う譜面定数反映のお知らせ（最終更新: 2022/09/02 2:59）"
+title: "2022/08/04 難易度改定に伴う譜面定数反映のお知らせ（最終更新: 2022/10/31 2:40）"
 date: 2022-08-04T04:55:52+09:00
 draft: false
 
@@ -24,6 +24,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | 2022/08/10 0:20 | [Link](https://github.com/project-primera/project-primera.github.io/commit/d558781714f92b5067a80a5477d461c87ec68af2) |
 | 2022/08/19 0:40 | [Link](https://github.com/project-primera/project-primera.github.io/commit/2c6ad51c9e82237f80f44fa1873907963b0086fa) |
 | 2022/09/02 2:59 | [Link](https://github.com/project-primera/project-primera.github.io/commit/f6117fa83a0c9ade15c4c129955c1a4cf9ac1bac) |
+| 2022/10/31 2:40 | [Link](https://github.com/project-primera/project-primera.github.io/commit/...) |
 
 ## 新規追加
 
@@ -38,6 +39,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | 怨撃 | 15 | 15.0 |
 | GODLINESS | 14+ | 14.9 |
 | P！P！P！P！がおー!! | 14+ | 14.7 |
+| Halcyon | 14+ | 14.7 |
 | まっすぐ→→→ストリーム！ | 14 | 14.6 |
 | What color... | 14 | 14.5 |
 | トリドリ⇒モリモリ！Lovely fruits☆ | 14 | 14.2 |
@@ -51,6 +53,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | GAME IS LIFE | 13+ | 13.8 |
 | みんな Happy!! | 13+ | 13.8 |
 | Perfect Shining!! | 13+ | 13.8 |
+| シュガーソングとビターステップ | 13+ | 13.8 |
 | Ἀταραξία | 13+ | 13.7 |
 | うまぴょい伝説 | 13+ | 13.7 |
 | Starring Stars | 13+ | 13.7 |
@@ -103,6 +106,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | 光焔のラテラルアーク | 15 | 15.3 |
 | MarbleBlue. | 15 | 15.3 |
 | Stardust:RAY | 15 | 15.2 |
+| 宿星審判 | 15 | 15.1 |
 | Op.I《fear-TITΛN-》 | 15 | 15.1 |
 | オンソクデイズ!! | 14+ | 14.9 |
 | FREEDOM DiVE | 14+ | 14.9 |
@@ -112,6 +116,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | In Chaos | 14+ | 14.7 |
 | Final Flash Flight | 14+ | 14.7 |
 | Alea jacta est! | 14+ | 14.7 |
+| Caliburne ～Story of the Legendary sword～ | 14 | 14.6 |
 | Diamond Dust -crystal piano Arr.- | 14 | 14.6 |
 | ゼーレンヴァンデルング | 14 | 14.6 |
 | 妖々跋扈 ～ Who done it！！！ | 14 | 14.6 |
@@ -126,6 +131,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | U.N.オーエンは彼女なのか？ - Greater Scarlet | 14 | 14.3 |
 | Baqeela (Creepy Remix) | 14 | 14.3 |
 | BLUE ZONE | 14 | 14.2 |
+| 宙の隣 | 14 | 14.1 |
 | Blows Up Everything | 14 | 14.1 |
 | YURUSHITE (LeaF Remix) | 14 | 14.1 |
 | Knocking Harder | 14 | 14.1 |
@@ -133,6 +139,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Princesses Holiday | 14 | 14.0 |
 | ICEBURN | 14 | 14.0 |
 | 神々が恋した幻想郷 | 14 | 14.0 |
+| C & B | 13+ | 13.9 |
 | Cyaegha | 13+ | 13.9 |
 | 音弾超人ゴリライザー | 13+ | 13.9 |
 | Electric Emotion | 13+ | 13.9 |
@@ -148,7 +155,9 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | ロッキンピンクモンスター (豚乙女ランコVo Ver.) | 13+ | 13.7 |
 | Vibes 2k20 (owl＊aging remix) | 13+ | 13.7 |
 | So much loving you★ -DIVA Edit- | 13+ | 13.7 |
+| YO-KAI Disco | 13+ | 13.7 |
 | HEAVEN'S RAVE | 13+ | 13.7 |
+| ユメキキョウ | 13 | 13.6 |
 | 卑怯戦隊うろたんだー | 13 | 13.6 |
 | UTOPIA CRASH | 13 | 13.6 |
 | Butterfly Wave | 13 | 13.6 |
@@ -169,6 +178,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Over the Border | 13 | 13.2 |
 | キュアリアス光吉古牌　－祭－ | 13 | 13.2 |
 | サンダーライン | 13 | 13.1 |
+| はちみつアドベンチャー | 13 | 13.0 |
 | HEADLINER | 13 | 13.0 |
 | Magic | 13 | 13.0 |
 | Geki Geki!! 激闘Break Out!! | 13 | 13.0 |
@@ -182,6 +192,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | イルミネーション | 12+ | 12.8 |
 | ロング・スロー・アライブ | 12+ | 12.8 |
 | HELLO,SOFMAP WORLD | 12+ | 12.8 |
+| FestivaLight | 12+ | 12.7 |
 | ワガママMIRROR HEART | 12+ | 12.7 |
 | 回転 feat.あやぽんず＊ | 12+ | 12.7 |
 | 金木犀 feat.Ado | 12+ | 12.7 |
@@ -780,6 +791,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | μ3 | 14 | 14.3 |
 | 光焔のラテラルアーク | 14 | 14.0 |
 | Selenadia | 13+ | 13.9 |
+| 宿星審判 | 13+ | 13.8 |
 | Stardust:RAY | 13+ | 13.8 |
 | Op.I《fear-TITΛN-》 | 13+ | 13.7 |
 | しとしとと | 13 | 13.5 |
@@ -790,6 +802,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | オンソクデイズ!! | 13 | 13.0 |
 | Tempestissimo | 12+ | 12.8 |
 | Final Flash Flight | 12+ | 12.8 |
+| Caliburne ～Story of the Legendary sword～ | 12+ | 12.7 |
 | Diamond Dust -crystal piano Arr.- | 12+ | 12.7 |
 | Armageddon | 12 | 12.6 |
 | ハードコア・シンドローム | 12 | 12.5 |
@@ -806,7 +819,9 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Baqeela (Creepy Remix) | 12 | 12.2 |
 | YURUSHITE (LeaF Remix) | 12 | 12.2 |
 | 妖々跋扈 ～ Who done it！！！ | 12 | 12.1 |
+| C & B | 12 | 12.0 |
 | Malicious Mischance | 12 | 12.0 |
+| 宙の隣 | 11+ | 11.9 |
 | U.N.オーエンは彼女なのか？ - Greater Scarlet | 11+ | 11.9 |
 | Vibes 2k20 (owl＊aging remix) | 11+ | 11.9 |
 | ICEBURN | 11+ | 11.9 |
@@ -815,10 +830,12 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Electric Emotion | 11+ | 11.7 |
 | Löschen | 11 | 11.6 |
 | 音弾超人ゴリライザー | 11 | 11.6 |
+| YO-KAI Disco | 11 | 11.6 |
 | ここからはじまるプロローグ。 | 11 | 11.5 |
 | 超前進！満点スマイル！ | 11 | 11.4 |
 | BLUE ZONE | 11 | 11.4 |
 | パラジクロロベンゼン | 11 | 11.4 |
+| Paradisoda | 11 | 11.3 |
 | ロッキンピンクモンスター (豚乙女ランコVo Ver.) | 11 | 11.2 |
 | タイガーランペイジ | 11 | 11.2 |
 | HEAVEN'S RAVE | 11 | 11.2 |
@@ -831,6 +848,9 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | L'épilogue | 11 | 11.0 |
 | ヒストリー×ブレイカー | 11 | 11.0 |
 | Let Me Know (feat. Masayoshi Iimori) | 11 | 11.0 |
+| 夢花火 | 10+ | 10.7 |
+| はちみつアドベンチャー | 10 | 10.4 |
+| FestivaLight | 10 | 10.0 |
 
 #### Expert > ベスト枠
 
@@ -1152,6 +1172,24 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | Oshama Scramble! | 10 | 10.0 |
 | Destiny Runner | 10 | 10.0 |
 | 脳漿炸裂ガール | 10 | 10.0 |
+
+### Advanced
+
+#### Advanced > 新曲枠
+
+| 曲名 | レベル | 譜面定数 |
+|:-:|:-:|:-:|
+| Recollect Lines | 12 | 12.5 |
+| μ3 | 11 | 11.4 |
+
+#### Advanced > ベスト枠
+
+| 曲名 | レベル | 譜面定数 |
+|:-:|:-:|:-:|
+| Apollo | 10 | 10.4 |
+| Magical Panic Adventure | 10 | 10.0 |
+| LAMIA | 10 | 10.0 |
+| 脳天直撃 | 10 | 10.0 |
 
 ## レーティング対象外
 
