@@ -24,7 +24,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 | 2022/08/10 0:20 | [Link](https://github.com/project-primera/project-primera.github.io/commit/d558781714f92b5067a80a5477d461c87ec68af2) |
 | 2022/08/19 0:40 | [Link](https://github.com/project-primera/project-primera.github.io/commit/2c6ad51c9e82237f80f44fa1873907963b0086fa) |
 | 2022/09/02 2:59 | [Link](https://github.com/project-primera/project-primera.github.io/commit/f6117fa83a0c9ade15c4c129955c1a4cf9ac1bac) |
-| 2022/10/31 2:40 | [Link](https://github.com/project-primera/project-primera.github.io/commit/...) |
+| 2022/10/31 2:40 | [Link](https://github.com/project-primera/project-primera.github.io/commit/9be82f4063edf093b79a7f2bd4570f7070878cef) |
 
 ## 新規追加
 
