@@ -41,7 +41,8 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 {{< twitter_profile id="RCMF_ongeki" >}}
 
-（順不同　敬称略）  
+<!-- （順不同　敬称略）   -->
+（敬称略）  
 ご提供いただき誠にありがとうございます。
 
 引き続きOngekiScoreLogをよろしくお願いいたします。
