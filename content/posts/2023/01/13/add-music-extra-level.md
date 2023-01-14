@@ -24,7 +24,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 | 曲名 | レベル | 譜面定数 |
 |:-:|:-:|:-:|
-| Starry Colors | 14 | 14.0 |
+| Starry Colors | 14 | 14.3 |
 | ヴァンパイア | 12+ | 12.8 |
 
 ### Expert
@@ -40,9 +40,9 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 ## データの提供者
 
 {{< twitter_profile id="RCMF_ongeki" >}}
+{{< twitter_profile id="Sheile" >}}
 
-<!-- （順不同　敬称略）   -->
-（敬称略）  
+（順不同　敬称略）  
 ご提供いただき誠にありがとうございます。
 
 引き続きOngekiScoreLogをよろしくお願いいたします。
