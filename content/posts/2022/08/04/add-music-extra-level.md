@@ -1339,7 +1339,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 ## データの提供者
 
-メインフレームの皆様（{{< twitter_profile id="RCMF_ongeki" >}} / オンゲキ代表: {{< twitter_profile id="46189_ext" >}}）  
+メインフレームの皆様（{{< twitter_profile id="ongeki_level" >}} / オンゲキ代表: {{< twitter_profile id="46189_ext" >}}）  
 調査にご協力いただきました皆様
 
 ご調査、ご提供いただき誠にありがとうございます。  

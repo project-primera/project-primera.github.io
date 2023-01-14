@@ -39,7 +39,7 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 ## データの提供者
 
-{{< twitter_profile id="RCMF_ongeki" >}}
+{{< twitter_profile id="ongeki_level" >}}
 {{< twitter_profile id="Sheile" >}}
 
 （順不同　敬称略）  
