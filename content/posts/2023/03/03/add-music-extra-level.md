@@ -1,7 +1,7 @@
 ---
 title: "譜面定数反映のお知らせ（2023-03-03）"
 date: 2023-03-03T00:31:00+09:00
-draft: true
+draft: false
 
 tags: ["譜面定数反映"]
 categories: ["OngekiScoreLog"]
