@@ -44,9 +44,9 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 ## データの提供者
 
-{{< twitter_profile id="tos" >}}
+{{< twitter_profile id="ongeki_level" >}}
 
-（順不同　敬称略）  
+（敬称略）  
 ご提供いただき誠にありがとうございます。
 
 引き続きOngekiScoreLogをよろしくお願いいたします。
