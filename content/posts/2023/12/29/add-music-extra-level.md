@@ -35,18 +35,13 @@ OngekiScoreLogをいつもご利用いただきましてありがとうござい
 
 ## データの出典
 
-{{< tweet 1334542969530183683 >}}
+{{< tweet 1740356602086269225 >}}
 
 ## データの提供者
 
-{{< twitter_profile id="tos" >}}
+{{< twitter_profile id="ongeki_level" >}}
 
 （順不同　敬称略）  
 ご提供いただき誠にありがとうございます。
 
 引き続きOngekiScoreLogをよろしくお願いいたします。
-
-<!--
-
-
--->
